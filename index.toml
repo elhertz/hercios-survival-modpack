@@ -1,0 +1,15 @@
+hash-format = "sha256"
+
+[[files]]
+file = "mods/fabric-api.toml"
+hash = "baa5f09833d49dc154e01e76be9515c4e1ae7757a2d78415eeb220b34a97db93"
+metafile = true
+
+[[files]]
+file = "mods/image2map.toml"
+hash = "7c287d6e362712a352c52700e5bbe057058712f8871ff4c1562999ea254f6c9b"
+metafile = true
+
+[[files]]
+file = "packwiz.exe"
+hash = "1a109b62fbf932fd8a01a31441b9f7a23448b713eef0c21e93c5afdce7badfc9"

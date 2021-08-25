@@ -1,0 +1,12 @@
+name = "hercios-survival"
+author = "hertz"
+version = "0.1"
+
+[index]
+file = "index.toml"
+hash-format = "sha256"
+hash = "818a8d7d2b25d910f3ffab419eaf3a4b7902196fe2ed2018d39fe69f0d7505cf"
+
+[versions]
+fabric = "0.11.6"
+minecraft = "1.17.1"

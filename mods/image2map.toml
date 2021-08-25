@@ -1,0 +1,14 @@
+name = "Image2Map"
+filename = "image2map-0.2.1.jar"
+side = "both"
+
+[download]
+url = "https://edge.forgecdn.net/files/3384/105/image2map-0.2.1.jar"
+hash-format = "murmur2"
+hash = "3860754705"
+
+[update]
+[update.curseforge]
+file-id = 3384105
+project-id = 403656
+release-channel = "beta"
