@@ -1,6 +1,11 @@
 hash-format = "sha256"
 
 [[files]]
+file = "mods/better-signs-and-frames.toml"
+hash = "0741b83d31f907c0e1e09e15100dfb25c29d1f804556af13fa7cc1a3424223e5"
+metafile = true
+
+[[files]]
 file = "mods/fabric-api.toml"
 hash = "baa5f09833d49dc154e01e76be9515c4e1ae7757a2d78415eeb220b34a97db93"
 metafile = true
