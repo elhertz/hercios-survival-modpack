@@ -14,3 +14,8 @@ metafile = true
 file = "mods/invisible-frames.toml"
 hash = "4d3772f766297e32a9d8a0c50a1c643dcee146654585519f7572e057cb557670"
 metafile = true
+
+[[files]]
+file = "mods/modmenu.toml"
+hash = "a413493d51b2c84b8630b9f09c87282cfcd6deaaba85836326a75e7c84c5df31"
+metafile = true
