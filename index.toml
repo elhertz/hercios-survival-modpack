@@ -11,6 +11,41 @@ hash = "baa5f09833d49dc154e01e76be9515c4e1ae7757a2d78415eeb220b34a97db93"
 metafile = true
 
 [[files]]
+file = "mods/fabrictailor.toml"
+hash = "91a521d7f6faa85346ec7ce893ccd9404e45ba9e36e69251669817e55d47ee25"
+metafile = true
+
+[[files]]
+file = "mods/indium.toml"
+hash = "2e64535aee940e97bfd8b494972547b8ae3c7e1785b16f4863c970d32aceb024"
+metafile = true
+
+[[files]]
 file = "mods/invisible-frames.toml"
 hash = "4d3772f766297e32a9d8a0c50a1c643dcee146654585519f7572e057cb557670"
+metafile = true
+
+[[files]]
+file = "mods/lazydfu.toml"
+hash = "da1b3ee71d9ed1f17da4c85ca3da39af3e49fcc5bb032689613c4e00fc587a40"
+metafile = true
+
+[[files]]
+file = "mods/sodium-extra.toml"
+hash = "318293bd9c366d5ca122ad36fa613bf831692627023f5807b0bbf96df58d3bdf"
+metafile = true
+
+[[files]]
+file = "mods/sodium.toml"
+hash = "e3d60efc428887077d130ca7ec6d1259a9d0240d035d22eee2802555d2a1ded4"
+metafile = true
+
+[[files]]
+file = "mods/xaeros-minimap.toml"
+hash = "cdfe09fad2c663d9164a6b8bf927c0f105c429e24a138b71ca7af13929ea1e94"
+metafile = true
+
+[[files]]
+file = "mods/xaeros-world-map.toml"
+hash = "c20ad703a7f25af4d493c2dd9b795f2a0b4a564513613e7601eca8d4363c9828"
 metafile = true
