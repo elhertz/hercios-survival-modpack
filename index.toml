@@ -31,6 +31,11 @@ hash = "da1b3ee71d9ed1f17da4c85ca3da39af3e49fcc5bb032689613c4e00fc587a40"
 metafile = true
 
 [[files]]
+file = "mods/modmenu.toml"
+hash = "a413493d51b2c84b8630b9f09c87282cfcd6deaaba85836326a75e7c84c5df31"
+metafile = true
+
+[[files]]
 file = "mods/sodium-extra.toml"
 hash = "318293bd9c366d5ca122ad36fa613bf831692627023f5807b0bbf96df58d3bdf"
 metafile = true
