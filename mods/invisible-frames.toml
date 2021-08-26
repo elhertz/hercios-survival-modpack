@@ -1,0 +1,14 @@
+name = "Invisible Frames"
+filename = "invisframes-2.1.0.jar"
+side = "both"
+
+[download]
+url = "https://edge.forgecdn.net/files/3420/159/invisframes-2.1.0.jar"
+hash-format = "murmur2"
+hash = "159741012"
+
+[update]
+[update.curseforge]
+file-id = 3420159
+project-id = 406787
+release-channel = "beta"
