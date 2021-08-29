@@ -327,7 +327,7 @@ metafile = true
 
 [[files]]
 file = "mods/female-gender-fabric.toml"
-hash = "6f59b13df894e74f97fd25b74f5a2400118b30f231f487ccdf570d1e53d21a68"
+hash = "68e32f180d3ea5148ba0c985ad5c5ab6a6694ffad2a9cc0325887ae3703508b8"
 metafile = true
 
 [[files]]
@@ -432,7 +432,7 @@ metafile = true
 
 [[files]]
 file = "mods/magic-mirror.toml"
-hash = "70e377f2db46859918e6f834c63e75ebf6d35fa763cf3fc44f09912e48013f5a"
+hash = "cd8f15d53600201394dbce7086ac6001c92d25cd69c4cea73cb77f60d86e8bdf"
 metafile = true
 
 [[files]]
