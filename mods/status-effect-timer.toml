@@ -1,0 +1,14 @@
+name = "Status Effect Timer"
+filename = "statuseffecttimer-1.0.3.jar"
+side = "both"
+
+[download]
+url = "https://edge.forgecdn.net/files/3391/121/statuseffecttimer-1.0.3.jar"
+hash-format = "murmur2"
+hash = "602802340"
+
+[update]
+[update.curseforge]
+file-id = 3391121
+project-id = 484738
+release-channel = "beta"

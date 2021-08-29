@@ -1,0 +1,14 @@
+name = "Art of Alchemy: Memoriam"
+filename = "artofalchemy-1.2.0-beta+1.17.1.jar"
+side = "both"
+
+[download]
+url = "https://edge.forgecdn.net/files/3395/805/artofalchemy-1.2.0-beta+1.17.1.jar"
+hash-format = "murmur2"
+hash = "13395511"
+
+[update]
+[update.curseforge]
+file-id = 3395805
+project-id = 415339
+release-channel = "beta"

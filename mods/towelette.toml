@@ -1,0 +1,14 @@
+name = "Towelette"
+filename = "Towelette-4.2.2+1.14.4-1.17.1.jar"
+side = "both"
+
+[download]
+url = "https://edge.forgecdn.net/files/3398/761/Towelette-4.2.2+1.14.4-1.17.1.jar"
+hash-format = "murmur2"
+hash = "3764146213"
+
+[update]
+[update.curseforge]
+file-id = 3398761
+project-id = 309338
+release-channel = "beta"

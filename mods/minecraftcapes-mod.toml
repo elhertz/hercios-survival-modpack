@@ -1,0 +1,14 @@
+name = "MinecraftCapes Mod"
+filename = "MinecraftCapes Fabric 1.17.1-11.0.1.jar"
+side = "both"
+
+[download]
+url = "https://edge.forgecdn.net/files/3409/502/MinecraftCapes Fabric 1.17.1-11.0.1.jar"
+hash-format = "murmur2"
+hash = "3957189821"
+
+[update]
+[update.curseforge]
+file-id = 3409502
+project-id = 359836
+release-channel = "beta"

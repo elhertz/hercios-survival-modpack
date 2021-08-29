@@ -1,0 +1,14 @@
+name = "Illegal Substances That You Should Not Do In Real Life Craft"
+filename = "illegal-substances-that-you-should-not-do-in-real-life-craft-1.0.0.jar"
+side = "both"
+
+[download]
+url = "https://edge.forgecdn.net/files/3346/181/illegal-substances-that-you-should-not-do-in-real-life-craft-1.0.0.jar"
+hash-format = "murmur2"
+hash = "891883360"
+
+[update]
+[update.curseforge]
+file-id = 3346181
+project-id = 492725
+release-channel = "beta"

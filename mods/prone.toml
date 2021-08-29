@@ -1,0 +1,13 @@
+name = "prone"
+filename = "prone-0.1.4.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/R9W7uszB/versions/0.1.4/prone-0.1.4.jar"
+hash-format = "sha512"
+hash = "8c8b3f4c9c94f88a2b91c72c2c6fb6da1899890eea079e3e2253d0f2435b1d8046ce6f99ec149723ce46f66acf5d99d251bdc1ba50d0b005afacada51cc6b602"
+
+[update]
+[update.modrinth]
+mod-id = "R9W7uszB"
+version = "VxesILMF"

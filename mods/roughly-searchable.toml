@@ -1,0 +1,13 @@
+name = "Roughly Searchable"
+filename = "roughly-searchable-2.2.0+1.17.1.jar"
+side = "client"
+
+[download]
+url = "https://cdn.modrinth.com/data/njGhQ4fN/versions/4.0.0/roughly-searchable-2.2.0+1.17.1.jar"
+hash-format = "sha512"
+hash = "194c8cbc688faf6862d63ceaaadd0f76aa8d4fc29c39e1c6db0ac8a3b0e717c4c534c1d33c758bbdaea0fc2d966b7b72b3f20a9217f42904202ea60a13edab7c"
+
+[update]
+[update.modrinth]
+mod-id = "njGhQ4fN"
+version = "V7McpdKB"

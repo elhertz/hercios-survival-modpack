@@ -1,0 +1,13 @@
+name = "ParadoxSlabs"
+filename = "paradox-slabs-0.1.1.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/MxPkW0zr/versions/0.1.1/paradox-slabs-0.1.1.jar"
+hash-format = "sha512"
+hash = "a748f6dae320d570b1eb15ed7a625ce8b46f032d05655c7628ebc220aaf9e4bdc04354151d73bf534756a7cf96a3032ce7f73a1d3a231433ee27a4a05ec83d0d"
+
+[update]
+[update.modrinth]
+mod-id = "MxPkW0zr"
+version = "gMH1HOAC"

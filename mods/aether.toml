@@ -1,0 +1,14 @@
+name = "The Aether Reborn"
+filename = "aether-1.17.1-1.5.0.jar"
+side = "both"
+
+[download]
+url = "https://edge.forgecdn.net/files/3380/386/aether-1.17.1-1.5.0.jar"
+hash-format = "murmur2"
+hash = "1745744106"
+
+[update]
+[update.curseforge]
+file-id = 3380386
+project-id = 418680
+release-channel = "beta"

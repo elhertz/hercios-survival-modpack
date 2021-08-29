@@ -1,0 +1,14 @@
+name = "Modern Glass Doors"
+filename = "glassdoor-1.5.0-1.17.jar"
+side = "both"
+
+[download]
+url = "https://edge.forgecdn.net/files/3351/82/glassdoor-1.5.0-1.17.jar"
+hash-format = "murmur2"
+hash = "703377044"
+
+[update]
+[update.curseforge]
+file-id = 3351082
+project-id = 326641
+release-channel = "beta"

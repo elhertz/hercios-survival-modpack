@@ -1,0 +1,14 @@
+name = "Grind Enchantments"
+filename = "grind-enchantments-1.2.1+1.17.jar"
+side = "both"
+
+[download]
+url = "https://edge.forgecdn.net/files/3363/657/grind-enchantments-1.2.1+1.17.jar"
+hash-format = "murmur2"
+hash = "4090250610"
+
+[update]
+[update.curseforge]
+file-id = 3363657
+project-id = 379680
+release-channel = "beta"
