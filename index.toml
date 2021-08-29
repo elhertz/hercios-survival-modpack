@@ -71,11 +71,6 @@ hash = "cb3f10b6b0c0d53c0616bb326c04e58fab6418039f71fe8cb171529f7595c5b4"
 metafile = true
 
 [[files]]
-file = "mods/bedrockify.toml"
-hash = "8092fe1bc13d7781f8ef4f8c7964b23cabf537edc101d4a1c1cc746f8bb4184b"
-metafile = true
-
-[[files]]
 file = "mods/beehivetooltips.toml"
 hash = "9943ab1aa72365b7016e426b5168359feccec305e36fe85428b7df279d31ad0e"
 metafile = true
@@ -223,11 +218,6 @@ metafile = true
 [[files]]
 file = "mods/decorative.toml"
 hash = "d29c3c7ae2e6587ccf6bf17f2501e8d4ca317b9531c4c8e6fd60bc357a070589"
-metafile = true
-
-[[files]]
-file = "mods/doggo-mod.toml"
-hash = "d688e4ff04409a42a7cd5025085c50158d84202142c58434470af9d5e9b04f32"
 metafile = true
 
 [[files]]
@@ -658,6 +648,11 @@ metafile = true
 [[files]]
 file = "mods/window-title-changer.toml"
 hash = "9d02b20f1f28dfce4a1e60a3dd312a3e2b943f6988b348e33b938f79d7d01165"
+metafile = true
+
+[[files]]
+file = "mods/wolves-with-armor.toml"
+hash = "385f1af497cdc6535a3b1edef3d84da5935d5057f58897cef2766ab500d80b76"
 metafile = true
 
 [[files]]
