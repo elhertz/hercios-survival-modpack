@@ -326,6 +326,11 @@ hash = "91a521d7f6faa85346ec7ce893ccd9404e45ba9e36e69251669817e55d47ee25"
 metafile = true
 
 [[files]]
+file = "mods/female-gender-fabric.toml"
+hash = "6f59b13df894e74f97fd25b74f5a2400118b30f231f487ccdf570d1e53d21a68"
+metafile = true
+
+[[files]]
 file = "mods/ferrite-core.toml"
 hash = "148a62eb8129c44bd2b1c4df997e1d2b1007e44f78fed26aebea603240551620"
 metafile = true
@@ -423,6 +428,11 @@ metafile = true
 [[files]]
 file = "mods/lovely_snails.toml"
 hash = "c76312c31c8f8960cfadeba896d669760499b9b1bee7e826276c16d0e30f5cbd"
+metafile = true
+
+[[files]]
+file = "mods/magic-mirror.toml"
+hash = "70e377f2db46859918e6f834c63e75ebf6d35fa763cf3fc44f09912e48013f5a"
 metafile = true
 
 [[files]]
