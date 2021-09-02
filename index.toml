@@ -488,6 +488,7 @@ metafile = true
 [[files]]
 file = "mods/client/advancement-plaques-fabric.toml"
 hash = "bb4086d1becd1b745dd9cab3ef19a5140402a2e6c9abc795bb8fe8381aa48bb0"
+metafile = true
 
 [[files]]
 file = "mods/client/advancements-enlarger.toml"
@@ -522,6 +523,7 @@ metafile = true
 [[files]]
 file = "mods/client/break-progress.toml"
 hash = "b88e58cafce0a052241dec80f2c1c9b6555d0062e7c82df8567ddae9570495bc"
+metafile = true
 
 [[files]]
 file = "mods/client/capes.toml"
@@ -786,6 +788,7 @@ metafile = true
 [[files]]
 file = "mods/server/dual-riders.toml"
 hash = "19a131073428d7783e36de841383f2b4e66b9431c35072aaeec38364ce487f83"
+metafile = true
 
 [[files]]
 file = "mods/server/easyauth.toml"
