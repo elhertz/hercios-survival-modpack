@@ -1,0 +1,14 @@
+name = "Presence Footsteps"
+filename = "../PresenceFootsteps-r32-1.17-rc1.jar"
+side = "client"
+
+[download]
+url = "https://edge.forgecdn.net/files/3415/415/PresenceFootsteps-r32-1.17-rc1.jar"
+hash-format = "murmur2"
+hash = "1888930849"
+
+[update]
+[update.curseforge]
+file-id = 3415415
+project-id = 334259
+release-channel = "beta"

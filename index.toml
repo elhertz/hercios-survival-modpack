@@ -146,6 +146,11 @@ hash = "2f006e56fd1f02cd76e0feba3f4ea05662917868e1905045c9639acd1e4404f2"
 metafile = true
 
 [[files]]
+file = "mods/both/data-attributes.toml"
+hash = "f8184197a7f299b16730711bde4321503fb0540a64307b1da471d35f8ebfe1e0"
+metafile = true
+
+[[files]]
 file = "mods/both/decorative.toml"
 hash = "3b199c4d8dd0b10c6f2c88713fa61d2a890e1aa8898b5af2b36e38ba4684ea7a"
 metafile = true
@@ -221,8 +226,8 @@ hash = "f29949a7e7b630a45ec697bfec252a2536474944521b6b658674f41b9e6aa921"
 metafile = true
 
 [[files]]
-file = "mods/both/food-enhancements.toml"
-hash = "c906aa3709b7cb233123e4b6723ca8406819785c4a00db00ccbae2dd17b5861d"
+file = "mods/both/foodables-fabric.toml"
+hash = "d479e2196506ded7e0c29224be4f0b080ae994d05974751c26293b0f34401ef3"
 metafile = true
 
 [[files]]
@@ -233,6 +238,11 @@ metafile = true
 [[files]]
 file = "mods/both/give-me-hats.toml"
 hash = "c3ae5296f8fdbc9eb793d6921770c50124daf3872948f4ab995624b24244d64f"
+metafile = true
+
+[[files]]
+file = "mods/both/glassential-fabric.toml"
+hash = "23dea402297e5a10eace6e02bc1035e808ed2a1a929e7f2f1bf02897508fd485"
 metafile = true
 
 [[files]]
@@ -296,11 +306,6 @@ hash = "a836c33884e8cb5339002e09cce3c7c44a4435cdd27e808a3d811b2cac6c9576"
 metafile = true
 
 [[files]]
-file = "mods/both/levelz.toml"
-hash = "376ee3b0c9711242e18542715c65c1f27f944dfe9389c1b8fd0759ea002e6f32"
-metafile = true
-
-[[files]]
 file = "mods/both/lib.toml"
 hash = "4dd9c47d866ae2edc733295044996e1b9138c9b37bb4f92287f18dfdcd464065"
 metafile = true
@@ -346,8 +351,18 @@ hash = "db9754b53f97a5ce4c939e6063272b69a41f91d0f8b0b76ca2a024da82f9d698"
 metafile = true
 
 [[files]]
+file = "mods/both/not-enough-crashes.toml"
+hash = "60110a52a49a63387e50b0fc8024130df560709b83b9acf80ea0ae1546a072eb"
+metafile = true
+
+[[files]]
 file = "mods/both/paradox-slabs.toml"
 hash = "54a5db0ed6727bab92f0c0a6c0b6bce778f7ffa90657f552814e0a854a26e881"
+metafile = true
+
+[[files]]
+file = "mods/both/playerex.toml"
+hash = "8de4129825078dc4c3d4fe357e2379bad158b81c8e27430b078466dd5c571aa1"
 metafile = true
 
 [[files]]
@@ -466,6 +481,10 @@ hash = "00bb8116644a9fc6b6a10a30c5c90633e8bca8fbd0e2c189bf42b31437e93156"
 metafile = true
 
 [[files]]
+file = "mods/client/advancement-plaques-fabric.toml"
+hash = "bb4086d1becd1b745dd9cab3ef19a5140402a2e6c9abc795bb8fe8381aa48bb0"
+
+[[files]]
 file = "mods/client/advancements-enlarger.toml"
 hash = "6d0674c40f03faa3dc0b517018436ecf79f57497b54a9255be08b09ad4319408"
 metafile = true
@@ -494,6 +513,10 @@ metafile = true
 file = "mods/client/bobby.toml"
 hash = "797a1a94e69b719f5c73b6e2cdd7a19f904e82a662a8321dcda563028fb8c634"
 metafile = true
+
+[[files]]
+file = "mods/client/break-progress.toml"
+hash = "b88e58cafce0a052241dec80f2c1c9b6555d0062e7c82df8567ddae9570495bc"
 
 [[files]]
 file = "mods/client/capes.toml"
@@ -528,6 +551,11 @@ metafile = true
 [[files]]
 file = "mods/client/defaultsettings-fabric.toml"
 hash = "857055803cc04438a939580887067c46f312e8f2a40b0d3346d958fa48bb01c0"
+metafile = true
+
+[[files]]
+file = "mods/client/drippy-loading-screen-fabric.toml"
+hash = "65f3ebace82d1c24336b2f6f5f6f3399b337d963c623095877818aea1dfc0f2e"
 metafile = true
 
 [[files]]
@@ -616,6 +644,11 @@ hash = "196ccd208918512e1024eac7399701a3d579423e41c68ccea84a0cd9c883006e"
 metafile = true
 
 [[files]]
+file = "mods/client/presence-footsteps.toml"
+hash = "42b29d057385781a239c19d79c678e18fa221e2e6da2b60dca9545e23ca38a6e"
+metafile = true
+
+[[files]]
 file = "mods/client/roughly-searchable.toml"
 hash = "758d54d117fae14ffce160a37019f1247b8f6cd3cc3043382e996bd73b6d2b2c"
 metafile = true
@@ -668,6 +701,11 @@ metafile = true
 [[files]]
 file = "mods/client/yosbr.toml"
 hash = "1c5105cccf619487fd115208e020ffaa9f7adbb98a534904bcb779f325be24a1"
+metafile = true
+
+[[files]]
+file = "mods/server/advancements-debug.toml"
+hash = "ea1bb7eaad2c6bf4d4f1d1f2ca7f0c8b7cb5e0973a0935e328c4889b74fa6912"
 metafile = true
 
 [[files]]
@@ -739,6 +777,10 @@ metafile = true
 file = "mods/server/discerning-furnace.toml"
 hash = "02258aed1224b7a1e871b43f917cc1360004fcc00172ee997ab9d1b804359873"
 metafile = true
+
+[[files]]
+file = "mods/server/dual-riders.toml"
+hash = "19a131073428d7783e36de841383f2b4e66b9431c35072aaeec38364ce487f83"
 
 [[files]]
 file = "mods/server/easyauth.toml"

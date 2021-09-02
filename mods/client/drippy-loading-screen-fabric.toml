@@ -1,0 +1,14 @@
+name = "Drippy Loading Screen [Fabric]"
+filename = "../drippyloadingscreen_fabric_1.1.0-3_MC_1.17-1.17.1.jar"
+side = "client"
+
+[download]
+url = "https://edge.forgecdn.net/files/3432/592/drippyloadingscreen_fabric_1.1.0-3_MC_1.17-1.17.1.jar"
+hash-format = "murmur2"
+hash = "2208280977"
+
+[update]
+[update.curseforge]
+file-id = 3432592
+project-id = 515172
+release-channel = "beta"

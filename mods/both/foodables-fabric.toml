@@ -1,0 +1,14 @@
+name = "Foodables (Fabric)"
+filename = "../foodables-1.0.8.jar"
+side = "both"
+
+[download]
+url = "https://edge.forgecdn.net/files/3435/184/foodables-1.0.8.jar"
+hash-format = "murmur2"
+hash = "4256237866"
+
+[update]
+[update.curseforge]
+file-id = 3435184
+project-id = 496631
+release-channel = "beta"
