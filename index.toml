@@ -326,6 +326,11 @@ hash = "c124a2967398f834d23d9e4588cbe19a0fae186fb20bd83f1084197c9527e782"
 metafile = true
 
 [[files]]
+file = "mods/both/more-gems-fabric.toml"
+hash = "1791b7056d85267d0809767849fa3fcc7e352330fa94e55d639710adf9878347"
+metafile = true
+
+[[files]]
 file = "mods/both/more-respawn-anchors.toml"
 hash = "ad8d6d73b8c01a1f4df8803084f72ebc0f9dc2267f9ecdffb7030d558c5a6314"
 metafile = true
