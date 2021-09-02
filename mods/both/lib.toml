@@ -1,0 +1,14 @@
+name = "Flytre Lib (FlytreLib)"
+filename = "../flytre-lib-1.3.7.jar"
+side = "both"
+
+[download]
+url = "https://edge.forgecdn.net/files/3430/473/flytre-lib-1.3.7.jar"
+hash-format = "murmur2"
+hash = "2445648795"
+
+[update]
+[update.curseforge]
+file-id = 3430473
+project-id = 444498
+release-channel = "beta"

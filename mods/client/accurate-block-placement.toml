@@ -1,0 +1,14 @@
+name = "Accurate Block Placement"
+filename = "../accurate-block-placement-1.0.10.jar"
+side = "client"
+
+[download]
+url = "https://edge.forgecdn.net/files/3388/374/accurate-block-placement-1.0.10.jar"
+hash-format = "murmur2"
+hash = "1426551219"
+
+[update]
+[update.curseforge]
+file-id = 3388374
+project-id = 323316
+release-channel = "beta"

@@ -1,0 +1,14 @@
+name = "Statement Library"
+filename = "../Statement-4.1.3+1.14.4-1.17.1.jar"
+side = "both"
+
+[download]
+url = "https://edge.forgecdn.net/files/3423/826/Statement-4.1.3+1.14.4-1.17.1.jar"
+hash-format = "murmur2"
+hash = "1635382193"
+
+[update]
+[update.curseforge]
+file-id = 3423826
+project-id = 340604
+release-channel = "beta"

@@ -1,0 +1,13 @@
+name = "Snowball and Egg Knockback"
+filename = "../snowballkb-1.1-1.17.jar"
+side = "server"
+
+[download]
+url = "https://cdn.modrinth.com/data/lTnCsKKt/versions/1.1/snowballkb-1.1-1.17.jar"
+hash-format = "sha512"
+hash = "f3f3ffd0c6bf26ea5a9c50c443c1162ed16a0bcdfeac16478a28b83757fecf695d9202a8ba2111a611e1ee375371d0a6cb160f59085f345acb1be6f6d9d4bd84"
+
+[update]
+[update.modrinth]
+mod-id = "lTnCsKKt"
+version = "ZVXYDgSw"

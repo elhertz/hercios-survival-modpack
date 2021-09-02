@@ -1,0 +1,13 @@
+name = "AntiXray"
+filename = "../anti-xray-mc1.17.1-1.0.2.jar"
+side = "server"
+
+[download]
+url = "https://cdn.modrinth.com/data/sml2FMaA/versions/1.0.2/anti-xray-mc1.17.1-1.0.2.jar"
+hash-format = "sha512"
+hash = "dc36f9950fa53efe8f605d65bf5a0c911a986a1f8b43c83c5998bcbf95783d94c1cd4d7bc1443da1e3a61672d60ec164f7612ba6ddc5230987dd78a11ed3e4e4"
+
+[update]
+[update.modrinth]
+mod-id = "sml2FMaA"
+version = "TrphEGfM"

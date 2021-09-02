@@ -1,0 +1,14 @@
+name = "NotifMod"
+filename = "../NotifMod-1.0.1.jar"
+side = "client"
+
+[download]
+url = "https://edge.forgecdn.net/files/3422/871/NotifMod-1.0.1.jar"
+hash-format = "murmur2"
+hash = "985194978"
+
+[update]
+[update.curseforge]
+file-id = 3422871
+project-id = 514563
+release-channel = "beta"

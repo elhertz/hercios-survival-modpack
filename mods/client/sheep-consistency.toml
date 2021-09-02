@@ -1,0 +1,14 @@
+name = "Sheep Consistency"
+filename = "../sheepconsistency-1.0.3.jar"
+side = "client"
+
+[download]
+url = "https://edge.forgecdn.net/files/3351/141/sheepconsistency-1.0.3.jar"
+hash-format = "murmur2"
+hash = "511585582"
+
+[update]
+[update.curseforge]
+file-id = 3351141
+project-id = 386175
+release-channel = "beta"

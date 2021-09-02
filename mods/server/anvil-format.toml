@@ -1,0 +1,14 @@
+name = "Anvil Format"
+filename = "../AnvilFormat-1.0.2.jar"
+side = "server"
+
+[download]
+url = "https://edge.forgecdn.net/files/3397/494/AnvilFormat-1.0.2.jar"
+hash-format = "murmur2"
+hash = "3578562117"
+
+[update]
+[update.curseforge]
+file-id = 3397494
+project-id = 485674
+release-channel = "beta"

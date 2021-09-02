@@ -1,0 +1,14 @@
+name = "PlayerPig"
+filename = "../PlayerPig-2.2.jar"
+side = "server"
+
+[download]
+url = "https://edge.forgecdn.net/files/3420/492/PlayerPig-2.2.jar"
+hash-format = "murmur2"
+hash = "124933319"
+
+[update]
+[update.curseforge]
+file-id = 3420492
+project-id = 467196
+release-channel = "beta"

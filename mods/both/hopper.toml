@@ -1,0 +1,14 @@
+name = "Better Hoppers (Hopper+) {FABRIC | FORGE}"
+filename = "../hplus-3.0.1.jar"
+side = "both"
+
+[download]
+url = "https://edge.forgecdn.net/files/3429/289/hplus-3.0.1.jar"
+hash-format = "murmur2"
+hash = "3619983575"
+
+[update]
+[update.curseforge]
+file-id = 3429289
+project-id = 415164
+release-channel = "beta"

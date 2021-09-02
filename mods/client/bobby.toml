@@ -1,0 +1,14 @@
+name = "Bobby"
+filename = "../bobby-2.0.4.jar"
+side = "client"
+
+[download]
+url = "https://edge.forgecdn.net/files/3392/499/bobby-2.0.4.jar"
+hash-format = "murmur2"
+hash = "134807100"
+
+[update]
+[update.curseforge]
+file-id = 3392499
+project-id = 409301
+release-channel = "beta"

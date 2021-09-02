@@ -1,0 +1,14 @@
+name = "BFAPI"
+filename = "../BFAPI-V1-1-8.jar"
+side = "server"
+
+[download]
+url = "https://edge.forgecdn.net/files/3425/333/BFAPI-V1-1-8.jar"
+hash-format = "murmur2"
+hash = "3499316538"
+
+[update]
+[update.curseforge]
+file-id = 3425333
+project-id = 501198
+release-channel = "beta"

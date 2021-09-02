@@ -1,0 +1,13 @@
+name = "narrator off"
+filename = "../narrator-off-0.0.1.jar"
+side = "client"
+
+[download]
+url = "https://cdn.modrinth.com/data/Sl6JjBYl/versions/0.0.1/narrator-off-0.0.1.jar"
+hash-format = "sha512"
+hash = "ea7a1fee97761b1e7353143569cf4b17662221b8ee7b5e58f62f23b8fb4fc743db90a6815343a570c56977de7a8862ab17c8c93626ceb90cdaf07a3d26eaefb6"
+
+[update]
+[update.modrinth]
+mod-id = "Sl6JjBYl"
+version = "iZvha5vl"

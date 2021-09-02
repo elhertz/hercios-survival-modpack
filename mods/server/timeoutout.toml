@@ -1,0 +1,8 @@
+name = "TimeOutOut"
+filename = "../timeoutout-1.0.0.jar"
+side = "server"
+
+[download]
+url = "https://github.com/PotatoPresident/TimeOutOut/releases/download/1.0.0/timeoutout-1.0.0.jar"
+hash-format = "sha512"
+hash = "95bc642cb705d7cad73496ddf1980e9635e69990462693a6e4417ee4329fede4cbe32270a97c6e21afb714e42c58af823aafc48da4ec05b7021ec910c442f2e5"

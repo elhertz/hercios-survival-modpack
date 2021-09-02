@@ -1,0 +1,13 @@
+name = "InvMove (Fabric)"
+filename = "../InvMove-fabric-1.17-0.0.1-r1.jar"
+side = "client"
+
+[download]
+url = "https://cdn.modrinth.com/data/McNdqLv2/versions/1.17-0.0.1-r1/InvMove-fabric-1.17-0.0.1-r1.jar"
+hash-format = "sha512"
+hash = "190a6972f617fd5998ceb744e0240c95a32d43de987e2a682288276e54f384c49d3fa4f8cb29c09bf9324bfe10b23e9e436765e8eda1a6acec9aaec93b3ecb54"
+
+[update]
+[update.modrinth]
+mod-id = "McNdqLv2"
+version = "q4eLuKXi"

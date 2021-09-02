@@ -1,0 +1,13 @@
+name = "FabricSit"
+filename = "../FabricSit-1.6.1.jar"
+side = "server"
+
+[download]
+url = "https://cdn.modrinth.com/data/eM1KzRjc/versions/v1.6.1/FabricSit-1.6.1.jar"
+hash-format = "sha512"
+hash = "a852b823c98eacc88cccc8a9967721948b82186880f0d5eead41a530302404690b9e16112b47e490a8fc34529936680957551192a1fac283a47362737deac98c"
+
+[update]
+[update.modrinth]
+mod-id = "eM1KzRjc"
+version = "oN6dsB0G"

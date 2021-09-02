@@ -1,0 +1,14 @@
+name = "SlipperyWalls"
+filename = "../slipperywalls-1.0.0+1.17.jar"
+side = "server"
+
+[download]
+url = "https://edge.forgecdn.net/files/3390/852/slipperywalls-1.0.0+1.17.jar"
+hash-format = "murmur2"
+hash = "2127217369"
+
+[update]
+[update.curseforge]
+file-id = 3390852
+project-id = 421393
+release-channel = "beta"

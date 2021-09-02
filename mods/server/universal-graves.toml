@@ -1,0 +1,13 @@
+name = "Universal Graves"
+filename = "../graves-1.0.8+1.17.1.jar"
+side = "server"
+
+[download]
+url = "https://cdn.modrinth.com/data/yn9u3ypm/versions/1.0.8/graves-1.0.8+1.17.1.jar"
+hash-format = "sha512"
+hash = "76e95dc2d1ce52e2296d440fa43ca6e4d448cd34fd876d0022ffde2e9523f9e84ef9a2ac4c465339cdc7e2e8cfc117f58c363eb87e1efac7d9e492977098200f"
+
+[update]
+[update.modrinth]
+mod-id = "yn9u3ypm"
+version = "X6tr77Md"

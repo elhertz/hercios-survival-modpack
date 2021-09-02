@@ -1,0 +1,14 @@
+name = "Harmful Stonecutters"
+filename = "../harmfulstonecutters-1.0.2.jar"
+side = "server"
+
+[download]
+url = "https://edge.forgecdn.net/files/3329/525/harmfulstonecutters-1.0.2.jar"
+hash-format = "murmur2"
+hash = "1213221002"
+
+[update]
+[update.curseforge]
+file-id = 3329525
+project-id = 397357
+release-channel = "beta"

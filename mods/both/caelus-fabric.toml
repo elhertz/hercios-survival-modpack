@@ -1,0 +1,14 @@
+name = "Caelus API (Fabric)"
+filename = "../caelus-fabric-0.0.17-1.17.jar"
+side = "both"
+
+[download]
+url = "https://edge.forgecdn.net/files/3378/161/caelus-fabric-0.0.17-1.17.jar"
+hash-format = "murmur2"
+hash = "3006634992"
+
+[update]
+[update.curseforge]
+file-id = 3378161
+project-id = 397876
+release-channel = "beta"

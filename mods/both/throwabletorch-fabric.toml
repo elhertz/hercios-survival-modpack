@@ -1,0 +1,14 @@
+name = "ThrowableTorch (Fabric)"
+filename = "../throwabletorch-1.17.1.jar"
+side = "both"
+
+[download]
+url = "https://edge.forgecdn.net/files/3391/810/throwabletorch-1.17.1.jar"
+hash-format = "murmur2"
+hash = "2969088777"
+
+[update]
+[update.curseforge]
+file-id = 3391810
+project-id = 442917
+release-channel = "beta"

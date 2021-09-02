@@ -1,0 +1,13 @@
+name = "Lapis Reserve"
+filename = "../lapisreserve-1.0.8.jar"
+side = "server"
+
+[download]
+url = "https://cdn.modrinth.com/data/LhAlIe5M/versions/r1.0.8/lapisreserve-1.0.8.jar"
+hash-format = "sha512"
+hash = "80a89e963264f2a904fbae5840765ed57326c57f08b3c82299e7be5c453b021b264102d799fdec77fddc6f17a90d9bb2d130fab4c7eba0d326956c32d73f08d9"
+
+[update]
+[update.modrinth]
+mod-id = "LhAlIe5M"
+version = "ymSIdKkb"

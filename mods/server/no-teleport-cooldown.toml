@@ -1,0 +1,13 @@
+name = "No Teleport Cooldown"
+filename = "../no-teleport-cooldown-1.0.2.jar"
+side = "server"
+
+[download]
+url = "https://cdn.modrinth.com/data/Pmsp9mMS/versions/1.0.2/no-teleport-cooldown-1.0.2.jar"
+hash-format = "sha512"
+hash = "3a6e2aacc68b47f51004061d6d11c8f07f677d4dbf6e6230a55bfbb76167361ce4ab7c466f3fd4d30f23bfa84ee0c69300c10f6e87f749b157d0c2f66ffd9445"
+
+[update]
+[update.modrinth]
+mod-id = "Pmsp9mMS"
+version = "n2Z92RGm"
