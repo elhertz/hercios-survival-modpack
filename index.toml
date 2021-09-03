@@ -178,6 +178,7 @@ metafile = true
 [[files]]
 file = "mods/both/fabric-api.toml"
 hash = "91b1dc17988069f17fd42d25f8e38b361888aeba78357a18094e17b53cb49ee7"
+metafile = true
 
 [[files]]
 file = "mods/both/fabric-enchantments.toml"
