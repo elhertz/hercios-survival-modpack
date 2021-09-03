@@ -5,7 +5,7 @@ version = "0.0.1"
 [index]
 file = "index.toml"
 hash-format = "sha256"
-hash = "771fe9513e2355581b1a5173c6430a7fd2fcc7223462e99e6f00d033a0812973"
+hash = "0a23340bdf1c11be2424af07f97ada9f1dc5a39c399150a8e19bb41772b44c1c"
 
 [versions]
 fabric = "0.11.6"
