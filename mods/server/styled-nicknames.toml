@@ -1,6 +1,6 @@
 name = "Styled Nicknames"
-filename = "styled-nicknames-1.0.0.jar"
-side = "both"
+filename = "../styled-nicknames-1.0.0.jar"
+side = "server"
 
 [download]
 url = "https://cdn.modrinth.com//data/DOk6Gcdi/versions/1.0.0/styled-nicknames-1.0.0.jar"

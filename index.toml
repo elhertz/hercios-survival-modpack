@@ -966,6 +966,11 @@ hash = "5649f15916a2839c9ed8e76cf7ae47a1a9dcfb4769a3e6bd1b4730e51c70de55"
 metafile = true
 
 [[files]]
+file = "mods/server/styled-nicknames.toml"
+hash = "b843abd550d5a21bf3b6975db9496787fe5f6a9f745a39ab59c6a6172d1f4213"
+metafile = true
+
+[[files]]
 file = "mods/server/styledplayerlist.toml"
 hash = "3c990a350fd6c5f336a6c20e6af4e1f6f6e3c02b4808b3ebfc38773008385656"
 metafile = true
@@ -1003,9 +1008,4 @@ metafile = true
 [[files]]
 file = "mods/server/yungs-better-strongholds-fabric.toml"
 hash = "de503060a3a8c9293487dae3da7c6207763b7e984b1edcd36dd6efe56ce42266"
-metafile = true
-
-[[files]]
-file = "mods/styled-nicknames.toml"
-hash = "b3ecba64dba911aa3b2b8b646f2cd3458da237518a8b6c961429dac033d52ac5"
 metafile = true
