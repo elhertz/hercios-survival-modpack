@@ -691,8 +691,8 @@ hash = "6510a0eeab940fd1fbe52538de6ec91808244b6cba5b237f8907911154533fdd"
 metafile = true
 
 [[files]]
-file = "mods/client/xaeros-minimap.toml"
-hash = "ce278c6e6bee5adf98e0eeabd3d9a05c019e346a0dfcabc84277901af33c644d"
+file = "mods/client/xaeros-minimap-fair-play-edition.toml"
+hash = "5af4a14765a160bf3b4f4b091ad5cdbecd70a4a74bd906ba772ba332a669cea6"
 metafile = true
 
 [[files]]
