@@ -1,13 +1,13 @@
 name = "Adorn"
-filename = "../Adorn-2.1.3+1.17.1-fabric.jar"
+filename = "Adorn-2.1.4+1.17.1-fabric.jar"
 side = "both"
 
 [download]
-url = "https://cdn.modrinth.com/data/E6FUtRJh/versions/2.1.3-fabric/Adorn-2.1.3+1.17.1-fabric.jar"
+url = "https://cdn.modrinth.com/data/E6FUtRJh/versions/2.1.4/Adorn-2.1.4+1.17.1-fabric.jar"
 hash-format = "sha512"
-hash = "0dfd16a0ed4e7f739bd55885064448fb100714c0fd74da7e20d9c1fac912ce629576870ed802309d054a51d05a1fda6691f319715097ed3f8a26351b334a42a5"
+hash = "02ac638133690a9d3496467e6173ce7b1b8b0dc2154b5e579f87aeab717df8f20d30e301657d5bdb99bafb59f614370b7895ca05fb5e679f2cb226cf7d4cdfba"
 
 [update]
 [update.modrinth]
 mod-id = "E6FUtRJh"
-version = "uzDB33Kd"
+version = "IngkxAua"
