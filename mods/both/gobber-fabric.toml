@@ -1,5 +1,5 @@
 name = "Gobber [FABRIC]"
-filename = "Gobber2-Fabric-1.17.1-2.4.42.jar"
+filename = "../Gobber2-Fabric-1.17.1-2.4.42.jar"
 side = "both"
 
 [download]

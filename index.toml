@@ -12,7 +12,7 @@ metafile = true
 
 [[files]]
 file = "mods/both/adorn.toml"
-hash = "e2091dd8985dfcab52a04894920f51ac55f0d07b257d415fa38c93eb285aba89"
+hash = "34e58f99efdd09b848e8a32c9a2d0807ced08c2dad66d6ce7a9fab3450f49c4d"
 metafile = true
 
 [[files]]
@@ -177,8 +177,7 @@ metafile = true
 
 [[files]]
 file = "mods/both/fabric-api.toml"
-hash = "c5797709859b36f2dcf6d5a97bfe618cf43ee2594f5bfe2ff71bb04ec066c13c"
-metafile = true
+hash = "91b1dc17988069f17fd42d25f8e38b361888aeba78357a18094e17b53cb49ee7"
 
 [[files]]
 file = "mods/both/fabric-enchantments.toml"
@@ -247,7 +246,7 @@ metafile = true
 
 [[files]]
 file = "mods/both/gobber-fabric.toml"
-hash = "a33660929d074f54d75219c125aa36128d01bd980efab16e7a838bad99eb33c2"
+hash = "a2ad3ec4684ad5ad479e57d7c1bcbe50e51e921bf4778f6667cb25acd767e7b2"
 metafile = true
 
 [[files]]
@@ -437,7 +436,7 @@ metafile = true
 
 [[files]]
 file = "mods/both/trinkets-fabric.toml"
-hash = "ba45f34a9018ff5a9737b693f393c5dde767aa75dc2a0b377c6b7642e8f44a95"
+hash = "c9168a222f6ee12e5bd608fbf330794535bfb6219962f19fdf96fecc97543819"
 metafile = true
 
 [[files]]
@@ -622,7 +621,7 @@ metafile = true
 
 [[files]]
 file = "mods/client/modmenu.toml"
-hash = "28fc2185ad2b2a1a89034a9162537c7aa5be159b119792a63553fbeba46033dd"
+hash = "a45e2c305eb746aade3662d593532188d397a8b6e76eb0adb09d44deee404e75"
 metafile = true
 
 [[files]]
@@ -697,7 +696,7 @@ metafile = true
 
 [[files]]
 file = "mods/client/xaeros-world-map.toml"
-hash = "7f302c133570ea377d53a1d3943c80572a6c38abe5f2cb49271024f72766b389"
+hash = "3badecbdb35725c22658da589831a83afa3d03efad282db4b1801362e8f15307"
 metafile = true
 
 [[files]]
