@@ -516,6 +516,11 @@ hash = "321907a679b20e6dd69d205eb7a7a16c2e5809657dc41954dcf94a35a5ec8b67"
 metafile = true
 
 [[files]]
+file = "mods/client/better-game-menu.toml"
+hash = "0a9a60d84db3a829a376555c37adac14837e15216c16158a0df5a1ebfe0cf0cc"
+metafile = true
+
+[[files]]
 file = "mods/client/bobby.toml"
 hash = "797a1a94e69b719f5c73b6e2cdd7a19f904e82a662a8321dcda563028fb8c634"
 metafile = true
