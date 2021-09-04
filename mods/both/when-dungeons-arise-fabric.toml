@@ -1,6 +1,6 @@
 name = "When Dungeons Arise - Fabric!"
 filename = "../DungeonsArise-1.17.1-2.1.47-fabric-release.jar"
-side = "server"
+side = "both"
 
 [download]
 url = "https://edge.forgecdn.net/files/3414/936/DungeonsArise-1.17.1-2.1.47-fabric-release.jar"
