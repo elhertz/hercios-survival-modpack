@@ -551,11 +551,6 @@ hash = "32afe15790a0d236d18f0ad9aec7aab8c4f05ca9a899492d6baf5ea3336ad5ee"
 metafile = true
 
 [[files]]
-file = "mods/client/dark-loading-screen.toml"
-hash = "5b6ad8b9754f9b6b2579151e00ecef941d1f3646dda7676e2a73f41b03d78b87"
-metafile = true
-
-[[files]]
 file = "mods/client/dcch.toml"
 hash = "8fe7f5f8cbd2e6770db826fde70bb882fcae348cc74b0180c315f6317a0e03cf"
 metafile = true
