@@ -556,11 +556,6 @@ hash = "8fe7f5f8cbd2e6770db826fde70bb882fcae348cc74b0180c315f6317a0e03cf"
 metafile = true
 
 [[files]]
-file = "mods/client/defaultsettings-fabric.toml"
-hash = "857055803cc04438a939580887067c46f312e8f2a40b0d3346d958fa48bb01c0"
-metafile = true
-
-[[files]]
 file = "mods/client/drippy-loading-screen-fabric.toml"
 hash = "65f3ebace82d1c24336b2f6f5f6f3399b337d963c623095877818aea1dfc0f2e"
 metafile = true
