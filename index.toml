@@ -1,6 +1,210 @@
 hash-format = "sha256"
 
 [[files]]
+file = "config/GiveMeHats/config.acfg"
+hash = "2f0b7b0a6468971a91b8d1a75b87061c3dce24ddb771e66f91fd57450a7fbdfd"
+
+[[files]]
+file = "config/InvisFrames.conf"
+hash = "70aefe0b9471c924782bdd67eb880f7a724a7da8db67fd100f8046e3d1f06341"
+
+[[files]]
+file = "config/backslot.json5"
+hash = "f3d4befbeefa974f70aff8b2ca8927828d80a0d68bacebc0f2605017086e4f65"
+
+[[files]]
+file = "config/backslotaddon.json5"
+hash = "092265e8777cc2f79198aef08bf8116c801fd7014f2280fcb6ac7484ee65672c"
+
+[[files]]
+file = "config/betterend/biomes.json"
+hash = "aa07d1f7ef06324e1fc37da23b37e6e460898e10853d54f97f8ed2ec4a45bc9e"
+
+[[files]]
+file = "config/betterend/blocks.json"
+hash = "1381e6cc25622ed0d03e2c3bb7de0adf84e16c847c934bcfb3f1c6d0af682cbe"
+
+[[files]]
+file = "config/betterend/client.json"
+hash = "9fe05edf2b6cfaa5573d1dc6debf01181a663f0ffda407c8b3f05d2ef87e56eb"
+
+[[files]]
+file = "config/betterend/entities.json"
+hash = "c88c23c520341d800c6403788d500a2c8db1eebf1cb3920f9809b31f00e6558b"
+
+[[files]]
+file = "config/betterend/generator.json"
+hash = "96dc5b16154f988ec3be988be58bef9a6785efb860baf9753727876b8f548246"
+
+[[files]]
+file = "config/betterend/items.json"
+hash = "f690c13c1fde6d18871a6b94557ea32aa211022c1220f85f213d1828965c3391"
+
+[[files]]
+file = "config/betterend/portals.json"
+hash = "c0900ca41e9721a30bf49f00762f9fb80367908cd668d5c32ab2816e61ff51d7"
+
+[[files]]
+file = "config/betterend/recipes.json"
+hash = "8697d803d02be118f2a24a021906c1fcaa6a73cee3f31d1b5398f7d0fb812d78"
+
+[[files]]
+file = "config/betternether/biomes.json"
+hash = "c78fd980d5ea27cf32ef4d447cd17678899d8a1fe63392166a521368fa044647"
+
+[[files]]
+file = "config/betternether/blocks.json"
+hash = "31134c6c7cccf937fe3b0e2361801b60e26aa4141abe8bcb62ccd22609cf7826"
+
+[[files]]
+file = "config/betternether/generator.json"
+hash = "22bbb0ab6f0f97b7b6f32ce6f90fc0bf61d247ef70423f57bd774612c890a49d"
+
+[[files]]
+file = "config/betternether/items.json"
+hash = "afe6b6a6af5f9c38dedb4fa952078cab8b554b225cbc07a8328bd0e2a52c00eb"
+
+[[files]]
+file = "config/betternether/main.json"
+hash = "425bba74f35117650feefb028fe8551a9edb2ecc919d91b35e0c6d84067e552e"
+
+[[files]]
+file = "config/betternether/mobs.json"
+hash = "6c15aaa04bfbc8886c8326a52d8b0621571ce33fbd032f9f3584ee513730ab4e"
+
+[[files]]
+file = "config/betternether/recipes.json"
+hash = "21300dad75334098c187d4b69260e1731ecf993005c70fb6827179b6136e2241"
+
+[[files]]
+file = "config/carrier.json"
+hash = "cb119901a8fc6c9e761ad34f2425e3513702fb1224ca38c2e34a283f5a719cb8"
+
+[[files]]
+file = "config/charm.toml"
+hash = "6b9b8dbd61c526b613ee142380ae3035354855bcbafa98f2548253b7f5190c69"
+
+[[files]]
+file = "config/drippyloadingscreen/config.cfg"
+hash = "dcdb773caf483c1189fc7cdd38142fc892fe181a550ae82f055c650007115f80"
+
+[[files]]
+file = "config/drippyloadingscreen/customization/hercios.dllayout"
+hash = "533e646246312ffe2daff7b35ea366ee0fec0f107d26db309cc6d45aba2619c9"
+
+[[files]]
+file = "config/drippyloadingscreen/locals/en_us.local"
+hash = "aed8eff32b60beb4a4580a94aec9daad14ef41e69a910a5546179dfd531ce203"
+
+[[files]]
+file = "config/eldritch_mobs.json5"
+hash = "db8ca3eb2c649e6e1c4b8a06342f308abf4b2d777cd6ce2afe6bff05ede0defe"
+
+[[files]]
+file = "config/fabricenchantments/backupconfig.json"
+hash = "3e8d3d981ed5ca4115e95e18a970465811bb93784bf0bd7d8a9b4d11a253cc28"
+
+[[files]]
+file = "config/fabricenchantments/config.json5"
+hash = "9df2b4563f0dff1440e8dd87e3a3155e001d208267faadf4aa68fb9e0aed1655"
+
+[[files]]
+file = "config/fancymenu/config.txt"
+hash = "5cab362c3d1e098c01978f3215a1722d12b9cdad1f83c6d07e56c1a6d1d23a9e"
+
+[[files]]
+file = "config/fancymenu/customizablemenus.txt"
+hash = "a9c0343b0c16371ffe1525688107e02d6807f99e04de5ee5b11d12ff7e55c39b"
+
+[[files]]
+file = "config/fancymenu/customization/esc_menu.txt"
+hash = "bfaecb3eb51d25219124de830d3f144311946c1b99012769d2035e743edfe2cc"
+
+[[files]]
+file = "config/fancymenu/customization/main_menu.txt"
+hash = "572db0004c0b013912ecc7a872cc3bd3afa7e3e2d7ef2c8895ee6b8fce2c2448"
+
+[[files]]
+file = "config/fancymenu/customization/voicechat.txt"
+hash = "0b0127972f0f724f3c320047ab754c046b614cc0c48cecd90710bafa944e7323"
+
+[[files]]
+file = "config/fancymenu/locals/de_de.local"
+hash = "362e9a1b4480f5f8f52724f7f678b5899c92b5ac5cd14ddaeda533bb78721195"
+
+[[files]]
+file = "config/fancymenu/locals/en_us.local"
+hash = "1fa7898331852f7c1bf9b20c47cc89ab4b8362efcb46fe156b0a549d79824868"
+
+[[files]]
+file = "config/fancymenu/locals/pl_pl.local"
+hash = "82ee4c2444f37d9f011b7b945df1f05026e9910f6c02cf900a3b5e17871a81f3"
+
+[[files]]
+file = "config/fancymenu/locals/pt_br.local"
+hash = "c7c049bf3190cc0572bef5fb636fa80d775211962cdbede7bd284d072692eb91"
+
+[[files]]
+file = "config/flytre_lib.json5"
+hash = "8e2952e64a1ae967de6a88a12cccd63113f816f2e690274a7f6fa648b8e81f0d"
+
+[[files]]
+file = "config/gobber2/general.json5"
+hash = "f62bd8a9ced5b556520901b555ee79874555885c44239fd26ae9d3b0fd874393"
+
+[[files]]
+file = "config/gobber2/ores.json5"
+hash = "212c3b0b6a70cdd09f2141f682bbe495ca9ff126b4101b35d1f7f0a9f78d59e6"
+
+[[files]]
+file = "config/icarus.json5"
+hash = "f9efc22958458a1e8d7c9b8a4d0027a700e04a878e300773acc6df85526924c0"
+
+[[files]]
+file = "config/kibe.json"
+hash = "824c8145d59b30d47850119cb7038a370526e40db3fff70b00f258b005b23cdf"
+
+[[files]]
+file = "config/moenchantconfig.json"
+hash = "7e40a94ac7defeefc2d65f0af363e46bd6c1a5b8397bdf7f7d6073410b1f6949"
+
+[[files]]
+file = "config/moenchantment_overrides.json"
+hash = "3a7ddb0f86084a81ece577e59f937c8736956080e0fd6e78d471af99252f938f"
+
+[[files]]
+file = "config/more_gems/general.json5"
+hash = "04801334bedcb74b06e540372d2135005b0c201ef2ef2ddfed0e6875a15fdc74"
+
+[[files]]
+file = "config/more_gems/ores.json5"
+hash = "b7364253ec6f8b974fc33e87fe97873b984254b7b5357cbb5a3aaf4e8e0e9bf9"
+
+[[files]]
+file = "config/naturescompass.json"
+hash = "399b4aa325ac3f1809b886d2c05714ca356e234d04ff41e4441348bcfff048d3"
+
+[[files]]
+file = "config/openloader/resources/TwemojiFont.zip"
+hash = "d386b815c4c45daa3ff3236a668e5abee527ee4b5f554bc3012cce1f94ad4fe0"
+
+[[files]]
+file = "config/openloader/resources/lecacy-console-click.zip"
+hash = "09cb4d7461f07e24a52b9aceaf5ead81f1d9ef27afd1d4d094c0d815f354b2f3"
+
+[[files]]
+file = "config/redbits.json"
+hash = "9d8cdb52394221c033b6b2c72ba7b8018a7fb5c658f7e6e2b7fece5f9c2d4fa6"
+
+[[files]]
+file = "config/simple-rpc.toml"
+hash = "a0b70111f0afa68814bb5780ea24fde145d4600e3740122af7fcf4f031505fb8"
+
+[[files]]
+file = "config/waystones/config.json"
+hash = "3a5e38e6b02fadc24550ce4c78bd6f6082d5d634d13ddb35601daa451ab978dd"
+
+[[files]]
 file = "mods/both/adabranium.toml"
 hash = "1303587599c83805e886a6b686175b6bdf13dec7b7b812518fc559eaca8a027a"
 metafile = true

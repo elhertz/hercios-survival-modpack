@@ -1,0 +1,30 @@
+{
+    "autosmelt": {
+       "enabled":false
+    },
+    "veinminer": {
+       "enabled":false
+    },
+    "tamedprotection": {
+       "enabled":false
+    },
+    "soulbound": {
+       "enabled":true,
+       "treasure":true
+    },
+    "potionretension": {
+       "enabled":false
+    },
+    "bowaccuracy": {
+       "enabled":false
+    },
+    "curseofender": {
+       "enabled":false
+    },
+    "blackhole": {
+       "enabled":true,
+       "treasure":true
+    }
+	
+}
+

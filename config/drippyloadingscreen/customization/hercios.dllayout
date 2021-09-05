@@ -1,0 +1,43 @@
+type = hud
+
+customization-meta {
+  renderorder = foreground
+  backgroundcolor = 36393F
+}
+
+customization {
+  visible = false
+  x = -2
+  action = editlogo
+  y = 6
+}
+
+customization {
+  visible = false
+  action = editprogressbar
+}
+
+customization {
+  orientation = bottom-centered
+  bartexture = img/loading_texture.jpg
+  x = 0
+  width = 330
+  y = -33
+  action = addcustomprogressbar
+  height = 18
+  direction = right
+  barcolor = #ffffff
+  backgroundcolor = #5c5c5c80
+}
+
+customization {
+  path = img/loading_logo.png
+  orientation = mid-centered
+  x = 0
+  width = 336
+  action = addtexture
+  actionid = 46ce28a6-db16-4c1a-8346-83a0157eb5d21630870604785
+  y = 0
+  height = 100
+}
+

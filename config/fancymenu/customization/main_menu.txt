@@ -1,0 +1,163 @@
+type = menu
+
+customization-meta {
+  identifier = net.minecraft.class_442
+  randomgroup = 1
+  renderorder = foreground
+  randommode = false
+  randomonlyfirsttime = false
+}
+
+customization {
+  identifier = %id=400286%
+  action = hidebutton
+}
+
+customization {
+  identifier = %id=604394%
+  action = hidebutton
+}
+
+customization {
+  identifier = %id=400334%
+  action = hidebutton
+}
+
+customization {
+  orientation = mid-centered
+  buttonaction = joinserver
+  x = -61
+  width = 122
+  actionid = 38ef307b-55f9-4c21-9325-8b4c96e55d0e1630869302010
+  action = addbutton
+  y = -13
+  label = Entrar al Servidor
+  value = mc.hertz.rocks
+  height = 20
+}
+
+customization {
+  identifier = %id=400310%
+  orientation = mid-centered
+  x = -100
+  action = movebutton
+  y = 11
+}
+
+customization {
+  identifier = %id=400310%
+  action = setbuttonlabel
+  value = Multijugador
+}
+
+customization {
+  identifier = %id=400358%
+  orientation = mid-centered
+  x = -100
+  action = movebutton
+  y = 35
+}
+
+customization {
+  identifier = %id=400394%
+  orientation = mid-centered
+  x = -100
+  action = movebutton
+  y = 83
+}
+
+customization {
+  identifier = %id=400394%
+  action = setbuttonlabel
+  value = Opciones...
+}
+
+customization {
+  identifier = %id=502394%
+  orientation = mid-centered
+  x = 2
+  action = movebutton
+  y = 83
+}
+
+customization {
+  identifier = %id=502394%
+  action = setbuttonlabel
+  value = Salir
+}
+
+customization {
+  identifier = %id=376394%
+  orientation = mid-centered
+  x = -123
+  action = movebutton
+  y = 83
+}
+
+customization {
+  identifier = %id=376394%
+  action = setbuttonlabel
+  value = Idioma
+}
+
+customization {
+  path = img/menu_logo.png
+  orientation = mid-centered
+  x = -77
+  width = 154
+  actionid = a7ea0ad3-d246-44ad-9afe-a0b9ea80679b1630713371899
+  action = addtexture
+  y = -99
+  height = 38
+}
+
+customization {
+  path = img/menu_sublogo.png
+  orientation = mid-centered
+  x = -42
+  width = 84
+  actionid = 4f6efc03-7848-434a-9ce4-da0d08a3b82c1630714143040
+  action = addtexture
+  y = -62
+  height = 20
+}
+
+customization {
+  orientation = mid-centered
+  buttonaction = openlink
+  x = 2
+  width = 98
+  actionid = de572118-0231-4b5c-964d-1a0e918fe8031630869302011
+  action = addbutton
+  y = 59
+  label = Wiki
+  value = https://pages.demon.live/hertz/
+  height = 20
+}
+
+customization {
+  orientation = mid-centered
+  buttonaction = openlink
+  x = -100
+  width = 98
+  actionid = f646b76c-33a6-43eb-8dfa-d9380b49db751630869302012
+  action = addbutton
+  y = 59
+  label = Discord
+  value = 
+  height = 20
+}
+
+customization {
+  orientation = bottom-left
+  buttonaction = opencustomgui
+  x = 5
+  width = 62
+  actionid = 202b8107-0c51-448f-be31-657f4b5556eb1630869302012
+  action = addbutton
+  y = -26
+  label = Novedades
+  value = changelog
+  height = 20
+}
+

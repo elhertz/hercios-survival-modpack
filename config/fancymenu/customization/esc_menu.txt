@@ -1,0 +1,143 @@
+type = menu
+
+customization-meta {
+  identifier = net.minecraft.class_433
+  randomgroup = 1
+  renderorder = foreground
+  randommode = false
+  randomonlyfirsttime = false
+}
+
+customization {
+  identifier = %id=398294%
+  action = hidebutton
+}
+
+customization {
+  identifier = %id=398342%
+  orientation = mid-centered
+  x = -102
+  action = movebutton
+  y = 41
+}
+
+customization {
+  identifier = %id=398342%
+  width = 204
+  action = resizebutton
+  height = 20
+}
+
+customization {
+  identifier = %id=398342%
+  action = setbuttonlabel
+  value = Opciones...
+}
+
+customization {
+  identifier = %id=504294%
+  action = hidebutton
+}
+
+customization {
+  identifier = %id=504342%
+  action = hidebutton
+}
+
+customization {
+  identifier = %id=398246%
+  orientation = mid-centered
+  x = -102
+  action = movebutton
+  y = -59
+}
+
+customization {
+  identifier = %id=398246%
+  action = setbuttonlabel
+  value = Volver
+}
+
+customization {
+  identifier = %id=398270%
+  orientation = mid-centered
+  x = -102
+  action = movebutton
+  y = -31
+}
+
+customization {
+  identifier = %id=398270%
+  action = setbuttonlabel
+  value = Logros
+}
+
+customization {
+  identifier = %id=398318%
+  orientation = mid-centered
+  x = -102
+  action = movebutton
+  y = 17
+}
+
+customization {
+  identifier = %id=398366%
+  orientation = mid-centered
+  x = -103
+  action = movebutton
+  y = 77
+}
+
+customization {
+  identifier = %id=398366%
+  width = 206
+  action = resizebutton
+  height = 20
+}
+
+customization {
+  identifier = %id=398366%
+  action = setbuttonlabel
+  value = Desconectar
+}
+
+customization {
+  identifier = %id=504270%
+  orientation = mid-centered
+  x = 4
+  action = movebutton
+  y = -31
+}
+
+customization {
+  identifier = %id=504270%
+  action = setbuttonlabel
+  value = Estadísticas
+}
+
+customization {
+  orientation = mid-centered
+  buttonaction = openlink
+  x = 4
+  width = 98
+  actionid = bfa6f783-285d-4e79-9e98-51cdf8ae2b4e1630870819686
+  action = addbutton
+  y = -7
+  label = Wiki
+  value = 
+  height = 20
+}
+
+customization {
+  orientation = mid-centered
+  buttonaction = openlink
+  x = -102
+  width = 98
+  actionid = 913a70d3-86e8-44b3-b259-988173081b241630870819690
+  action = addbutton
+  y = -7
+  label = Discord
+  value = 
+  height = 20
+}
+

@@ -1,0 +1,89 @@
+{
+	/* ***********************
+	   Gem Biomes
+	   & Ore Settings
+	   ***********************
+	*/
+	"enableCarbonadoBiome": true,
+	"carbonadoBiomeWeight": 0.5,
+	"carbonadoBiomeVeinSize": 12,
+	"carbonadoBiomeMaxLevel": 25,
+	"carbonadoBiomePerChunk": 20,
+	"enableRubyBiome": true,
+	"rubyBiomeWeight": 0.5,
+	"rubyBiomeVeinSize": 12,
+	"rubyBiomeMaxLevel": 35,
+	"rubyBiomePerChunk": 20,
+	/* ***********************
+	   Citrine Ores
+	   ***********************
+	*/
+	"citrineEnable": true,
+	"citrineVeinSize": 4,
+	"citrineMaxLevel": 70,
+	"citrinePerChunk": 12,
+	/* ***********************
+	   Tourmaline Ores
+	   ***********************
+	*/
+	"tourmalineEnable": true,
+	"tourmalineVeinSize": 4,
+	"tourmalineMaxLevel": 70,
+	"tourmalinePerChunk": 12,
+	/* ***********************
+	   KUNZITE Ores
+	   ***********************
+	*/
+	"kunziteEnable": true,
+	"kunziteVeinSize": 4,
+	"kunziteMaxLevel": 60,
+	"kunzitePerChunk": 12,
+	/* ***********************
+	   Topaz Ores
+	   ***********************
+	*/
+	"topazEnable": true,
+	"topazVeinSize": 4,
+	"topazMaxLevel": 60,
+	"topazPerChunk": 12,
+	/* ***********************
+	   Alexandrite Ores
+	   ***********************
+	*/
+	"alexandriteEnable": true,
+	"alexandriteVeinSize": 4,
+	"alexandriteMaxLevel": 60,
+	"alexandritePerChunk": 12,
+	/* ***********************
+	   Sapphire Ores
+	   ***********************
+	*/
+	"sapphireEnable": true,
+	"sapphireVeinSize": 4,
+	"sapphireMaxLevel": 30,
+	"sapphirePerChunk": 12,
+	/* ***********************
+	   Ruby Ores
+	   ***********************
+	*/
+	"rubyEnable": true,
+	"rubyVeinSize": 4,
+	"rubyMaxLevel": 30,
+	"rubyPerChunk": 12,
+	/* ***********************
+	   Corundum Ores
+	   ***********************
+	*/
+	"conrundumEnable": true,
+	"conrundumVeinSize": 3,
+	"conrundumMaxLevel": 20,
+	"conrundumPerChunk": 12,
+	/* ***********************
+	   Carbonado Ores
+	   ***********************
+	*/
+	"carbonadoEnable": true,
+	"carbonadoVeinSize": 3,
+	"carbonadoMaxLevel": 15,
+	"carbonadoPerChunk": 12
+}

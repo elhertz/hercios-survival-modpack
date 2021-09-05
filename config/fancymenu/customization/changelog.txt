@@ -1,0 +1,35 @@
+type = menu
+
+customization-meta {
+  identifier = changelog
+  randomgroup = 1
+  renderorder = foreground
+  randommode = false
+  randomonlyfirsttime = false
+}
+
+customization {
+  orientation = top-centered
+  shape = rectangle
+  color = #000000
+  x = -227
+  width = 455
+  actionid = e1066a1a-6d20-4919-af57-3fb67a247f011630733353694
+  action = addshape
+  y = 0
+  height = %guiheight%
+}
+
+customization {
+  orientation = mid-centered
+  shadow = false
+  multiline = true
+  x = -267
+  actionid = e0b9c825-2a1f-4f5a-8c74-52c98fc8a32e1630732700279
+  action = addwebtext
+  y = -124
+  scale = 1.0
+  alignment = left
+  url = https://hertz.rocks/changelog.txt
+}
+

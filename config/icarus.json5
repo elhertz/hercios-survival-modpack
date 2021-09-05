@@ -1,0 +1,9 @@
+{
+	"armourSlows": true,
+	"maxSlowedMultiplier": 3.0,
+	"wingsSpeed": 0.05000000074505806,
+	"wingsDurability": 231,
+	"wingsAcceleration": 0.05000000074505806,
+	"exhaustionAmount": 0.09000000357627869,
+	"rollAmount": 1.0
+}
