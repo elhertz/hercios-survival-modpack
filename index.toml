@@ -81,11 +81,6 @@ hash = "b0cd3bdff9c78d360b7fbb05f1e0bf8b2cd58a61d95af16adaad5744a815bb26"
 metafile = true
 
 [[files]]
-file = "mods/both/biome-locator.toml"
-hash = "97f4223ad855852e858c8956307c50c60909bdfac7c0d08f59ae885fb59efdcb"
-metafile = true
-
-[[files]]
 file = "mods/both/bits-and-chisels.toml"
 hash = "6357d0ba176c625e0d57085c1fc7bc050344032e419401121a1b0386e3acce02"
 metafile = true
@@ -511,11 +506,6 @@ hash = "9e2e05e32a9bf28a0d62b0811682f9a3474c38075d56d577976fcbd6d8a7dc34"
 metafile = true
 
 [[files]]
-file = "mods/client/beehivetooltips.toml"
-hash = "b6cdf05445630ca4e4f55b3f5eff90bf79153e6d12ac1c14c5f36a5a55d8fe76"
-metafile = true
-
-[[files]]
 file = "mods/client/better-dropped-items.toml"
 hash = "321907a679b20e6dd69d205eb7a7a16c2e5809657dc41954dcf94a35a5ec8b67"
 metafile = true
@@ -636,6 +626,11 @@ hash = "2fa957f7b609ac0b2657de388e2815272c7f715ac59db9489f29ddcada40dd01"
 metafile = true
 
 [[files]]
+file = "mods/client/natures-compass.toml"
+hash = "904d0375c129ff62286a38d116586cf7067fe20d96abf18448b382772b926953"
+metafile = true
+
+[[files]]
 file = "mods/client/notifmod.toml"
 hash = "fc19132073f2d048df9e2f125fbbd8a77b30c7167ed1a997d1d948f4516fd1a3"
 metafile = true
@@ -683,11 +678,6 @@ metafile = true
 [[files]]
 file = "mods/client/tooltipfix.toml"
 hash = "db9915d2362a0ec9255f7afd3992d026bcec9ff9aabaedf6ebbc9f8b39670389"
-metafile = true
-
-[[files]]
-file = "mods/client/window-title-changer.toml"
-hash = "6510a0eeab940fd1fbe52538de6ec91808244b6cba5b237f8907911154533fdd"
 metafile = true
 
 [[files]]
