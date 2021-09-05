@@ -51,6 +51,11 @@ hash = "8a15c07499225d4bf1ac9a416b228950d5770dbfb8a666f97a4b8eaf2cfeea9b"
 metafile = true
 
 [[files]]
+file = "mods/both/backslotaddon.toml"
+hash = "65f38d647d0249fd52ddca38e86bbb3b87e0b1f900bb620d24f65416365e5dda"
+metafile = true
+
+[[files]]
 file = "mods/both/bclib.toml"
 hash = "f31317338a4b9295b2ec0119d1f21e099d83aa063f4b1af82991e964a8a3a259"
 metafile = true
@@ -571,8 +576,8 @@ hash = "79a02d6e05bcd981ee9d09982a85012c1f7e24486706fddc062c3b2732bcf27e"
 metafile = true
 
 [[files]]
-file = "mods/client/enchantment-descriptions.toml"
-hash = "86e9b9a8f00df084b6e3a69403879e6709c16f0544d1c78e03e2f7ba784aa393"
+file = "mods/client/enchanted-tooltips.toml"
+hash = "7e2a107266ebb01ebff4390bf27cfef89a1b63f9633ae75398ac6726261d9374"
 metafile = true
 
 [[files]]
@@ -603,11 +608,6 @@ metafile = true
 [[files]]
 file = "mods/client/indium.toml"
 hash = "e537d3642f3647a228821bfb1dce025aed04516b4bb5cf0712faedf03fe33b63"
-metafile = true
-
-[[files]]
-file = "mods/client/invmove-fabric.toml"
-hash = "98f8f5c38f1055733c57c2904df67d21b7d4b3c4d0900a514b334b9244aad70a"
 metafile = true
 
 [[files]]
