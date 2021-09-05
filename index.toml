@@ -205,6 +205,254 @@ file = "config/waystones/config.json"
 hash = "3a5e38e6b02fadc24550ce4c78bd6f6082d5d634d13ddb35601daa451ab978dd"
 
 [[files]]
+file = "config/yosbr/config/advancementplaques.json5"
+hash = "18d217f73a8375be5ea2c8e2240fc9f2ba39b9b3b8584c849f2d0f944e80053a"
+
+[[files]]
+file = "config/yosbr/config/appleskin.json5"
+hash = "1898ceb22e4521f276b5b457b567ba5f78cf5fd9cfd32235c74677dfb01c7683"
+
+[[files]]
+file = "config/yosbr/config/bobby.conf"
+hash = "f3cdbf439f46801303396fe735ed6fcbf7fc5f4f002fefbd8f1fc397c45d40f2"
+
+[[files]]
+file = "config/yosbr/config/capes.json5"
+hash = "f003acf51f5a3bf381ca40b5e16e0ffe281c1943d4d4c03d32fc26d89f8d6915"
+
+[[files]]
+file = "config/yosbr/config/dynamicfps.toml"
+hash = "2c3837e8e2a4ac19115f9ae468e67b37654fcde765057de2983a71bb40b35d6f"
+
+[[files]]
+file = "config/yosbr/config/emotecraft.json"
+hash = "76c20c264dfdb2dabe1085d31dd7630aa7b7ddd672ddf29dc4ad4edcf8a8b51c"
+
+[[files]]
+file = "config/yosbr/config/fabrication/dimensional_tools.ini"
+hash = "14eb4e8cd105c580403c4e5bc6bba831c81aedcf4e6e04485c74e9d3f253689f"
+
+[[files]]
+file = "config/yosbr/config/fabrication/features.ini"
+hash = "a9980f9f5c4c657efdbae2f1d3b772057c45206c6232ee42a41b25f5db04d668"
+
+[[files]]
+file = "config/yosbr/config/fabrication/gear_components.ini"
+hash = "5a9291467f9f7918687a0d138a61e396cb9299b0b4ea2e4cf4f4d6f3594f865b"
+
+[[files]]
+file = "config/yosbr/config/fabrication/item_despawn.ini"
+hash = "24b26ac0b8ff13889b6b3b00b2309366eb72c36014a9679a82f4cbff46c275f4"
+
+[[files]]
+file = "config/yosbr/config/fabrication/yeet_recipes.ini"
+hash = "939cfc95ed4a7480ac08d3f692538a348af72c6db693349c61f93f926976d1f2"
+
+[[files]]
+file = "config/yosbr/config/modmenu.json"
+hash = "6df2083901a28081c56b25f132df1df31dea27fddb7968d370cbffb595e0568f"
+
+[[files]]
+file = "config/yosbr/config/mousewheelie.hjson"
+hash = "c941d12bffe05178a19d755790507be4c929f38159f0e59014c78538b2e57766"
+
+[[files]]
+file = "config/yosbr/config/notifmod.json"
+hash = "39f5cfa6d822f8d2b5cd4ada1f9c8b985f31f27c0a218d8392e73ecb20626d7f"
+
+[[files]]
+file = "config/yosbr/config/okzoomer.json5"
+hash = "af42735416cf6ec07f7a55236c019e1c9f899b1a3355262cc0734936728eb243"
+
+[[files]]
+file = "config/yosbr/config/presencefootsteps/updater.json"
+hash = "4780f8de1dfa1ab6d4492a434d0269683814d19a53f9cadd897bb51e8e4f2e2a"
+
+[[files]]
+file = "config/yosbr/config/presencefootsteps/userconfig.json"
+hash = "636a415b417f1cf276c4778af31f9386112fd999544537c80c48c5b68450bd5e"
+
+[[files]]
+file = "config/yosbr/config/sodium-extra-options.json"
+hash = "8455041a0cc3a7a469a749a23031ec9dffd45b72328611946c52f588a506ab8c"
+
+[[files]]
+file = "config/yosbr/config/sodium-options.json"
+hash = "1b51438aec5000a0b3c9cb96a84ab02bb7d402b2cba06c4853be96ccdd8da51f"
+
+[[files]]
+file = "config/yosbr/config/waila/waila.json"
+hash = "820dd4a67a626f96eb6dfbf4e3cc8dff3e4b38dbbf850fc66faad3d03fbd5591"
+
+[[files]]
+file = "config/yosbr/config/waila/waila_plugins.json"
+hash = "70767bb13508d50c19c6f11ca869d7893c2a83ab5bac806e137fc4bf0a433aef"
+
+[[files]]
+file = "config/yosbr/config/xaerominimap.txt"
+hash = "72cdc8f0381fa06f7269e87f635d27b8d11eb2943c1e0047df34bb1fc0f49a0c"
+
+[[files]]
+file = "config/yosbr/emotes/Amogus.json"
+hash = "f11c0e2da5213bf1aae5bf76ca1d4293b611084f3d7877a0840dd2c95634d615"
+
+[[files]]
+file = "config/yosbr/emotes/Doggy_Style.json"
+hash = "c0dd27aad9f6d09983bf4e50e47c02527bc43c749be40ac7eacb342f7009019d"
+
+[[files]]
+file = "config/yosbr/emotes/Head.json"
+hash = "944aabed9336fd7eba6386e9eb2e6b8ce3054b95c4cabcb1263e52d8750fca60"
+
+[[files]]
+file = "config/yosbr/emotes/Laying_down.json"
+hash = "b2d45a56b121bc9ca9567383aa4315613a8c1b99f6da113a19d76a7de8b7049e"
+
+[[files]]
+file = "config/yosbr/emotes/Sieghail.json"
+hash = "3f790a4f92814440e87783994d439c625a0e85b552bf79e8d43128eeb3a76877"
+
+[[files]]
+file = "config/yosbr/emotes/Sit.json"
+hash = "d141f79ecd359f8922c593d0cc22add5bf360e8444aeb54f4294dab94abe3405"
+
+[[files]]
+file = "config/yosbr/emotes/Suck.json"
+hash = "5fe2ffd3b1b7a4fec175ce2b827115b6f18af1b9ab51f8ec2603af76e9a98495"
+
+[[files]]
+file = "config/yosbr/emotes/T-Pose.json"
+hash = "34403d92216708c0e69ceed01522b6336558dd20e6c52227f477b81116b12d49"
+
+[[files]]
+file = "config/yosbr/emotes/Talking_on_microphone.json"
+hash = "3c78888667f92150321538110cbfe0ebca8764505d0b70b24503f1ca31b0654f"
+
+[[files]]
+file = "config/yosbr/emotes/Tilts_forward_and_down.json"
+hash = "f399212ffedda5f0dfc4effba49b1fc4393424ecb94c2a96e133dd803be56042"
+
+[[files]]
+file = "config/yosbr/emotes/best_mates.json"
+hash = "fecf65e469a947e6f9143ed5f900c0c15c731ad3a379e42ccc28e55639430271"
+
+[[files]]
+file = "config/yosbr/emotes/crash_crazy.json"
+hash = "f79c5f91d9fe0014a18e6e8ed179f8dfbf30256aa9a1fd16d9602c9fd0fde647"
+
+[[files]]
+file = "config/yosbr/emotes/crash_crazy.png"
+hash = "5455cbfbf30d979064906612bd01d3f0f7127da51e19a65a1381a75daaa9a378"
+
+[[files]]
+file = "config/yosbr/emotes/defaultdance.json"
+hash = "a8728952d1c1afb6442a958672898935c588b8fbde6fee171e23b965b14d22a0"
+
+[[files]]
+file = "config/yosbr/emotes/died.json"
+hash = "c865c14ad8fdbe68e81f5c0ad7caf1c6558a1d59e32d3d3120c96b3ebbaa43f3"
+
+[[files]]
+file = "config/yosbr/emotes/f.json"
+hash = "0c7bff3b11b5928c6a2f3f8ff7004a41f19c072277114683da86512c0c2f01fc"
+
+[[files]]
+file = "config/yosbr/emotes/grace.json"
+hash = "b39d8edd896da3bda890924fb44c975d582373a6b96d7fc9fb55f4f03682e66f"
+
+[[files]]
+file = "config/yosbr/emotes/headball.json"
+hash = "9edfe4e4722a42fc42734ef65fbb69dc87d1641c7ec1c10d88a16a01994ed8e3"
+
+[[files]]
+file = "config/yosbr/emotes/hearthands.json"
+hash = "6c318960c48737b55dc0cf2677a5c14e27b0907777e77e28e74dccc1c02c271f"
+
+[[files]]
+file = "config/yosbr/emotes/knight_sit-1.json"
+hash = "49b76f6ccc2e7471db36d2504ea0d4b5f88c8f1b39174f611dc403f252d19472"
+
+[[files]]
+file = "config/yosbr/emotes/lay.json"
+hash = "1d9244ecc8192d4af93cc0cbb0a6eba23c88a1c228eb7fffecfddea1f133c1fd"
+
+[[files]]
+file = "config/yosbr/emotes/lay2.json"
+hash = "d5ac4e935783f048bade5548a3f976d70e30bcac0b7a0fe954640a4f98125711"
+
+[[files]]
+file = "config/yosbr/emotes/meditate.json"
+hash = "4135d798baf066acb5652d91e1e226a5ab6dfdcb4e49ffe12371b92844f50b4d"
+
+[[files]]
+file = "config/yosbr/emotes/narutonew.json"
+hash = "a85a1300cda19da6e2c4cb5800a6c2beead1f429a326d4ce29ee05f5e113ae7e"
+
+[[files]]
+file = "config/yosbr/emotes/penguin.json"
+hash = "83ce02fb9db009694e4c879ae861c120cfb523b0dbbc8d2c4bc78592990f5585"
+
+[[files]]
+file = "config/yosbr/emotes/poza3.json"
+hash = "2065c7688d3b5131ad4946bb85156d28b1659fb3b873b816b598df79393fcdef"
+
+[[files]]
+file = "config/yosbr/emotes/poza5.json"
+hash = "eb20b9d1557c0fa926fbf260a138a5c27cc61939ee74f4222c8648bbd9d83d89"
+
+[[files]]
+file = "config/yosbr/emotes/poza6.json"
+hash = "8aabd0aecbc23bccd13ec06fa0cd214931608d2eb1389613d7d50036c9a8d192"
+
+[[files]]
+file = "config/yosbr/emotes/poza7.json"
+hash = "95179c5ff075f818a3df2b82efb12b3550e5252ec60c60f8b1f2022324ed530b"
+
+[[files]]
+file = "config/yosbr/emotes/salute.json"
+hash = "9dafba67b902a43d9636d642349b89ac921ae531d999d1da8ff228fabffb9b2f"
+
+[[files]]
+file = "config/yosbr/emotes/sit2.json"
+hash = "7c4eb5fc621a90da7b0f2a07184133453c66b1d1dfa7ba265a2f8d71b88e0546"
+
+[[files]]
+file = "config/yosbr/emotes/think.json"
+hash = "0069128e9eb1b69c2712bb979dad5f94d69c10f9ab2501c3f73f0331afd48e53"
+
+[[files]]
+file = "config/yosbr/emotes/you_are_dead.json"
+hash = "262d08d8adb65216067eb23e7166c2f492c7013099ae7e0366c8a3401f6dd9f8"
+
+[[files]]
+file = "config/yosbr/img/loading_logo.png"
+hash = "577c943a94c35e9364515d9ab61d764e39cad6c30bd143184d07aa49ba9e43c5"
+
+[[files]]
+file = "config/yosbr/img/loading_texture.jpg"
+hash = "adbb4d8db0ba1a1781dd85cc96090e72a9332ed0c5b75a4f8f86e8874c73729a"
+
+[[files]]
+file = "config/yosbr/img/menu_logo.png"
+hash = "e4072812e6c8cf1630f5c17ecc009b4b79068d8e21a7b684f2ebe2a2b83ad4a3"
+
+[[files]]
+file = "config/yosbr/img/menu_sublogo.png"
+hash = "e0e53cd91ece90b3579fa9d725f37ca9eedbfadf308d161ed1d5f042ed098273"
+
+[[files]]
+file = "config/yosbr/options.amecsapi.txt"
+hash = "1057a4b52da034b398d20cfe474dc6656fc9ae8a28efeaecefac8f4e9971232a"
+
+[[files]]
+file = "config/yosbr/options.txt"
+hash = "409f394b8a0359855701187d9bd200df1213ec0c50d0b4d937b56a0dc36ef219"
+
+[[files]]
+file = "config/yosbr/servers.dat"
+hash = "08bca1e0fdd8e825b1f084f2eae5775d0909b9b57cd1100a17bbff25de7699b0"
+
+[[files]]
 file = "mods/both/adabranium.toml"
 hash = "1303587599c83805e886a6b686175b6bdf13dec7b7b812518fc559eaca8a027a"
 metafile = true

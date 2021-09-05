@@ -1,0 +1,81 @@
+{
+    "name": "T-Pose",
+    "author": "Lylac",
+    "description": "NO MOVEMENT, NO EXCEPTIONS",
+    "emote":{
+        "isLoop": "true",
+        "returnTick": 8,
+        "beginTick":0,
+        "endTick":20,
+        "stopTick":21,
+        "degrees":true,
+        "moves":[
+            
+            {
+                "tick":10,
+                "easing": "EASEOUTQUAD",
+                "turn": 0,
+                "head":{
+                    "yaw":0,
+                    "roll":0,
+                    "pitch":0,
+                    "x":0.0,
+                    "y":0.0,
+                    "z":0.0
+                }
+            },
+            {
+                "tick":10,
+                "easing": "EASEOUTQUAD",
+                "turn": 0,
+                "rightArm":{
+                    "yaw":90,
+                    "roll":90,
+                    "pitch":0.0,
+                    "x":-6.0,
+                    "y":2.0,
+                    "z":-1.0
+                }
+            },
+            {
+                "tick":10,
+                "easing": "EASEOUTQUAD",
+                "turn": 0,
+                "leftArm":{
+                    "yaw":-90,
+                    "roll":-90,
+                    "pitch":0.0,
+                    "x":6.0,
+                    "y":2.0,
+                    "z":-1.0
+                }
+            },
+            {
+                "tick":10,
+                "easing": "EASEOUTQUAD",
+                "turn": 0,
+                "leftLeg":{
+                    "yaw":0,
+                    "roll":0,
+                    "pitch":0,
+                    "x":2.0,
+                    "y":12.0,
+                    "z":0.0
+                }
+            },
+            {
+                "tick":10,
+                "easing": "EASEOUTQUAD",
+                "turn": 0,
+                "rightLeg":{
+                    "yaw":0,
+                    "roll":0,
+                    "pitch":0,
+                    "x":-2.0,
+                    "y":12.0,
+                    "z":0.0
+                }
+            }
+        ]
+    }
+}
