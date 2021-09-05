@@ -1,6 +1,6 @@
 name = "Nature's Compass"
 filename = "../NaturesCompass-1.17.1-2.0.1-fabric.jar"
-side = "client"
+side = "both"
 
 [download]
 url = "https://edge.forgecdn.net/files/3404/860/NaturesCompass-1.17.1-2.0.1-fabric.jar"

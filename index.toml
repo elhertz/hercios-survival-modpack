@@ -341,6 +341,11 @@ hash = "fbfaaf4e19b466c4f69412e7943d53f2602358a42e6edcdc24eaf0b227502b6c"
 metafile = true
 
 [[files]]
+file = "mods/both/natures-compass.toml"
+hash = "a580813fbb97cc953dfc957ef60e0972c4616af9eb250e679b4bf7748e87f684"
+metafile = true
+
+[[files]]
 file = "mods/both/near-sightedly.toml"
 hash = "9da8de2e8edeff62a33277066bdaa340c215f3c10acd66338321ddf3e8b0b73b"
 metafile = true
@@ -623,11 +628,6 @@ metafile = true
 [[files]]
 file = "mods/client/narrator-off.toml"
 hash = "2fa957f7b609ac0b2657de388e2815272c7f715ac59db9489f29ddcada40dd01"
-metafile = true
-
-[[files]]
-file = "mods/client/natures-compass.toml"
-hash = "904d0375c129ff62286a38d116586cf7067fe20d96abf18448b382772b926953"
 metafile = true
 
 [[files]]
