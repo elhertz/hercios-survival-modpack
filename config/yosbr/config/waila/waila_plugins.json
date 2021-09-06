@@ -17,10 +17,6 @@
     "redstone": true,
     "repeater": true
   },
-  "levelz": {
-    "mineable_info": true,
-    "mineable_level_info": true
-  },
   "waila": {
     "show_pos": false,
     "show_blocks": true,

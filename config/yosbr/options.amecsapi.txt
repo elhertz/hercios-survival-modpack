@@ -38,7 +38,6 @@ key_modifiers_key.emotecraft.fastchoose:
 key_modifiers_key.emotecraft.stop:
 key_modifiers_[Fabrication] Toggle/Hold Sprint:
 key_modifiers_[Fabrication] Toggle Stance:
-key_modifiers_[Fabrication] Crawl:
 key_modifiers_key.expandedstorage.config:
 key_modifiers_Reload Menu | CTRL + ALT + :
 key_modifiers_Toggle Customization Overlay | CTRL + ALT + :
@@ -90,8 +89,8 @@ key_modifiers_gui.xaero_toggle_map_waypoints:
 key_modifiers_gui.xaero_toggle_map:
 key_modifiers_gui.xaero_enlarge_map:
 key_modifiers_gui.xaero_waypoints_key:
-key_modifiers_gui.xaero_zoom_in:2
-key_modifiers_gui.xaero_zoom_out:2
+key_modifiers_gui.xaero_zoom_in:1
+key_modifiers_gui.xaero_zoom_out:1
 key_modifiers_gui.xaero_new_waypoint:
 key_modifiers_gui.xaero_display_all_sets:
 key_modifiers_gui.xaero_toggle_light_overlay:

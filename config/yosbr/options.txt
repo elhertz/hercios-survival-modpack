@@ -108,7 +108,6 @@ key_key.emotecraft.fastchoose:key.keyboard.b
 key_key.emotecraft.stop:key.keyboard.unknown
 key_[Fabrication] Toggle/Hold Sprint:key.keyboard.unknown
 key_[Fabrication] Toggle Stance:key.keyboard.unknown
-key_[Fabrication] Crawl:key.keyboard.c
 key_key.expandedstorage.config:key.keyboard.w
 key_Reload Menu | CTRL + ALT + :key.keyboard.unknown
 key_Toggle Customization Overlay | CTRL + ALT + :key.keyboard.unknown
@@ -142,7 +141,7 @@ key_gui.xaero_map_zoom_in:key.keyboard.unknown
 key_gui.xaero_map_zoom_out:key.keyboard.unknown
 key_gui.xaero_quick_confirm:key.keyboard.right.shift
 key_key.waila.config:key.keyboard.keypad.0
-key_key.waila.show_overlay:key.keyboard.keypad.1
+key_key.waila.show_overlay:key.keyboard.r
 key_key.waila.toggle_liquid:key.keyboard.keypad.2
 key_key.waila.show_recipe_input:key.keyboard.unknown
 key_key.waila.show_recipe_output:key.keyboard.unknown
@@ -160,8 +159,8 @@ key_gui.xaero_toggle_map_waypoints:key.keyboard.unknown
 key_gui.xaero_toggle_map:key.keyboard.unknown
 key_gui.xaero_enlarge_map:key.keyboard.z
 key_gui.xaero_waypoints_key:key.keyboard.u
-key_gui.xaero_zoom_in:amecsapi.key.mouse.scroll.up
-key_gui.xaero_zoom_out:amecsapi.key.mouse.scroll.down
+key_gui.xaero_zoom_in:key.keyboard.1
+key_gui.xaero_zoom_out:key.keyboard.2
 key_gui.xaero_new_waypoint:key.keyboard.n
 key_gui.xaero_display_all_sets:key.keyboard.unknown
 key_gui.xaero_toggle_light_overlay:key.keyboard.unknown

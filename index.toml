@@ -282,11 +282,11 @@ hash = "1b51438aec5000a0b3c9cb96a84ab02bb7d402b2cba06c4853be96ccdd8da51f"
 
 [[files]]
 file = "config/yosbr/config/waila/waila.json"
-hash = "820dd4a67a626f96eb6dfbf4e3cc8dff3e4b38dbbf850fc66faad3d03fbd5591"
+hash = "61da8cc311faa857de197d97b616da96f021488e803047ec839034cf17bfd392"
 
 [[files]]
 file = "config/yosbr/config/waila/waila_plugins.json"
-hash = "70767bb13508d50c19c6f11ca869d7893c2a83ab5bac806e137fc4bf0a433aef"
+hash = "97ef697075609211feaad140b5c5a84b2655aec3c8efd4096098d43026c131f0"
 
 [[files]]
 file = "config/yosbr/config/xaerominimap.txt"
@@ -442,11 +442,11 @@ hash = "e0e53cd91ece90b3579fa9d725f37ca9eedbfadf308d161ed1d5f042ed098273"
 
 [[files]]
 file = "config/yosbr/options.amecsapi.txt"
-hash = "1057a4b52da034b398d20cfe474dc6656fc9ae8a28efeaecefac8f4e9971232a"
+hash = "6974ef120323a75f571944d0517cbb6ab31a4c2a5a7b555c9d00c983c7541b19"
 
 [[files]]
 file = "config/yosbr/options.txt"
-hash = "409f394b8a0359855701187d9bd200df1213ec0c50d0b4d937b56a0dc36ef219"
+hash = "ab90451181446c976d2bdbc431551c2b926ba0e9dd772f5eadaf7ec5303cbf91"
 
 [[files]]
 file = "config/yosbr/servers.dat"

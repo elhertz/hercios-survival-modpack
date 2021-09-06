@@ -3,7 +3,7 @@
   "general": {
     "displayTooltip": true,
     "shiftForDetails": false,
-    "displayMode": "TOGGLE",
+    "displayMode": "HOLD_KEY",
     "hideFromPlayerList": true,
     "hideFromDebug": true,
     "enableTextToSpeech": false,
