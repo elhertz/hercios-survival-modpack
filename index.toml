@@ -1213,11 +1213,6 @@ hash = "487538c88da5f60ddf320cc3293071ccc7b925b229ddefcf47aaab2b9414df5b"
 metafile = true
 
 [[files]]
-file = "mods/server/discerning-furnace.toml"
-hash = "02258aed1224b7a1e871b43f917cc1360004fcc00172ee997ab9d1b804359873"
-metafile = true
-
-[[files]]
 file = "mods/server/dual-riders.toml"
 hash = "19a131073428d7783e36de841383f2b4e66b9431c35072aaeec38364ce487f83"
 metafile = true
