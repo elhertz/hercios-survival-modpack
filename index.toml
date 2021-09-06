@@ -1373,11 +1373,6 @@ hash = "9a85111aeca905d8db243bc43a6b78bb8dcf3252d4786579b08b46af8f258482"
 metafile = true
 
 [[files]]
-file = "mods/server/sneak-nether-portals.toml"
-hash = "10d8cad002008a0e4dcf38dc51ec72d34f703a31aa74ed0eef2e025a9943b94d"
-metafile = true
-
-[[files]]
 file = "mods/server/snowball-and-egg-knockback.toml"
 hash = "e8b37c8f043a9a69fdefba60de182553c4ff8a0286a779481d05e83475e98c92"
 metafile = true
