@@ -78,7 +78,7 @@ hash = "21300dad75334098c187d4b69260e1731ecf993005c70fb6827179b6136e2241"
 
 [[files]]
 file = "config/carrier.json"
-hash = "cb119901a8fc6c9e761ad34f2425e3513702fb1224ca38c2e34a283f5a719cb8"
+hash = "5c18818e3aa9506430efef418e97826a1a40b97b379cd4dedf3146b9a3c1496d"
 
 [[files]]
 file = "config/charm.toml"
