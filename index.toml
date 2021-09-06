@@ -478,6 +478,11 @@ hash = "a17b71e95897ade72e9b6f2b9e655a3e34e769f75c1b979f7106ef4421a410e9"
 metafile = true
 
 [[files]]
+file = "mods/both/appleskin.toml"
+hash = "bcd1e610aa60791c5659b8671462a257cf179c6d6b769669349a85bd4635eb33"
+metafile = true
+
+[[files]]
 file = "mods/both/architects-palette-fabric.toml"
 hash = "c5adacccd5595fc81b98d69c25ebd13d53973a74785325cf3302aebf7686d2b5"
 metafile = true
@@ -955,11 +960,6 @@ metafile = true
 [[files]]
 file = "mods/client/amecs.toml"
 hash = "68a63fad57e2295b07d746dd62167d4dfe48a40dd06b5393777be9645eebcf3d"
-metafile = true
-
-[[files]]
-file = "mods/client/appleskin.toml"
-hash = "9e2e05e32a9bf28a0d62b0811682f9a3474c38075d56d577976fcbd6d8a7dc34"
 metafile = true
 
 [[files]]
