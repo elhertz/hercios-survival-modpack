@@ -198,7 +198,7 @@ hash = "9d8cdb52394221c033b6b2c72ba7b8018a7fb5c658f7e6e2b7fece5f9c2d4fa6"
 
 [[files]]
 file = "config/simple-rpc.toml"
-hash = "a0b70111f0afa68814bb5780ea24fde145d4600e3740122af7fcf4f031505fb8"
+hash = "2d8dd0529f97df5e61c5aeeb03510bcd57ec6f87b1014563a37642a09bc74fc9"
 
 [[files]]
 file = "config/waystones/config.json"
@@ -800,11 +800,6 @@ metafile = true
 [[files]]
 file = "mods/both/natures-compass.toml"
 hash = "a580813fbb97cc953dfc957ef60e0972c4616af9eb250e679b4bf7748e87f684"
-metafile = true
-
-[[files]]
-file = "mods/both/near-sightedly.toml"
-hash = "9da8de2e8edeff62a33277066bdaa340c215f3c10acd66338321ddf3e8b0b73b"
 metafile = true
 
 [[files]]

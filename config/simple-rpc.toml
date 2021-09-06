@@ -25,11 +25,11 @@
 	#The second line of text under the app name
 	state = "El juego comienza..."
 	#The Asset ID of the image to display as the large image
-	largeImageKey = "mc_logo"
+	largeImageKey = "modslogo"
 	#The text that gets displayed when the large image is hovered
 	largeImageText = "Minecraft %mcver%, pero con mods"
 	#The Asset ID of the image to display as the small image
-	smallImageKey = "mc_logo"
+	smallImageKey = "modslogo"
 	#The text that gets displayed when the small image is hovered
 	smallImageText = "%mods% mods"
 	#The buttons to display on Discord
@@ -44,11 +44,11 @@
 	#The seconds line of text under the app name
 	state = "Chilling"
 	#The Asset ID of the image to display as the large image
-	largeImageKey = "mc_logo"
+	largeImageKey = "modslogo"
 	#The text that gets displayed when the large image is hovered
 	largeImageText = "Minecraft %mcver%, pero con mods"
 	#The Asset ID of the image to display as the small image
-	smallImageKey = "mc_logo"
+	smallImageKey = "modslogo"
 	#The text that gets displayed when the small image is hovered
 	smallImageText = "%mods% mods"
 	#The buttons to display on Discord
@@ -63,11 +63,11 @@
 	#The second line of text under the app name
 	state = "Chilling"
 	#The Asset ID of the image to display as the large image
-	largeImageKey = "mc_logo"
+	largeImageKey = "modslogo"
 	#The text that gets displayed when the large image is hovered
 	largeImageText = "Minecraft %mcver%, pero con mods"
 	#The Asset ID of the image to display as the small image
-	smallImageKey = "mc_logo"
+	smallImageKey = "modslogo"
 	#The text that gets displayed when the small image is hovered
 	smallImageText = "%mods% mods"
 	#The buttons to display on Discord
@@ -82,11 +82,11 @@
 	#The second line of text under the app name
 	state = "Joining Game"
 	#The Asset ID of the image to display as the large image
-	largeImageKey = "mc_logo"
+	largeImageKey = "modslogo"
 	#The text that gets displayed when the large image is hovered
 	largeImageText = "Minecraft %mcver%, pero con mods"
 	#The Asset ID of the image to display as the small image
-	smallImageKey = "mc_logo"
+	smallImageKey = "modslogo"
 	#The text that gets displayed when the small image is hovered
 	smallImageText = "%mods% mods"
 	#The buttons to display on Discord
@@ -101,11 +101,11 @@
 	#The second line of text under the app name
 	state = "Jugando en singleplayer"
 	#The Asset ID of the image to display as the large image
-	largeImageKey = "mc_logo"
+	largeImageKey = "modslogo"
 	#The text that gets displayed when the large image is hovered
 	largeImageText = "Minecraft %mcver%, pero con mods"
 	#The Asset ID of the image to display as the small image
-	smallImageKey = "mc_logo"
+	smallImageKey = "modslogo"
 	#The text that gets displayed when the small image is hovered
 	smallImageText = "%mods% mods"
 	#The buttons to display on Discord
@@ -120,11 +120,11 @@
 	#The second line of text under the app name
 	state = "Jugando online"
 	#The Asset ID of the image to display as the large image
-	largeImageKey = "mc_logo"
+	largeImageKey = "modslogo"
 	#The text that gets displayed when the large image is hovered
 	largeImageText = "Minecraft %mcver%, pero con mods"
 	#The Asset ID of the image to display as the small image
-	smallImageKey = "mc_logo"
+	smallImageKey = "modslogo"
 	#The text that gets displayed when the small image is hovered
 	smallImageText = "%mods% mods"
 	#The buttons to display on Discord
@@ -137,11 +137,11 @@
 	#The second line of text under the app name
 	state = ""
 	#The Asset ID of the image to display as the large image
-	largeImageKey = "mc_logo"
+	largeImageKey = "modslogo"
 	#The text that gets displayed when the large image is hovered
 	largeImageText = "Minecraft %mcver%, pero con mods"
 	#The Asset ID of the image to display as the small image
-	smallImageKey = "mc_logo"
+	smallImageKey = "modslogo"
 	#The text that gets displayed when the small image is hovered
 	smallImageText = "%mods% mods"
 	#The buttons to display on Discord
@@ -159,7 +159,7 @@
 		state = ""
 		largeImageKey = "overworld"
 		largeImageText = "In the Overworld"
-		smallImageKey = "mc_logo"
+		smallImageKey = "modslogo"
 		smallImageText = "%mods% mods"
 
 	[[dimension_overrides.dimensions]]
@@ -168,7 +168,7 @@
 		state = ""
 		largeImageKey = "nether"
 		largeImageText = "In the Nether"
-		smallImageKey = "mc_logo"
+		smallImageKey = "modslogo"
 		smallImageText = "%mods% mods"
 
 	[[dimension_overrides.dimensions]]
@@ -177,6 +177,6 @@
 		state = ""
 		largeImageKey = "end"
 		largeImageText = "In the End"
-		smallImageKey = "mc_logo"
+		smallImageKey = "modslogo"
 		smallImageText = "%mods% mods"
 
