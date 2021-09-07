@@ -1,6 +1,6 @@
 name = "KubeJS (Fabric)"
 filename = "../kubejs-fabric-1605.3.10-build.9999.jar"
-side = "server"
+side = "both"
 
 [download]
 url = "https://edge.forgecdn.net/files/3355/296/kubejs-fabric-1605.3.10-build.9999.jar"

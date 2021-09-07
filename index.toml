@@ -453,6 +453,22 @@ file = "config/yosbr/servers.dat"
 hash = "08bca1e0fdd8e825b1f084f2eae5775d0909b9b57cd1100a17bbff25de7699b0"
 
 [[files]]
+file = "kubejs/client_scripts/rei_unification.js"
+hash = "08e19c26617147e45f59806b31924e0029df1755417b4fdfe2871b12ddb161ec"
+
+[[files]]
+file = "kubejs/config/client.properties"
+hash = "a24d25fbb2aed26e3da142e010c425ee474e8019c41414137e7fb9ac9c6c488f"
+
+[[files]]
+file = "kubejs/config/common.properties"
+hash = "7504930a24d137e3a4badc65c55957823ced23ab3c4e78bea51bb950d996a03e"
+
+[[files]]
+file = "kubejs/startup_scripts/packversion.js"
+hash = "30def9282657e424f96a7a85c915fa57e5f8c222dc8246bc3746f24f55d36288"
+
+[[files]]
 file = "mods/both/adabranium.toml"
 hash = "1303587599c83805e886a6b686175b6bdf13dec7b7b812518fc559eaca8a027a"
 metafile = true
@@ -763,6 +779,11 @@ hash = "db6f89ac0cea115da4ff96e6ff6bc840730dbe4c70fd846607b1aaa3b32d4cd6"
 metafile = true
 
 [[files]]
+file = "mods/both/kubejs-fabric.toml"
+hash = "66dcbb924315ab668aea4feb107f1e3360185a7c13159e44b5894071c4486cb2"
+metafile = true
+
+[[files]]
 file = "mods/both/lazydfu.toml"
 hash = "a836c33884e8cb5339002e09cce3c7c44a4435cdd27e808a3d811b2cac6c9576"
 metafile = true
@@ -805,11 +826,6 @@ metafile = true
 [[files]]
 file = "mods/both/natures-compass.toml"
 hash = "a580813fbb97cc953dfc957ef60e0972c4616af9eb250e679b4bf7748e87f684"
-metafile = true
-
-[[files]]
-file = "mods/both/nether-chest.toml"
-hash = "db9754b53f97a5ce4c939e6063272b69a41f91d0f8b0b76ca2a024da82f9d698"
 metafile = true
 
 [[files]]
@@ -880,11 +896,6 @@ metafile = true
 [[files]]
 file = "mods/both/the-graveyard-fabric.toml"
 hash = "78b6419687c8a3db9e745ed473b71f06c26ee948468395a688e6628befde2494"
-metafile = true
-
-[[files]]
-file = "mods/both/throwabletorch-fabric.toml"
-hash = "c38b7bc1db362af75f2f803ff9afb54d8bea4af520c36d88fd7d5dae11b4d4d3"
 metafile = true
 
 [[files]]
@@ -1108,6 +1119,11 @@ hash = "9ecc1d232b1f04a4935020c90af06bb6c2c9e016596d909f4a3c655a38cb1c60"
 metafile = true
 
 [[files]]
+file = "mods/client/skin-layers-3d.toml"
+hash = "94ca3525dccf121ae848922657d3f946d2fa5580c2f68e52fae84ec0483ac2d3"
+metafile = true
+
+[[files]]
 file = "mods/client/sodium-extra.toml"
 hash = "920ebbfbdf8cb6582726b1f86ee66a3adee963a5b6dde92d1a33abce69e8aa47"
 metafile = true
@@ -1270,11 +1286,6 @@ metafile = true
 [[files]]
 file = "mods/server/invview.toml"
 hash = "a3e791b5a653a434591aec5b7adee90ff59cd9a4f408a09035438fdec8431c2f"
-metafile = true
-
-[[files]]
-file = "mods/server/kubejs-fabric.toml"
-hash = "de1248a33634291a26a4122de41fc4c389c4d84b923d8a3c44c080564a1ded84"
 metafile = true
 
 [[files]]
