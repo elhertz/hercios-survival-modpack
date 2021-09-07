@@ -1114,11 +1114,6 @@ hash = "42b29d057385781a239c19d79c678e18fa221e2e6da2b60dca9545e23ca38a6e"
 metafile = true
 
 [[files]]
-file = "mods/client/roughly-searchable.toml"
-hash = "758d54d117fae14ffce160a37019f1247b8f6cd3cc3043382e996bd73b6d2b2c"
-metafile = true
-
-[[files]]
 file = "mods/client/sheep-consistency.toml"
 hash = "9ecc1d232b1f04a4935020c90af06bb6c2c9e016596d909f4a3c655a38cb1c60"
 metafile = true
