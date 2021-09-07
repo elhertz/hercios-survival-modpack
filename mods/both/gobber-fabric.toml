@@ -1,14 +1,14 @@
 name = "Gobber [FABRIC]"
-filename = "../Gobber2-Fabric-1.17.1-2.4.42.jar"
+filename = "../Gobber2-Fabric-1.17.1-2.4.44.jar"
 side = "both"
 
 [download]
-url = "https://edge.forgecdn.net/files/3446/648/Gobber2-Fabric-1.17.1-2.4.42.jar"
+url = "https://edge.forgecdn.net/files/3452/118/Gobber2-Fabric-1.17.1-2.4.44.jar"
 hash-format = "murmur2"
-hash = "775573466"
+hash = "447931042"
 
 [update]
 [update.curseforge]
-file-id = 3446648
+file-id = 3452118
 project-id = 427177
 release-channel = "beta"

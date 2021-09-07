@@ -619,7 +619,7 @@ metafile = true
 
 [[files]]
 file = "mods/both/eldritch-mobs.toml"
-hash = "4930135a3400921feb4adf37bfab461185ae0d1b69ef94f53ab64bebc0226de6"
+hash = "b7fe897a78ffab3603939928fe0502718fdbbe97b7ddda74b408fcfaac03a182"
 metafile = true
 
 [[files]]
@@ -704,12 +704,12 @@ metafile = true
 
 [[files]]
 file = "mods/both/gobber-fabric.toml"
-hash = "a2ad3ec4684ad5ad479e57d7c1bcbe50e51e921bf4778f6667cb25acd767e7b2"
+hash = "4d3461bf651fe75f46495bfa9d68c2668036df28d5180602cc72f478cbd51ba3"
 metafile = true
 
 [[files]]
 file = "mods/both/golems-galore.toml"
-hash = "3b4dbe112d2188d3e1f6cccab0fb630106fae28f4d25e2bde8c0528523dcc663"
+hash = "e870ab3e122ab4d6875129b1beb0b66b46535fe5908ac360890f3e2b67de23f8"
 metafile = true
 
 [[files]]
@@ -719,7 +719,7 @@ metafile = true
 
 [[files]]
 file = "mods/both/grind-enchantments.toml"
-hash = "ec57259970b5b927d92116d79a27757d3c4fab2b665fa36798fe97eb22bc8a6d"
+hash = "b8aefdbaaa79c10c7de58c859718458d6ba3407567b49a21fca8ac53a1784885"
 metafile = true
 
 [[files]]
@@ -799,7 +799,7 @@ metafile = true
 
 [[files]]
 file = "mods/both/more-villagers-fabric.toml"
-hash = "fbfaaf4e19b466c4f69412e7943d53f2602358a42e6edcdc24eaf0b227502b6c"
+hash = "7a528656597ea67ee13cf7b9a5fb7c17f2f4e85101e2bf12e4a23673574409a2"
 metafile = true
 
 [[files]]
@@ -859,12 +859,17 @@ metafile = true
 
 [[files]]
 file = "mods/both/simple-voice-chat.toml"
-hash = "2934fc4361c316eac4a318748adf00996ffc981bb52be47b17e4852804d9febb"
+hash = "4b1d92531e0582b7d1ebd819ad18e32f7ea6c50bbee8d9c9a42893e8b2c20150"
 metafile = true
 
 [[files]]
 file = "mods/both/slimeologymc.toml"
 hash = "36b648aeb9580f0bc05b93c6c4d2a2bbbfc9892e07d3e88f19ce603006235508"
+metafile = true
+
+[[files]]
+file = "mods/both/spellbound-enchantments.toml"
+hash = "38e90db5fcb0e1ecebf5f8813fcedcfd77e88a32d6a2d04879e7a5a297b0591f"
 metafile = true
 
 [[files]]
@@ -919,7 +924,7 @@ metafile = true
 
 [[files]]
 file = "mods/both/wolves-with-armor.toml"
-hash = "04bfaba0d53f0a0d8ec7c6a88736e45eeb7c92442bbcb1af0f6ddbb2753c87e4"
+hash = "d434c8ae1197fde29b0a6cde300003ab75e9e11ea7725775291e366f890516db"
 metafile = true
 
 [[files]]
@@ -1004,7 +1009,7 @@ metafile = true
 
 [[files]]
 file = "mods/client/drippy-loading-screen-fabric.toml"
-hash = "65f3ebace82d1c24336b2f6f5f6f3399b337d963c623095877818aea1dfc0f2e"
+hash = "4282696a9fb2609e6b7e4c242e1fdb2582454b40d3691fb104045ac38a3424a9"
 metafile = true
 
 [[files]]
@@ -1059,7 +1064,7 @@ metafile = true
 
 [[files]]
 file = "mods/client/modmenu.toml"
-hash = "a45e2c305eb746aade3662d593532188d397a8b6e76eb0adb09d44deee404e75"
+hash = "0b06066518732ad1704c8e426304292eb67cc53f54da2a600d818546435f3aea"
 metafile = true
 
 [[files]]
@@ -1149,7 +1154,7 @@ metafile = true
 
 [[files]]
 file = "mods/server/anti-xray.toml"
-hash = "c6b9b5ac069dc84cb8dfd4278f5686578b0301bacdb1f594128a8bb1dc73522a"
+hash = "5312ff75d3c2ddb79457f535beabf817b145c2cb0ca87f43f3f7c4eaeb2fc6b2"
 metafile = true
 
 [[files]]
@@ -1344,7 +1349,7 @@ metafile = true
 
 [[files]]
 file = "mods/server/repurposed-structures-fabric.toml"
-hash = "e96b87f6a1cf76e4c2c1a4d7cbda4da49435d10150dee61c467e34891f7355e0"
+hash = "3d6e8d23e93289cb2731589163f4f3188fdfc24650a30abb78496f3640214af0"
 metafile = true
 
 [[files]]
@@ -1359,7 +1364,7 @@ metafile = true
 
 [[files]]
 file = "mods/server/sit.toml"
-hash = "eeb613a395961b7c3e9acb52110d8482605554fc03fe04b416e0bf18482dcb22"
+hash = "792d7f196c7606bd2453f10946151e20b2233148693df7289b8ad6b9d859042c"
 metafile = true
 
 [[files]]
