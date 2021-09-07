@@ -1318,11 +1318,6 @@ hash = "7abcb9b1113ab4e6221bd3e9c3593cfd187a3615c0a4b0a3c65adba8ff38fc7a"
 metafile = true
 
 [[files]]
-file = "mods/server/neutral-animals.toml"
-hash = "22d48ffd2a3de33d86795c307015ade80f2f06d50b7549aaee5a5202bf00f381"
-metafile = true
-
-[[files]]
 file = "mods/server/no-teleport-cooldown.toml"
 hash = "a7fcd37ff3368c23ba0416ec6d1d0291ec1fc30a001f793181643395fff56c30"
 metafile = true
