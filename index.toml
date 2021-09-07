@@ -620,6 +620,7 @@ metafile = true
 [[files]]
 file = "mods/both/dual-riders.toml"
 hash = "780e029863fb8d0276c787196f0551d459b99cda2f368d1710dfe489d5d497bd"
+metafile = true
 
 [[files]]
 file = "mods/both/eldritch-mobs.toml"
