@@ -101,6 +101,26 @@ file = "config/eldritch_mobs.json5"
 hash = "db8ca3eb2c649e6e1c4b8a06342f308abf4b2d777cd6ce2afe6bff05ede0defe"
 
 [[files]]
+file = "config/fabrication/dimensional_tools.ini"
+hash = "14eb4e8cd105c580403c4e5bc6bba831c81aedcf4e6e04485c74e9d3f253689f"
+
+[[files]]
+file = "config/fabrication/features.ini"
+hash = "3316e852b2bf9c19f3746b0c7da695623c64d01f0cabd045a5229f13cfefe1d0"
+
+[[files]]
+file = "config/fabrication/gear_components.ini"
+hash = "5a9291467f9f7918687a0d138a61e396cb9299b0b4ea2e4cf4f4d6f3594f865b"
+
+[[files]]
+file = "config/fabrication/item_despawn.ini"
+hash = "24b26ac0b8ff13889b6b3b00b2309366eb72c36014a9679a82f4cbff46c275f4"
+
+[[files]]
+file = "config/fabrication/yeet_recipes.ini"
+hash = "939cfc95ed4a7480ac08d3f692538a348af72c6db693349c61f93f926976d1f2"
+
+[[files]]
 file = "config/fabricenchantments/backupconfig.json"
 hash = "3e8d3d981ed5ca4115e95e18a970465811bb93784bf0bd7d8a9b4d11a253cc28"
 
@@ -227,26 +247,6 @@ hash = "2c3837e8e2a4ac19115f9ae468e67b37654fcde765057de2983a71bb40b35d6f"
 [[files]]
 file = "config/yosbr/config/emotecraft.json"
 hash = "76c20c264dfdb2dabe1085d31dd7630aa7b7ddd672ddf29dc4ad4edcf8a8b51c"
-
-[[files]]
-file = "config/yosbr/config/fabrication/dimensional_tools.ini"
-hash = "14eb4e8cd105c580403c4e5bc6bba831c81aedcf4e6e04485c74e9d3f253689f"
-
-[[files]]
-file = "config/yosbr/config/fabrication/features.ini"
-hash = "a9980f9f5c4c657efdbae2f1d3b772057c45206c6232ee42a41b25f5db04d668"
-
-[[files]]
-file = "config/yosbr/config/fabrication/gear_components.ini"
-hash = "5a9291467f9f7918687a0d138a61e396cb9299b0b4ea2e4cf4f4d6f3594f865b"
-
-[[files]]
-file = "config/yosbr/config/fabrication/item_despawn.ini"
-hash = "24b26ac0b8ff13889b6b3b00b2309366eb72c36014a9679a82f4cbff46c275f4"
-
-[[files]]
-file = "config/yosbr/config/fabrication/yeet_recipes.ini"
-hash = "939cfc95ed4a7480ac08d3f692538a348af72c6db693349c61f93f926976d1f2"
 
 [[files]]
 file = "config/yosbr/config/modmenu.json"
@@ -618,6 +618,10 @@ hash = "d08e25026d827f9ad2ce59dc53cd0e941a203e6e097264bfb50597fa196193d3"
 metafile = true
 
 [[files]]
+file = "mods/both/dual-riders.toml"
+hash = "780e029863fb8d0276c787196f0551d459b99cda2f368d1710dfe489d5d497bd"
+
+[[files]]
 file = "mods/both/eldritch-mobs.toml"
 hash = "b7fe897a78ffab3603939928fe0502718fdbbe97b7ddda74b408fcfaac03a182"
 metafile = true
@@ -718,8 +722,8 @@ hash = "9f0a644e9199d86ad704eaa74aa94da21a637ba2ca2f5aacd0ef864b899bbfce"
 metafile = true
 
 [[files]]
-file = "mods/both/grind-enchantments.toml"
-hash = "b8aefdbaaa79c10c7de58c859718458d6ba3407567b49a21fca8ac53a1784885"
+file = "mods/both/herbs-extra-enchants.toml"
+hash = "f9bf2dbc8f77cb9e60e7758960438549da3527234bbf00dbe225202cc06eb3a2"
 metafile = true
 
 [[files]]
@@ -1215,11 +1219,6 @@ metafile = true
 [[files]]
 file = "mods/server/dimension-fix-some-forge-patches-ported.toml"
 hash = "487538c88da5f60ddf320cc3293071ccc7b925b229ddefcf47aaab2b9414df5b"
-metafile = true
-
-[[files]]
-file = "mods/server/dual-riders.toml"
-hash = "19a131073428d7783e36de841383f2b4e66b9431c35072aaeec38364ce487f83"
 metafile = true
 
 [[files]]

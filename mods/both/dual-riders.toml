@@ -1,6 +1,6 @@
 name = "Dual Riders"
 filename = "../DualRiders-1.17-1.0.5.jar"
-side = "server"
+side = "both"
 
 [download]
 url = "https://edge.forgecdn.net/files/3328/690/DualRiders-1.17-1.0.5.jar"
