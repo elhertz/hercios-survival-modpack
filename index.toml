@@ -1272,6 +1272,11 @@ hash = "a3e791b5a653a434591aec5b7adee90ff59cd9a4f408a09035438fdec8431c2f"
 metafile = true
 
 [[files]]
+file = "mods/server/kubejs-fabric.toml"
+hash = "de1248a33634291a26a4122de41fc4c389c4d84b923d8a3c44c080564a1ded84"
+metafile = true
+
+[[files]]
 file = "mods/server/lapis-reserve.toml"
 hash = "98b932638d85c42367d575dbe895b026508a4fa4b3ca1af6061e3f73d2816f3f"
 metafile = true
@@ -1339,6 +1344,11 @@ metafile = true
 [[files]]
 file = "mods/server/repurposed-structures-fabric.toml"
 hash = "3d6e8d23e93289cb2731589163f4f3188fdfc24650a30abb78496f3640214af0"
+metafile = true
+
+[[files]]
+file = "mods/server/rhino.toml"
+hash = "e3724a4766ebd15d8c89da44e0150c28057010caf3394547d989e4ac8adf8147"
 metafile = true
 
 [[files]]
