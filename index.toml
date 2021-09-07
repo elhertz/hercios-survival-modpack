@@ -640,7 +640,7 @@ metafile = true
 
 [[files]]
 file = "mods/both/eldritch-mobs.toml"
-hash = "b7fe897a78ffab3603939928fe0502718fdbbe97b7ddda74b408fcfaac03a182"
+hash = "c42ca1e254ee62e241c6cc3a18b157720a913e37d1d1ae56922694a5f2bd4da0"
 metafile = true
 
 [[files]]
@@ -1205,7 +1205,7 @@ metafile = true
 
 [[files]]
 file = "mods/server/boxofplaceholders.toml"
-hash = "97e0a54de6072989dc1a96fc56e4ac1d5fd6132ce59e6fd669ae6dc52e3a96b1"
+hash = "2fc23339079e34558e39b746509f1ccfb65b6ab24d840bc9efea1a758cd9ebf9"
 metafile = true
 
 [[files]]
@@ -1405,7 +1405,7 @@ metafile = true
 
 [[files]]
 file = "mods/server/styled-nicknames.toml"
-hash = "b843abd550d5a21bf3b6975db9496787fe5f6a9f745a39ab59c6a6172d1f4213"
+hash = "680656d5cd29216158589dca9fb0941f3e6d5c714f9ae8023074846f8e3a4728"
 metafile = true
 
 [[files]]
