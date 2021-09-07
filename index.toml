@@ -859,6 +859,11 @@ hash = "10f2668296016249be06251a0a590c9674edd2530b7d6223e7084a811a5d7af3"
 metafile = true
 
 [[files]]
+file = "mods/both/rhino.toml"
+hash = "dffcfaee935f5ec9e88dd4a0b715d128b60975761a37a6f97b68696ab4429474"
+metafile = true
+
+[[files]]
 file = "mods/both/roughly-enough-items.toml"
 hash = "811e1c16a4affc7342ed46d6fbba59dd562553741fd3be859f0a6b97d04eb125"
 metafile = true
@@ -1356,11 +1361,6 @@ metafile = true
 [[files]]
 file = "mods/server/repurposed-structures-fabric.toml"
 hash = "3d6e8d23e93289cb2731589163f4f3188fdfc24650a30abb78496f3640214af0"
-metafile = true
-
-[[files]]
-file = "mods/server/rhino.toml"
-hash = "e3724a4766ebd15d8c89da44e0150c28057010caf3394547d989e4ac8adf8147"
 metafile = true
 
 [[files]]
