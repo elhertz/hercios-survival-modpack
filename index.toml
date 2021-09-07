@@ -777,11 +777,6 @@ hash = "3b65b7e3713e6ddf7cb6875581eab56b02653361fabf00636d810a3c5b56104d"
 metafile = true
 
 [[files]]
-file = "mods/both/magick-potions-and-pearls.toml"
-hash = "f8f479bd2ae3e216401a593a1d73069fb31a1b8bdd55a9b76f32cfcb30ecc950"
-metafile = true
-
-[[files]]
 file = "mods/both/modern-glass-doors.toml"
 hash = "c124a2967398f834d23d9e4588cbe19a0fae186fb20bd83f1084197c9527e782"
 metafile = true
