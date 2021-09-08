@@ -1435,6 +1435,11 @@ hash = "c74da19bf35f579e3ede11e53ae4bd47f485d557ef45e1f77db79f717663d617"
 metafile = true
 
 [[files]]
+file = "mods/server/world-border-fix.toml"
+hash = "18437536a52fc74ce054198e409029f46c778e91205e0b88b94d9a13dc5e536b"
+metafile = true
+
+[[files]]
 file = "mods/server/yungs-api-fabric.toml"
 hash = "f828e77bb9dbd3a8b838f06a1bfd5f3ce628873f70f05fca0952c9760cc2a56d"
 metafile = true

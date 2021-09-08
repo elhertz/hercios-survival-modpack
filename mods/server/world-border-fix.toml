@@ -1,0 +1,14 @@
+name = "../World Border Fix"
+filename = "worldborderfix-1.2-fabric-1.17.jar"
+side = "server"
+
+[download]
+url = "https://edge.forgecdn.net/files/3344/609/worldborderfix-1.2-fabric-1.17.jar"
+hash-format = "murmur2"
+hash = "3083761639"
+
+[update]
+[update.curseforge]
+file-id = 3344609
+project-id = 443120
+release-channel = "beta"
