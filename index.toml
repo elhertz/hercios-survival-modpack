@@ -86,11 +86,11 @@ hash = "6b9b8dbd61c526b613ee142380ae3035354855bcbafa98f2548253b7f5190c69"
 
 [[files]]
 file = "config/drippyloadingscreen/config.cfg"
-hash = "dcdb773caf483c1189fc7cdd38142fc892fe181a550ae82f055c650007115f80"
+hash = "0c90a8c1f7b39f5858fb751e6fb2091a9eb023b19b9536bc3815ab9cf9b18a13"
 
 [[files]]
 file = "config/drippyloadingscreen/customization/hercios.dllayout"
-hash = "533e646246312ffe2daff7b35ea366ee0fec0f107d26db309cc6d45aba2619c9"
+hash = "146a861312c9d1646cee0a60edfaa8d8919213cd1a7349c894e1f4ef03972df5"
 
 [[files]]
 file = "config/drippyloadingscreen/locals/en_us.local"
@@ -130,19 +130,31 @@ hash = "9df2b4563f0dff1440e8dd87e3a3155e001d208267faadf4aa68fb9e0aed1655"
 
 [[files]]
 file = "config/fancymenu/config.txt"
-hash = "5cab362c3d1e098c01978f3215a1722d12b9cdad1f83c6d07e56c1a6d1d23a9e"
+hash = "7c0d8fee014b7969e2fe620bcdfd63046b0653b1ba8807b6277b679fde94dcd3"
+
+[[files]]
+file = "config/fancymenu/customguis/equipo.txt"
+hash = "29741931f18d9bfb1dd4a8ac4d2f8239cfe39b8316521309852feffb2ddedfc8"
 
 [[files]]
 file = "config/fancymenu/customizablemenus.txt"
-hash = "a9c0343b0c16371ffe1525688107e02d6807f99e04de5ee5b11d12ff7e55c39b"
+hash = "6d5afee20299f094c801c16f3bee9a1e812052496c43441276a0d3d6ac3ad6a9"
+
+[[files]]
+file = "config/fancymenu/customization/.disabled/default.txt"
+hash = "9310d7ba4d8523bc9567fb9af34fc57e527e73734e43aecee27c57acd018b86b"
+
+[[files]]
+file = "config/fancymenu/customization/equipo.txt"
+hash = "30e8ab8710d8cc6c49a0d7d21ff9d97ca87d052c6d3b282fc06474daeb566cf6"
 
 [[files]]
 file = "config/fancymenu/customization/esc_menu.txt"
-hash = "bfaecb3eb51d25219124de830d3f144311946c1b99012769d2035e743edfe2cc"
+hash = "b2178d09bb2251143d7d1fb57c625cef740510991f886e5171e4b89384318f75"
 
 [[files]]
 file = "config/fancymenu/customization/main_menu.txt"
-hash = "572db0004c0b013912ecc7a872cc3bd3afa7e3e2d7ef2c8895ee6b8fce2c2448"
+hash = "f7c3028f8725272efc5a56830abc1e5f24291c93847bde801f57530661e11dd4"
 
 [[files]]
 file = "config/fancymenu/customization/voicechat.txt"
@@ -163,6 +175,14 @@ hash = "82ee4c2444f37d9f011b7b945df1f05026e9910f6c02cf900a3b5e17871a81f3"
 [[files]]
 file = "config/fancymenu/locals/pt_br.local"
 hash = "c7c049bf3190cc0572bef5fb636fa80d775211962cdbede7bd284d072692eb91"
+
+[[files]]
+file = "config/fancymenu/minecraftwindow/icons/icon16x16.png"
+hash = "9228dee662e44e2a70208bfc66b215d9c357cd727c082fec824b8d1e2004e96f"
+
+[[files]]
+file = "config/fancymenu/minecraftwindow/icons/icon32x32.png"
+hash = "f7398486de0b4430ca163c97fa0e4719a67b34938115d018816f7058b057e34b"
 
 [[files]]
 file = "config/flytre_lib.json5"
@@ -205,12 +225,8 @@ file = "config/naturescompass.json"
 hash = "399b4aa325ac3f1809b886d2c05714ca356e234d04ff41e4441348bcfff048d3"
 
 [[files]]
-file = "config/openloader/resources/TwemojiFont.zip"
-hash = "d386b815c4c45daa3ff3236a668e5abee527ee4b5f554bc3012cce1f94ad4fe0"
-
-[[files]]
-file = "config/openloader/resources/lecacy-console-click.zip"
-hash = "09cb4d7461f07e24a52b9aceaf5ead81f1d9ef27afd1d4d094c0d815f354b2f3"
+file = "config/openloader/resources/hercios-modpack-texturas.zip"
+hash = "fed62e67850b12ca664c16bb40676afcddeca0f8c58e4b9e293293dec7128c67"
 
 [[files]]
 file = "config/redbits.json"
@@ -297,20 +313,12 @@ file = "config/yosbr/emotes/Amogus.json"
 hash = "f11c0e2da5213bf1aae5bf76ca1d4293b611084f3d7877a0840dd2c95634d615"
 
 [[files]]
-file = "config/yosbr/emotes/Doggy_Style.json"
-hash = "c0dd27aad9f6d09983bf4e50e47c02527bc43c749be40ac7eacb342f7009019d"
-
-[[files]]
 file = "config/yosbr/emotes/Head.json"
 hash = "944aabed9336fd7eba6386e9eb2e6b8ce3054b95c4cabcb1263e52d8750fca60"
 
 [[files]]
 file = "config/yosbr/emotes/Laying_down.json"
 hash = "b2d45a56b121bc9ca9567383aa4315613a8c1b99f6da113a19d76a7de8b7049e"
-
-[[files]]
-file = "config/yosbr/emotes/Sieghail.json"
-hash = "3f790a4f92814440e87783994d439c625a0e85b552bf79e8d43128eeb3a76877"
 
 [[files]]
 file = "config/yosbr/emotes/Sit.json"
@@ -381,6 +389,10 @@ file = "config/yosbr/emotes/lay2.json"
 hash = "d5ac4e935783f048bade5548a3f976d70e30bcac0b7a0fe954640a4f98125711"
 
 [[files]]
+file = "config/yosbr/emotes/looksuperman.json"
+hash = "3f790a4f92814440e87783994d439c625a0e85b552bf79e8d43128eeb3a76877"
+
+[[files]]
 file = "config/yosbr/emotes/meditate.json"
 hash = "4135d798baf066acb5652d91e1e226a5ab6dfdcb4e49ffe12371b92844f50b4d"
 
@@ -421,32 +433,20 @@ file = "config/yosbr/emotes/think.json"
 hash = "0069128e9eb1b69c2712bb979dad5f94d69c10f9ab2501c3f73f0331afd48e53"
 
 [[files]]
+file = "config/yosbr/emotes/twitch_streamer.json"
+hash = "c0dd27aad9f6d09983bf4e50e47c02527bc43c749be40ac7eacb342f7009019d"
+
+[[files]]
 file = "config/yosbr/emotes/you_are_dead.json"
 hash = "262d08d8adb65216067eb23e7166c2f492c7013099ae7e0366c8a3401f6dd9f8"
 
 [[files]]
-file = "config/yosbr/img/loading_logo.png"
-hash = "577c943a94c35e9364515d9ab61d764e39cad6c30bd143184d07aa49ba9e43c5"
-
-[[files]]
-file = "config/yosbr/img/loading_texture.jpg"
-hash = "adbb4d8db0ba1a1781dd85cc96090e72a9332ed0c5b75a4f8f86e8874c73729a"
-
-[[files]]
-file = "config/yosbr/img/menu_logo.png"
-hash = "e4072812e6c8cf1630f5c17ecc009b4b79068d8e21a7b684f2ebe2a2b83ad4a3"
-
-[[files]]
-file = "config/yosbr/img/menu_sublogo.png"
-hash = "e0e53cd91ece90b3579fa9d725f37ca9eedbfadf308d161ed1d5f042ed098273"
-
-[[files]]
 file = "config/yosbr/options.amecsapi.txt"
-hash = "6974ef120323a75f571944d0517cbb6ab31a4c2a5a7b555c9d00c983c7541b19"
+hash = "fd2cdbd5f53f5c619909a5f417e4d2b00f5e777913e889cf56986098192d46d7"
 
 [[files]]
 file = "config/yosbr/options.txt"
-hash = "ab90451181446c976d2bdbc431551c2b926ba0e9dd772f5eadaf7ec5303cbf91"
+hash = "97a7ff1cf77d888bdd4fd72fa5dd4d79973d12c01210014a2fb9fe2afd656611"
 
 [[files]]
 file = "config/yosbr/servers.dat"
@@ -454,7 +454,7 @@ hash = "08bca1e0fdd8e825b1f084f2eae5775d0909b9b57cd1100a17bbff25de7699b0"
 
 [[files]]
 file = "kubejs/client_scripts/rei_unification.js"
-hash = "08e19c26617147e45f59806b31924e0029df1755417b4fdfe2871b12ddb161ec"
+hash = "eb3c133753946caa981a50d2bf1043b3b8030283dab3f5a3260da848b143d810"
 
 [[files]]
 file = "kubejs/config/client.properties"

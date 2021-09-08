@@ -36,11 +36,8 @@ key_modifiers_key.dynamicfps.toggle_forced:
 key_modifiers_key.dynamicfps.toggle_disabled:
 key_modifiers_key.emotecraft.fastchoose:
 key_modifiers_key.emotecraft.stop:
-key_modifiers_[Fabrication] Toggle/Hold Sprint:
-key_modifiers_[Fabrication] Toggle Stance:
+key_modifiers_[Fabrication] Crawl:
 key_modifiers_key.expandedstorage.config:
-key_modifiers_Reload Menu | CTRL + ALT + :
-key_modifiers_Toggle Customization Overlay | CTRL + ALT + :
 key_modifiers_key.adventurez.activatearmor:4
 key_modifiers_key.adventurez.dragonflydown:
 key_modifiers_key.adventurez.dragonfirebreath:

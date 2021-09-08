@@ -7,7 +7,7 @@ B:playbackgroundsoundsinworld = 'false';
 [If menu background sounds added by FancyMenu should be played or not.]
 B:playbackgroundsounds = 'true';
 [A minecraft restart is required after changing this value.]
-B:enablehotkeys = 'true';
+B:enablehotkeys = 'false';
 B:playmenumusic = 'true';
 B:showdebugwarnings = 'false';
 [Sets the default GUI scale on first launch. Useful for modpacks. Cache data is saved in '/mods/fancymenu/'.]
@@ -17,7 +17,7 @@ I:defaultguiscale = '-1';
 ##[customization]
 
 B:advancedmode = 'true';
-B:showcustomizationbuttons = 'true';
+B:showcustomizationbuttons = 'false';
 
 
 ##[mainmenu]
@@ -55,7 +55,7 @@ S:customgameintroskiptext = '';
 [A minecraft restart is required after changing this value.]
 S:customwindowtitle = 'Hercios Modpack 1.17.1';
 [A minecraft restart is required after changing this value.]
-B:customwindowicon = 'false';
+B:customwindowicon = 'true';
 
 
 ##[world_loading_screen]

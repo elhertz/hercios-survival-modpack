@@ -9,6 +9,11 @@ customization-meta {
 }
 
 customization {
+  path = resources/menu/wall.png
+  action = texturizebackground
+}
+
+customization {
   identifier = %id=400286%
   action = hidebutton
 }
@@ -26,28 +31,21 @@ customization {
 customization {
   orientation = mid-centered
   buttonaction = joinserver
-  x = -61
-  width = 122
-  actionid = 38ef307b-55f9-4c21-9325-8b4c96e55d0e1630869302010
+  x = -100
+  width = 200
+  actionid = ab99e9e6-eaa0-4cd0-9dfd-3fae7c528ba71631057899133
   action = addbutton
-  y = -13
+  y = -21
+  backgroundhovered = resources/menu/button2.png
   label = Entrar al Servidor
+  backgroundnormal = resources/menu/button.png
   value = mc.hertz.rocks
   height = 20
 }
 
 customization {
   identifier = %id=400310%
-  orientation = mid-centered
-  x = -100
-  action = movebutton
-  y = 11
-}
-
-customization {
-  identifier = %id=400310%
-  action = setbuttonlabel
-  value = Multijugador
+  action = hidebutton
 }
 
 customization {
@@ -55,7 +53,14 @@ customization {
   orientation = mid-centered
   x = -100
   action = movebutton
-  y = 35
+  y = 4
+}
+
+customization {
+  identifier = %id=400358%
+  action = setbuttontexture
+  backgroundhovered = resources/menu/button2.png
+  backgroundnormal = resources/menu/button.png
 }
 
 customization {
@@ -63,7 +68,7 @@ customization {
   orientation = mid-centered
   x = -100
   action = movebutton
-  y = 83
+  y = 54
 }
 
 customization {
@@ -73,11 +78,18 @@ customization {
 }
 
 customization {
+  identifier = %id=400394%
+  action = setbuttontexture
+  backgroundhovered = resources/menu/half2.png
+  backgroundnormal = resources/menu/half.png
+}
+
+customization {
   identifier = %id=502394%
   orientation = mid-centered
-  x = 2
+  x = 1
   action = movebutton
-  y = 83
+  y = 54
 }
 
 customization {
@@ -87,51 +99,32 @@ customization {
 }
 
 customization {
+  identifier = %id=502394%
+  action = setbuttontexture
+  backgroundhovered = resources/menu/half2.png
+  backgroundnormal = resources/menu/half.png
+}
+
+customization {
   identifier = %id=376394%
   orientation = mid-centered
-  x = -123
+  x = -124
   action = movebutton
-  y = 83
-}
-
-customization {
-  identifier = %id=376394%
-  action = setbuttonlabel
-  value = Idioma
-}
-
-customization {
-  path = img/menu_logo.png
-  orientation = mid-centered
-  x = -77
-  width = 154
-  actionid = a7ea0ad3-d246-44ad-9afe-a0b9ea80679b1630713371899
-  action = addtexture
-  y = -99
-  height = 38
-}
-
-customization {
-  path = img/menu_sublogo.png
-  orientation = mid-centered
-  x = -42
-  width = 84
-  actionid = 4f6efc03-7848-434a-9ce4-da0d08a3b82c1630714143040
-  action = addtexture
-  y = -62
-  height = 20
+  y = 54
 }
 
 customization {
   orientation = mid-centered
   buttonaction = openlink
-  x = 2
+  x = 1
   width = 98
-  actionid = de572118-0231-4b5c-964d-1a0e918fe8031630869302011
+  actionid = 4805c17b-d0a7-49c4-bbce-a4db7d912c311631057899134
   action = addbutton
-  y = 59
+  y = 29
+  backgroundhovered = resources/menu/half2.png
   label = Wiki
-  value = https://pages.demon.live/hertz/
+  backgroundnormal = resources/menu/half.png
+  value = https://hertz.demon.live
   height = 20
 }
 
@@ -140,24 +133,70 @@ customization {
   buttonaction = openlink
   x = -100
   width = 98
-  actionid = f646b76c-33a6-43eb-8dfa-d9380b49db751630869302012
+  actionid = c4eb620f-906d-4344-b26f-a22d8812de8f1631057899134
   action = addbutton
-  y = 59
+  y = 29
+  backgroundhovered = resources/menu/half2.png
   label = Discord
-  value = 
+  backgroundnormal = resources/menu/half.png
+  value = https://discord.hertz.rocks
   height = 20
 }
 
 customization {
   orientation = bottom-left
-  buttonaction = opencustomgui
-  x = 5
+  buttonaction = openlink
+  x = 4
   width = 62
-  actionid = 202b8107-0c51-448f-be31-657f4b5556eb1630869302012
+  actionid = c19b7bca-4af9-46d1-9228-5c5ac19556da1631057899134
+  action = addbutton
+  y = -50
+  backgroundhovered = resources/menu/half2.png
+  label = Novedades
+  backgroundnormal = resources/menu/half.png
+  value = https://discord.com/channels/390702334390566932/884288875059613716/884927185746526219
+  height = 20
+}
+
+customization {
+  identifier = %id=90%
+  action = hidebutton
+}
+
+customization {
+  path = resources/menu/modpack.png
+  orientation = mid-centered
+  x = -47
+  width = 95
+  actionid = 566587ce-22b0-497b-b576-dda9bba9d4661631048563164
+  action = addtexture
+  y = -60
+  height = 14
+}
+
+customization {
+  path = resources/menu/hercios.png
+  orientation = mid-centered
+  x = -99
+  width = 199
+  actionid = a0c65e1b-34fe-49bb-8923-a38bcc2c14dd1631048909288
+  action = addtexture
+  y = -112
+  height = 45
+}
+
+customization {
+  orientation = bottom-left
+  buttonaction = opencustomgui
+  x = 4
+  width = 62
+  actionid = 2edb0d6a-a21d-4086-8bb4-251d0e7319831631057899135
   action = addbutton
   y = -26
-  label = Novedades
-  value = changelog
+  backgroundhovered = resources/menu/half2.png
+  label = Equipo
+  backgroundnormal = resources/menu/half.png
+  value = equipo
   height = 20
 }
 

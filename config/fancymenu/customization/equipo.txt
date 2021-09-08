@@ -1,0 +1,159 @@
+type = menu
+
+customization-meta {
+  identifier = equipo
+  randomgroup = 1
+  renderorder = foreground
+  randommode = false
+  randomonlyfirsttime = false
+}
+
+customization {
+  path = resources/menu/equipo_wall.png
+  action = texturizebackground
+}
+
+customization {
+  showname = true
+  orientation = mid-centered
+  crouching = false
+  x = 0
+  slim = false
+  actionid = 82dacabe-707f-4c1d-9302-2fc0400d5c931631057553487
+  action = addentity
+  y = 27
+  scale = 40
+  playername = Heertz
+  parrot = false
+}
+
+customization {
+  showname = true
+  orientation = mid-centered
+  crouching = false
+  x = -90
+  slim = false
+  actionid = e86da578-5103-4a20-8c09-7556d3dbd81a1631057580171
+  action = addentity
+  y = 27
+  scale = 40
+  playername = ksDemon
+  parrot = false
+}
+
+customization {
+  showname = true
+  orientation = mid-centered
+  crouching = false
+  x = 90
+  slim = false
+  actionid = fc8f37c0-ce73-41bc-acb9-118c09d3b1a61631057583167
+  action = addentity
+  y = 27
+  scale = 40
+  playername = SirFobaio
+  parrot = false
+}
+
+customization {
+  orientation = mid-centered
+  shadow = true
+  x = -121
+  actionid = c17cd093-a81f-4dd8-aca9-7369366929ad1631060784544
+  action = addtext
+  y = 35
+  scale = 1.0
+  alignment = left
+  value = Web & Diseño
+}
+
+customization {
+  orientation = mid-centered
+  shadow = true
+  x = -32
+  actionid = a9faf49a-9f2a-498f-8555-c64319123abf1631061247691
+  action = addtext
+  y = 35
+  scale = 1.0
+  alignment = left
+  value = Server Admin
+}
+
+customization {
+  orientation = mid-centered
+  shadow = true
+  x = 70
+  actionid = d9fa26f3-75b8-495b-8875-67fc250a76161631061357029
+  action = addtext
+  y = 35
+  scale = 1.0
+  alignment = left
+  value = Manager
+}
+
+customization {
+  orientation = mid-centered
+  shadow = true
+  delayappearanceseconds = 1.0
+  scale = 2.0
+  fadein = true
+  fadeinspeed = 1.0
+  x = -119
+  actionid = b4ac05a6-df7a-40ad-bf89-2dd82a7a909c1631061422389
+  action = addtext
+  y = 47
+  delayappearance = true
+  alignment = left
+  value = Demon 
+  delayappearanceeverytime = true
+}
+
+customization {
+  orientation = mid-centered
+  shadow = true
+  delayappearanceseconds = 1.0
+  scale = 2.0
+  fadein = true
+  fadeinspeed = 1.0
+  x = -27
+  actionid = bde08d33-a541-436e-9abd-51d552369f551631061427751
+  action = addtext
+  y = 47
+  delayappearance = true
+  alignment = left
+  value = Hertz
+  delayappearanceeverytime = true
+}
+
+customization {
+  orientation = mid-centered
+  shadow = true
+  delayappearanceseconds = 1.0
+  scale = 2.0
+  fadein = true
+  fadeinspeed = 1.0
+  x = 69
+  actionid = d57ad375-8dc4-4bc7-bd23-920274dd2d831631061435366
+  action = addtext
+  y = 47
+  delayappearance = true
+  alignment = left
+  value = Foba 
+  delayappearanceeverytime = true
+}
+
+customization {
+  orientation = top-left
+  buttonaction = opengui
+  x = 5
+  width = 88
+  actionid = 676e6603-af1b-48d7-aaa7-94e56a9237291631062988902
+  action = addbutton
+  y = 5
+  backgroundhovered = resources/menu/button2.png
+  label = Volver al menu
+  backgroundnormal = resources/menu/button.png
+  value = net.minecraft.class_442
+  height = 20
+}
+

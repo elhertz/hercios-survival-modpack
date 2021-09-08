@@ -18,7 +18,7 @@ customization {
   orientation = mid-centered
   x = -102
   action = movebutton
-  y = 41
+  y = 22
 }
 
 customization {
@@ -49,7 +49,7 @@ customization {
   orientation = mid-centered
   x = -102
   action = movebutton
-  y = -59
+  y = -70
 }
 
 customization {
@@ -63,7 +63,14 @@ customization {
   orientation = mid-centered
   x = -102
   action = movebutton
-  y = -31
+  y = -47
+}
+
+customization {
+  identifier = %id=398270%
+  width = 100
+  action = resizebutton
+  height = 20
 }
 
 customization {
@@ -77,22 +84,15 @@ customization {
   orientation = mid-centered
   x = -102
   action = movebutton
-  y = 17
+  y = -1
 }
 
 customization {
   identifier = %id=398366%
   orientation = mid-centered
-  x = -103
+  x = -102
   action = movebutton
-  y = 77
-}
-
-customization {
-  identifier = %id=398366%
-  width = 206
-  action = resizebutton
-  height = 20
+  y = 45
 }
 
 customization {
@@ -104,9 +104,16 @@ customization {
 customization {
   identifier = %id=504270%
   orientation = mid-centered
-  x = 4
+  x = 1
   action = movebutton
-  y = -31
+  y = -47
+}
+
+customization {
+  identifier = %id=504270%
+  width = 101
+  action = resizebutton
+  height = 20
 }
 
 customization {
@@ -118,13 +125,13 @@ customization {
 customization {
   orientation = mid-centered
   buttonaction = openlink
-  x = 4
-  width = 98
-  actionid = bfa6f783-285d-4e79-9e98-51cdf8ae2b4e1630870819686
+  x = 1
+  width = 101
+  actionid = d93f209a-07f1-4436-b3b1-0f1e3b0895881631063281152
   action = addbutton
-  y = -7
+  y = -24
   label = Wiki
-  value = 
+  value = https://hertz.demon.live
   height = 20
 }
 
@@ -132,12 +139,12 @@ customization {
   orientation = mid-centered
   buttonaction = openlink
   x = -102
-  width = 98
-  actionid = 913a70d3-86e8-44b3-b259-988173081b241630870819690
+  width = 100
+  actionid = 7bff38eb-0eff-4ed4-bea9-172d29cecbfe1631063281152
   action = addbutton
-  y = -7
+  y = -24
   label = Discord
-  value = 
+  value = https://discord.hertz.rocks/
   height = 20
 }
 

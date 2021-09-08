@@ -1,0 +1,3 @@
+identifier = equipo
+title = Equipo - Colaboradores
+allowesc = true
