@@ -1,4 +1,4 @@
-resources/menu/ = menu
+type = menu
 
 customization-meta {
   identifier = equipo
