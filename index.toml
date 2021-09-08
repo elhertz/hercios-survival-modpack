@@ -855,6 +855,11 @@ hash = "10f2668296016249be06251a0a590c9674edd2530b7d6223e7084a811a5d7af3"
 metafile = true
 
 [[files]]
+file = "mods/both/reroll.toml"
+hash = "bc7db2d372a17bc8ba0559e5d11a2a3cadb555adf96bdf58e8412baba7a44b27"
+metafile = true
+
+[[files]]
 file = "mods/both/rhino.toml"
 hash = "dffcfaee935f5ec9e88dd4a0b715d128b60975761a37a6f97b68696ab4429474"
 metafile = true
@@ -1067,6 +1072,11 @@ metafile = true
 [[files]]
 file = "mods/client/indium.toml"
 hash = "e537d3642f3647a228821bfb1dce025aed04516b4bb5cf0712faedf03fe33b63"
+metafile = true
+
+[[files]]
+file = "mods/client/lambdabettergrass.toml"
+hash = "e62fda608ccfffc4ac6bd5de7e0cb921bf7fd44f4d5b72f153007693ee3208eb"
 metafile = true
 
 [[files]]
@@ -1402,6 +1412,11 @@ metafile = true
 [[files]]
 file = "mods/server/styledplayerlist.toml"
 hash = "3c990a350fd6c5f336a6c20e6af4e1f6f6e3c02b4808b3ebfc38773008385656"
+metafile = true
+
+[[files]]
+file = "mods/server/textile-backup.toml"
+hash = "ffc9d639158bd7155405d127f32780f92c51d4267b8ace08a397fba63e3538c7"
 metafile = true
 
 [[files]]
