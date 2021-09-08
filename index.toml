@@ -141,10 +141,6 @@ file = "config/fancymenu/customizablemenus.txt"
 hash = "6d5afee20299f094c801c16f3bee9a1e812052496c43441276a0d3d6ac3ad6a9"
 
 [[files]]
-file = "config/fancymenu/customization/.disabled/default.txt"
-hash = "9310d7ba4d8523bc9567fb9af34fc57e527e73734e43aecee27c57acd018b86b"
-
-[[files]]
 file = "config/fancymenu/customization/equipo.txt"
 hash = "30e8ab8710d8cc6c49a0d7d21ff9d97ca87d052c6d3b282fc06474daeb566cf6"
 
