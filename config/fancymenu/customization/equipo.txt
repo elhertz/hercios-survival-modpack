@@ -1,4 +1,4 @@
-type = menu
+resources/menu/ = menu
 
 customization-meta {
   identifier = equipo
@@ -9,7 +9,7 @@ customization-meta {
 }
 
 customization {
-  path = resources/menu/equipo_wall.png
+  path = menu/equipo_wall.png
   action = texturizebackground
 }
 
@@ -150,9 +150,9 @@ customization {
   actionid = 676e6603-af1b-48d7-aaa7-94e56a9237291631062988902
   action = addbutton
   y = 5
-  backgroundhovered = resources/menu/button2.png
+  backgroundhovered = menu/button2.png
   label = Volver al menu
-  backgroundnormal = resources/menu/button.png
+  backgroundnormal = menu/button.png
   value = net.minecraft.class_442
   height = 20
 }
