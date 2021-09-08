@@ -1433,3 +1433,55 @@ metafile = true
 file = "mods/server/yungs-better-strongholds-fabric.toml"
 hash = "de503060a3a8c9293487dae3da7c6207763b7e984b1edcd36dd6efe56ce42266"
 metafile = true
+
+[[files]]
+file = "resources/menu/bedrock.png"
+hash = "489e704d0ffba022126eda90fbbe70e3a2784b586de5341de226d775022d357d"
+
+[[files]]
+file = "resources/menu/button.png"
+hash = "f0d831d3d126e2a81d0c58d214c7d4729236373aa534c5f3bf7f447bc26b785a"
+
+[[files]]
+file = "resources/menu/button2.png"
+hash = "54d9b0e5ab4dd99a9a6c3579b3859a941b7d94a72fc78209b6925f88756804d4"
+
+[[files]]
+file = "resources/menu/equipo_wall.png"
+hash = "610392816de1e0ff1cd6272668e5595c990b86e21cdbfff42bf17e16bede8ffe"
+
+[[files]]
+file = "resources/menu/half.png"
+hash = "da0d3cb163deaf69ff10e982885c0ec1a752144b9a3efda3084c88ae479a9387"
+
+[[files]]
+file = "resources/menu/half2.png"
+hash = "9035b19678daf867bedbb29601c4e18e966ce176fd728ef7f90706d429b0aed0"
+
+[[files]]
+file = "resources/menu/hercios.png"
+hash = "6786346f41737a7262ce962b3a513a4cb884942e70c9b7b8fd4d464ff4abda2e"
+
+[[files]]
+file = "resources/menu/loading_logo.png"
+hash = "577c943a94c35e9364515d9ab61d764e39cad6c30bd143184d07aa49ba9e43c5"
+
+[[files]]
+file = "resources/menu/loading_texture.jpg"
+hash = "adbb4d8db0ba1a1781dd85cc96090e72a9332ed0c5b75a4f8f86e8874c73729a"
+
+[[files]]
+file = "resources/menu/modpack.png"
+hash = "25947cb7fecafd712edeefd200213ad755b9105228d2079686a42fbdf693541f"
+
+[[files]]
+file = "resources/menu/square.png"
+hash = "12f9a2081106210e7ab7b85c9713097be7d5a2894562665bb47b204e39dd406b"
+
+[[files]]
+file = "resources/menu/square2.png"
+hash = "672fe3c0baea751999dcc8f9b921d73f2ebc01be5c7e946cadc592eee9749ccf"
+
+[[files]]
+file = "resources/menu/wall.png"
+hash = "eadb03ca43a4d08b17cac44d21ac7b3099f8641de47e45f860ddffc7f089104f"
