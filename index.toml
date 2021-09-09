@@ -226,7 +226,7 @@ hash = "399b4aa325ac3f1809b886d2c05714ca356e234d04ff41e4441348bcfff048d3"
 
 [[files]]
 file = "config/openloader/resources/hercios-modpack-texturas.zip"
-hash = "3ee17b2810b7b45833beff147312bde995727bb9abe9f36577dcd2876fcf4bec"
+hash = "22dcc9202eae335459e170396a43cd6c3ed1223d8912c7b2ba2fd8d35d5462fe"
 
 [[files]]
 file = "config/redbits.json"
