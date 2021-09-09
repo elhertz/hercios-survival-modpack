@@ -101,6 +101,10 @@ file = "config/eldritch_mobs.json5"
 hash = "db8ca3eb2c649e6e1c4b8a06342f308abf4b2d777cd6ce2afe6bff05ede0defe"
 
 [[files]]
+file = "config/enchantedtooltips/enchants.json5"
+hash = "aa796dec811e3fa423da96d1f2840cc300206f1027c2b1aa78625ee9dd667a85"
+
+[[files]]
 file = "config/fabrication/dimensional_tools.ini"
 hash = "14eb4e8cd105c580403c4e5bc6bba831c81aedcf4e6e04485c74e9d3f253689f"
 
@@ -259,6 +263,10 @@ hash = "2c3837e8e2a4ac19115f9ae468e67b37654fcde765057de2983a71bb40b35d6f"
 [[files]]
 file = "config/yosbr/config/emotecraft.json"
 hash = "76c20c264dfdb2dabe1085d31dd7630aa7b7ddd672ddf29dc4ad4edcf8a8b51c"
+
+[[files]]
+file = "config/yosbr/config/enchantedtooltips/config.json5"
+hash = "24e15ce86fcc4af75988b86be85be46c6948263684391b407a92ce472900d36c"
 
 [[files]]
 file = "config/yosbr/config/modmenu.json"
