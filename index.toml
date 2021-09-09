@@ -725,6 +725,11 @@ hash = "23dea402297e5a10eace6e02bc1035e808ed2a1a929e7f2f1bf02897508fd485"
 metafile = true
 
 [[files]]
+file = "mods/both/go-fish.toml"
+hash = "32f6427771e90303eac3773810993c3c78d5fee7c6f0140841792a63a5447cc3"
+metafile = true
+
+[[files]]
 file = "mods/both/gobber-fabric.toml"
 hash = "4d3461bf651fe75f46495bfa9d68c2668036df28d5180602cc72f478cbd51ba3"
 metafile = true
