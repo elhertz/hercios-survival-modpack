@@ -1460,6 +1460,11 @@ hash = "f828e77bb9dbd3a8b838f06a1bfd5f3ce628873f70f05fca0952c9760cc2a56d"
 metafile = true
 
 [[files]]
+file = "mods/server/yungs-better-dungeons-fabric.toml"
+hash = "1f3d73718279317bd3d664278598d97bc2a52af4a5bcbf7b9dd4ea0fbf577d54"
+metafile = true
+
+[[files]]
 file = "mods/server/yungs-better-mineshafts-fabric.toml"
 hash = "e25a930de28ea6fccb9e05b5ae58687f5545f2f02d8f13c79ad26959761bb2f8"
 metafile = true
