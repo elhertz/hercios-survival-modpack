@@ -473,11 +473,6 @@ file = "kubejs/startup_scripts/packversion.js"
 hash = "30def9282657e424f96a7a85c915fa57e5f8c222dc8246bc3746f24f55d36288"
 
 [[files]]
-file = "mods/both/achievement-plates.toml"
-hash = "aa6356994661f250c1ae28372f382234cf3df94f32d7eb96ae5f74295fa10b2b"
-metafile = true
-
-[[files]]
 file = "mods/both/adabranium.toml"
 hash = "1303587599c83805e886a6b686175b6bdf13dec7b7b812518fc559eaca8a027a"
 metafile = true
