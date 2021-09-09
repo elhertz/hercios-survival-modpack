@@ -150,7 +150,7 @@ hash = "b2178d09bb2251143d7d1fb57c625cef740510991f886e5171e4b89384318f75"
 
 [[files]]
 file = "config/fancymenu/customization/main_menu.txt"
-hash = "f7c3028f8725272efc5a56830abc1e5f24291c93847bde801f57530661e11dd4"
+hash = "6e537edc5499898ad4f32cccb9fa7771e7783db95d389e3bef82c273fb24e483"
 
 [[files]]
 file = "config/fancymenu/customization/voicechat.txt"
@@ -222,7 +222,7 @@ hash = "399b4aa325ac3f1809b886d2c05714ca356e234d04ff41e4441348bcfff048d3"
 
 [[files]]
 file = "config/openloader/resources/hercios-modpack-texturas.zip"
-hash = "fed62e67850b12ca664c16bb40676afcddeca0f8c58e4b9e293293dec7128c67"
+hash = "3ee17b2810b7b45833beff147312bde995727bb9abe9f36577dcd2876fcf4bec"
 
 [[files]]
 file = "config/redbits.json"
@@ -446,7 +446,7 @@ hash = "97a7ff1cf77d888bdd4fd72fa5dd4d79973d12c01210014a2fb9fe2afd656611"
 
 [[files]]
 file = "config/yosbr/servers.dat"
-hash = "08bca1e0fdd8e825b1f084f2eae5775d0909b9b57cd1100a17bbff25de7699b0"
+hash = "6dbb810e5ea07c2820b8e1a9ac51f51ff532327cd6cb66a63265cc25588bfe9c"
 
 [[files]]
 file = "kubejs/client_scripts/rei_unification.js"

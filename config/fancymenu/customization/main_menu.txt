@@ -31,21 +31,37 @@ customization {
 customization {
   orientation = mid-centered
   buttonaction = joinserver
-  x = -100
-  width = 200
-  actionid = ab99e9e6-eaa0-4cd0-9dfd-3fae7c528ba71631057899133
+  x = 103
+  width = 20
+  actionid = 873aa37a-9e81-4efe-a870-147322d0a9671631150664729
   action = addbutton
   y = -21
-  backgroundhovered = resources/menu/button2.png
-  label = Entrar al Servidor
-  backgroundnormal = resources/menu/button.png
+  backgroundhovered = resources/menu/square2.png
+  label = ➜
+  backgroundnormal = resources/menu/square.png
   value = mc.hertz.rocks
   height = 20
 }
 
 customization {
   identifier = %id=400310%
-  action = hidebutton
+  orientation = mid-centered
+  x = -100
+  action = movebutton
+  y = -21
+}
+
+customization {
+  identifier = %id=400310%
+  action = setbuttonlabel
+  value = Multijugador
+}
+
+customization {
+  identifier = %id=400310%
+  action = setbuttontexture
+  backgroundhovered = resources/menu/button2.png
+  backgroundnormal = resources/menu/button.png
 }
 
 customization {
@@ -108,7 +124,7 @@ customization {
 customization {
   identifier = %id=376394%
   orientation = mid-centered
-  x = -124
+  x = -122
   action = movebutton
   y = 54
 }
@@ -118,7 +134,7 @@ customization {
   buttonaction = openlink
   x = 1
   width = 98
-  actionid = 4805c17b-d0a7-49c4-bbce-a4db7d912c311631057899134
+  actionid = 34f64c3b-c29e-4583-9afd-2d0b695688691631150664730
   action = addbutton
   y = 29
   backgroundhovered = resources/menu/half2.png
@@ -133,7 +149,7 @@ customization {
   buttonaction = openlink
   x = -100
   width = 98
-  actionid = c4eb620f-906d-4344-b26f-a22d8812de8f1631057899134
+  actionid = 4e8d93b8-4ae8-4f58-b107-f59106de3e671631150664731
   action = addbutton
   y = 29
   backgroundhovered = resources/menu/half2.png
@@ -148,7 +164,7 @@ customization {
   buttonaction = openlink
   x = 4
   width = 62
-  actionid = c19b7bca-4af9-46d1-9228-5c5ac19556da1631057899134
+  actionid = 6fd6772e-bc29-47a6-aa39-acd08140dff81631150664731
   action = addbutton
   y = -50
   backgroundhovered = resources/menu/half2.png
@@ -156,11 +172,6 @@ customization {
   backgroundnormal = resources/menu/half.png
   value = https://discord.com/channels/390702334390566932/884288875059613716/884927185746526219
   height = 20
-}
-
-customization {
-  identifier = %id=90%
-  action = hidebutton
 }
 
 customization {
@@ -190,7 +201,7 @@ customization {
   buttonaction = opencustomgui
   x = 4
   width = 62
-  actionid = 2edb0d6a-a21d-4086-8bb4-251d0e7319831631057899135
+  actionid = 0712c560-f3fb-4714-a75d-4557f9b4ec1b1631150664732
   action = addbutton
   y = -26
   backgroundhovered = resources/menu/half2.png
