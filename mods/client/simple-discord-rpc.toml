@@ -1,6 +1,6 @@
 name = "Simple Discord RPC [Forge/Fabric]"
 filename = "../simple-rpc-1.17-2.3.1-fabric.jar"
-side = "both"
+side = "client"
 
 [download]
 url = "https://edge.forgecdn.net/files/3420/551/simple-rpc-1.17-2.3.1-fabric.jar"

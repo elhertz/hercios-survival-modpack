@@ -888,11 +888,6 @@ hash = "e15fddeb9c7450154ff1a42772f8a54b8c0912da4ee7bac83c85ac996f7333df"
 metafile = true
 
 [[files]]
-file = "mods/both/simple-discord-rpc.toml"
-hash = "2a17e213e6f9837b40400f09f54fb4e57b705386c72bdab1ff461329f283ccd3"
-metafile = true
-
-[[files]]
 file = "mods/both/simple-voice-chat.toml"
 hash = "4b1d92531e0582b7d1ebd819ad18e32f7ea6c50bbee8d9c9a42893e8b2c20150"
 metafile = true
@@ -1141,6 +1136,10 @@ metafile = true
 file = "mods/client/sheep-consistency.toml"
 hash = "9ecc1d232b1f04a4935020c90af06bb6c2c9e016596d909f4a3c655a38cb1c60"
 metafile = true
+
+[[files]]
+file = "mods/client/simple-discord-rpc.toml"
+hash = "605e2db5f20fb5357f88cb1105cb1d80fa5a0bfe9aa1f46c0762d0b11b3484b4"
 
 [[files]]
 file = "mods/client/skin-layers-3d.toml"
