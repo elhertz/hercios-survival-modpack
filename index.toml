@@ -234,7 +234,7 @@ hash = "9d8cdb52394221c033b6b2c72ba7b8018a7fb5c658f7e6e2b7fece5f9c2d4fa6"
 
 [[files]]
 file = "config/simple-rpc.toml"
-hash = "2d8dd0529f97df5e61c5aeeb03510bcd57ec6f87b1014563a37642a09bc74fc9"
+hash = "1653a240c817c5a88669c15252f4ee2a12159fefbc86df6af6fbc9f924e968bf"
 
 [[files]]
 file = "config/waystones/config.json"
