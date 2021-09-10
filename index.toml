@@ -843,6 +843,11 @@ hash = "60110a52a49a63387e50b0fc8024130df560709b83b9acf80ea0ae1546a072eb"
 metafile = true
 
 [[files]]
+file = "mods/both/outvoted.toml"
+hash = "fed3856874099ec4347cca3a38e9ecdce967b782acffb894feb97e8e895744d0"
+metafile = true
+
+[[files]]
 file = "mods/both/paradox-slabs.toml"
 hash = "54a5db0ed6727bab92f0c0a6c0b6bce778f7ffa90657f552814e0a854a26e881"
 metafile = true
@@ -1140,6 +1145,7 @@ metafile = true
 [[files]]
 file = "mods/client/simple-discord-rpc.toml"
 hash = "605e2db5f20fb5357f88cb1105cb1d80fa5a0bfe9aa1f46c0762d0b11b3484b4"
+metafile = true
 
 [[files]]
 file = "mods/client/skin-layers-3d.toml"
