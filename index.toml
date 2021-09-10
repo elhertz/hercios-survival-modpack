@@ -538,11 +538,6 @@ hash = "f31317338a4b9295b2ec0119d1f21e099d83aa063f4b1af82991e964a8a3a259"
 metafile = true
 
 [[files]]
-file = "mods/both/beaconoverhaul.toml"
-hash = "cdd2c0edc2225127487bba2912a8b088a6689c2dbe7cd99f9030046e41388caf"
-metafile = true
-
-[[files]]
 file = "mods/both/better-signs-and-frames.toml"
 hash = "5dde687305cb77e0b03f2fc6794f4a6e8dc9df6ca30f14e252058b897fa8bd40"
 metafile = true
