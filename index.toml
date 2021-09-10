@@ -105,6 +105,10 @@ file = "config/enchantedtooltips/enchants.json5"
 hash = "aa796dec811e3fa423da96d1f2840cc300206f1027c2b1aa78625ee9dd667a85"
 
 [[files]]
+file = "config/extraalchemy.json"
+hash = "39725873592d450bc922e6ccd10e544bc8a2fe510e6196426ecc54f39f7132f4"
+
+[[files]]
 file = "config/fabrication/dimensional_tools.ini"
 hash = "14eb4e8cd105c580403c4e5bc6bba831c81aedcf4e6e04485c74e9d3f253689f"
 

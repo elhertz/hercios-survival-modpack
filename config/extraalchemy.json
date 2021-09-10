@@ -1,0 +1,27 @@
+{
+  "removeInventoryPotionShift": false,
+  "learningIncreasesExpOrbValue": true,
+  "enableVials": true,
+  "enableRings": false,
+  "enableBrewingStandFire": true,
+  "useAnchorChargesWithReturnPotion": true,
+  "allowRingsInInventoryWithThirdPartyMods": false,
+  "potions": {
+    "magnetism": false,
+    "photosynthesis": true,
+    "crumbling": true,
+    "fuse": false,
+    "recall": true,
+    "sails": true,
+    "returning": false,
+    "learning": true,
+    "concentration": true,
+    "gravity": true,
+    "combustion": true,
+    "pacifism": true,
+    "shrinking": false,
+    "growing": false,
+    "detection": true,
+    "piper": true
+  }
+}
