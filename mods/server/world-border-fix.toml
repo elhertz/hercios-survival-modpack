@@ -1,5 +1,5 @@
-name = "../World Border Fix"
-filename = "worldborderfix-1.2-fabric-1.17.jar"
+name = "World Border Fix"
+filename = "../worldborderfix-1.2-fabric-1.17.jar"
 side = "server"
 
 [download]
