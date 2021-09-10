@@ -458,7 +458,7 @@ hash = "6dbb810e5ea07c2820b8e1a9ac51f51ff532327cd6cb66a63265cc25588bfe9c"
 
 [[files]]
 file = "kubejs/client_scripts/rei_unification.js"
-hash = "eb3c133753946caa981a50d2bf1043b3b8030283dab3f5a3260da848b143d810"
+hash = "360b7e4b22e8e037b4d2c448e4d2c6b315f66890ad9e94349e2ed01d0847f2a2"
 
 [[files]]
 file = "kubejs/config/client.properties"
@@ -655,6 +655,11 @@ metafile = true
 [[files]]
 file = "mods/both/expanded-storage-fabric.toml"
 hash = "515600f9fd305e5bfdbf89f283c79329ad283264f93118759614dacf2c3d78ca"
+metafile = true
+
+[[files]]
+file = "mods/both/extra-alchemy.toml"
+hash = "f389ea84284592c970ac1c9b55fea07082c1aafef5f8dbb2f69233431dce31c7"
 metafile = true
 
 [[files]]
