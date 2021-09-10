@@ -60,7 +60,7 @@
 [multi_player]
 	enabled = true
 	description = "En el servidor oficial"
-	state = "con %players% personas más"
+	state = "con %players% jugadores"
 	largeImageKey = "modslogo"
 	largeImageText = "Minecraft %mcver%, pero con mods"
 	smallImageKey = "mc_small"
