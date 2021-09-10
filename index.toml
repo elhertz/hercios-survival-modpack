@@ -542,11 +542,6 @@ hash = "f31317338a4b9295b2ec0119d1f21e099d83aa063f4b1af82991e964a8a3a259"
 metafile = true
 
 [[files]]
-file = "mods/both/better-signs-and-frames.toml"
-hash = "5dde687305cb77e0b03f2fc6794f4a6e8dc9df6ca30f14e252058b897fa8bd40"
-metafile = true
-
-[[files]]
 file = "mods/both/better-withered-mobs.toml"
 hash = "398af2b48dc8c964e549eb5f51f5049f40ce13fc79ea84b0f5bdbb4459ff8b80"
 metafile = true
