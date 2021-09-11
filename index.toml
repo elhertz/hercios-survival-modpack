@@ -647,7 +647,7 @@ metafile = true
 
 [[files]]
 file = "mods/both/emotecraft.toml"
-hash = "ca10eb896601f00fb01145cf61a8481c5512a166b74af96d4436c6d1ea2b9d1a"
+hash = "510dd676f1edcf91e1153a02cddc7bfdc1577a9fbb6b5c42c9d67ecbe77c70a6"
 metafile = true
 
 [[files]]
@@ -662,7 +662,7 @@ metafile = true
 
 [[files]]
 file = "mods/both/fabric-api.toml"
-hash = "91b1dc17988069f17fd42d25f8e38b361888aeba78357a18094e17b53cb49ee7"
+hash = "beb96ea9ca67653aa59240ba35591ac5dfa9afc64960b63a34038e18f9e4dfa1"
 metafile = true
 
 [[files]]
@@ -732,7 +732,7 @@ metafile = true
 
 [[files]]
 file = "mods/both/gobber-fabric.toml"
-hash = "4d3461bf651fe75f46495bfa9d68c2668036df28d5180602cc72f478cbd51ba3"
+hash = "407b6cec75b4124571445a11c4480abdb352275f738050cf9065b8d007bf1dc4"
 metafile = true
 
 [[files]]
@@ -857,7 +857,7 @@ metafile = true
 
 [[files]]
 file = "mods/both/polymorph-fabric.toml"
-hash = "218ab6db22a0f87a3033932a063d5c88ffb9a89cc6518244acedf02329391642"
+hash = "100d3d8c56ff78ed477e1fd12e5bab7f5ffa17cb47b2a97079e8a0f16da28d4f"
 metafile = true
 
 [[files]]
@@ -892,7 +892,7 @@ metafile = true
 
 [[files]]
 file = "mods/both/simple-voice-chat.toml"
-hash = "4b1d92531e0582b7d1ebd819ad18e32f7ea6c50bbee8d9c9a42893e8b2c20150"
+hash = "54d2e14f081cb6f6282d111305a6e2c3d832cd73afb00818bd8a7cee3d5c5395"
 metafile = true
 
 [[files]]
@@ -967,7 +967,7 @@ metafile = true
 
 [[files]]
 file = "mods/both/wthit.toml"
-hash = "cee120765e970eabd6ba95fdbc28e1c2201c897c1bef767fd35b055007a9cd87"
+hash = "715247724b1783108691b08fe7261b1b3d8e0adccf7ff718fe7cc111aaf9edf0"
 metafile = true
 
 [[files]]
@@ -1152,7 +1152,7 @@ metafile = true
 
 [[files]]
 file = "mods/client/skin-layers-3d.toml"
-hash = "94ca3525dccf121ae848922657d3f946d2fa5580c2f68e52fae84ec0483ac2d3"
+hash = "fb90c37ae60f97e577fd70c6eedcefb073b99e69d6eaff35eaafc38145669f6c"
 metafile = true
 
 [[files]]
@@ -1467,7 +1467,7 @@ metafile = true
 
 [[files]]
 file = "mods/server/yungs-better-dungeons-fabric.toml"
-hash = "1f3d73718279317bd3d664278598d97bc2a52af4a5bcbf7b9dd4ea0fbf577d54"
+hash = "21195ddd54e1f08593eaca17d0eefafb994d13a3bdd57a4e5db452adb6a12ef7"
 metafile = true
 
 [[files]]
