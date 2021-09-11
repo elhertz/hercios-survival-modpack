@@ -102,7 +102,7 @@ hash = "db8ca3eb2c649e6e1c4b8a06342f308abf4b2d777cd6ce2afe6bff05ede0defe"
 
 [[files]]
 file = "config/enchantedtooltips/enchants.json5"
-hash = "aa796dec811e3fa423da96d1f2840cc300206f1027c2b1aa78625ee9dd667a85"
+hash = "325b99e3e38f666b024571f43a8ea8f8ffa225931370db770bc73e19d79b9349"
 
 [[files]]
 file = "config/extraalchemy.json"
@@ -230,7 +230,7 @@ hash = "399b4aa325ac3f1809b886d2c05714ca356e234d04ff41e4441348bcfff048d3"
 
 [[files]]
 file = "config/openloader/resources/hercios-modpack-texturas.zip"
-hash = "22dcc9202eae335459e170396a43cd6c3ed1223d8912c7b2ba2fd8d35d5462fe"
+hash = "d2b8853a0666fae0b77c3197a7ce1630ca16787e626df3e5dc4eae7211024b4a"
 
 [[files]]
 file = "config/redbits.json"
@@ -239,6 +239,10 @@ hash = "9d8cdb52394221c033b6b2c72ba7b8018a7fb5c658f7e6e2b7fece5f9c2d4fa6"
 [[files]]
 file = "config/simple-rpc.toml"
 hash = "81e2514988e2e0a10db5537fa5fad0bbf49a6a85de221b863f75c5fe605c525e"
+
+[[files]]
+file = "config/vanillatweaks.toml"
+hash = "3dfc28084f46d20c60a14dc8e644ab1c26154b24346e76d01fa1d5210ceba492"
 
 [[files]]
 file = "config/waystones/config.json"
@@ -672,11 +676,6 @@ hash = "1a1f14d75f4aaeafacf9925c61bea202c4a3af964d47dfd9c5b897b294abef6c"
 metafile = true
 
 [[files]]
-file = "mods/both/fabric-more-enchantments.toml"
-hash = "4137962623432e604a24a1c825ed88df99edad8b67cd875eb04dd33b76c50731"
-metafile = true
-
-[[files]]
 file = "mods/both/fabric-rings-of-ascension.toml"
 hash = "64576b850bba5b6bdca4e79baec664b1ce85021acc28677eea2dee60ed0d97ea"
 metafile = true
@@ -853,7 +852,7 @@ metafile = true
 
 [[files]]
 file = "mods/both/playerex.toml"
-hash = "8de4129825078dc4c3d4fe357e2379bad158b81c8e27430b078466dd5c571aa1"
+hash = "a5df2f77c7ad0396a5c735433889dec4e65f371a6b358d917da20a7d85a217ac"
 metafile = true
 
 [[files]]
@@ -939,6 +938,11 @@ metafile = true
 [[files]]
 file = "mods/both/upgraded-ender-chests.toml"
 hash = "c6a65474329a9c2aadd3bdd68d33a4faf4c6fad0188c2726a4edaf217edca810"
+metafile = true
+
+[[files]]
+file = "mods/both/vanillatweaks-fabric.toml"
+hash = "8a5987eedab394bc01296ecd437223e17644b3633734c251cdd411862e13af07"
 metafile = true
 
 [[files]]
@@ -1475,6 +1479,10 @@ metafile = true
 file = "mods/server/yungs-better-strongholds-fabric.toml"
 hash = "de503060a3a8c9293487dae3da7c6207763b7e984b1edcd36dd6efe56ce42266"
 metafile = true
+
+[[files]]
+file = "resources/jars/playerex-3.0.3-1.17.1-custom-lang.jar"
+hash = "e0cc9c8e18366ec27fe5dca1d8af1f6c44705f1a3bf7fa779bd4df414ee9fe54"
 
 [[files]]
 file = "resources/menu/bedrock.png"

@@ -1,14 +1,8 @@
-name = "PlayerEx"
-filename = "../playerex-3.0.1-1.17.1.jar"
+name = "playerex"
+filename = "../playerex-3.0.3-1.17.1-custom-lang.jar"
 side = "both"
 
 [download]
-url = "https://edge.forgecdn.net/files/3447/446/playerex-3.0.1-1.17.1.jar"
-hash-format = "murmur2"
-hash = "2229197987"
-
-[update]
-[update.curseforge]
-file-id = 3447446
-project-id = 409221
-release-channel = "beta"
+url = "https://hertz.rocks/resources/jars/playerex-3.0.3-1.17.1-custom-lang.jar"
+hash-format = "sha512"
+hash = "a85d761036fc264f4e210fc5bf6cb1f7331a72dfa64c4a77b477fa8da7b2dd9344890b1b217b872645f21a6dcd4461fba3f3a416f1179de7a6e323e8ac37469e"
