@@ -64,7 +64,7 @@ customization {
   y = 35
   scale = 1.0
   alignment = left
-  value = Web & Diseño
+  value = §eWeb & Diseño
 }
 
 customization {
@@ -76,7 +76,7 @@ customization {
   y = 35
   scale = 1.0
   alignment = left
-  value = Server Admin
+  value = §6Server Admin
 }
 
 customization {
@@ -88,7 +88,7 @@ customization {
   y = 35
   scale = 1.0
   alignment = left
-  value = Manager
+  value = §cManager
 }
 
 customization {
@@ -147,7 +147,7 @@ customization {
   buttonaction = opengui
   x = 5
   width = 88
-  actionid = 676e6603-af1b-48d7-aaa7-94e56a9237291631062988902
+  actionid = 5ec07e8d-5e0c-4807-966a-a0704d61dbfa1631396145922
   action = addbutton
   y = 5
   backgroundhovered = resources/menu/button2.png

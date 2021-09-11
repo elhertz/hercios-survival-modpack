@@ -127,11 +127,11 @@ customization {
   buttonaction = openlink
   x = 1
   width = 101
-  actionid = d93f209a-07f1-4436-b3b1-0f1e3b0895881631063281152
+  actionid = 5296ae11-e4dd-44ea-af5a-b728fd05a3d11631396271438
   action = addbutton
   y = -24
   label = Wiki
-  value = https://hertz.demon.live
+  value = http://hertz.rocks/wiki
   height = 20
 }
 
@@ -140,7 +140,7 @@ customization {
   buttonaction = openlink
   x = -102
   width = 100
-  actionid = 7bff38eb-0eff-4ed4-bea9-172d29cecbfe1631063281152
+  actionid = 76b7ed79-279d-4b34-81c2-6b9539a37dcf1631396271438
   action = addbutton
   y = -24
   label = Discord

@@ -33,7 +33,7 @@ customization {
   buttonaction = joinserver
   x = 103
   width = 20
-  actionid = 873aa37a-9e81-4efe-a870-147322d0a9671631150664729
+  actionid = bf9fe326-fca6-4e18-803a-21837c308a571631395998858
   action = addbutton
   y = -21
   backgroundhovered = resources/menu/square2.png
@@ -134,13 +134,13 @@ customization {
   buttonaction = openlink
   x = 1
   width = 98
-  actionid = 34f64c3b-c29e-4583-9afd-2d0b695688691631150664730
+  actionid = b675f891-8faa-400c-829b-9df3fc2a4a3a1631395998862
   action = addbutton
   y = 29
   backgroundhovered = resources/menu/half2.png
   label = Wiki
   backgroundnormal = resources/menu/half.png
-  value = https://hertz.demon.live
+  value = http://hertz.rocks/wiki
   height = 20
 }
 
@@ -149,28 +149,13 @@ customization {
   buttonaction = openlink
   x = -100
   width = 98
-  actionid = 4e8d93b8-4ae8-4f58-b107-f59106de3e671631150664731
+  actionid = 21ef764d-d5df-4cd9-a190-88a2e052d72a1631395998862
   action = addbutton
   y = 29
   backgroundhovered = resources/menu/half2.png
   label = Discord
   backgroundnormal = resources/menu/half.png
   value = https://discord.hertz.rocks
-  height = 20
-}
-
-customization {
-  orientation = bottom-left
-  buttonaction = openlink
-  x = 4
-  width = 62
-  actionid = 6fd6772e-bc29-47a6-aa39-acd08140dff81631150664731
-  action = addbutton
-  y = -50
-  backgroundhovered = resources/menu/half2.png
-  label = Novedades
-  backgroundnormal = resources/menu/half.png
-  value = https://discord.com/channels/390702334390566932/884288875059613716/884927185746526219
   height = 20
 }
 
@@ -201,7 +186,7 @@ customization {
   buttonaction = opencustomgui
   x = 4
   width = 62
-  actionid = 0712c560-f3fb-4714-a75d-4557f9b4ec1b1631150664732
+  actionid = 008cbc68-91c3-4c5e-a226-99b975921d5d1631395998863
   action = addbutton
   y = -26
   backgroundhovered = resources/menu/half2.png

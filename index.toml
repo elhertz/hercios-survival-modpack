@@ -150,15 +150,15 @@ hash = "6d5afee20299f094c801c16f3bee9a1e812052496c43441276a0d3d6ac3ad6a9"
 
 [[files]]
 file = "config/fancymenu/customization/equipo.txt"
-hash = "30e8ab8710d8cc6c49a0d7d21ff9d97ca87d052c6d3b282fc06474daeb566cf6"
+hash = "2143d77ee51b566d4f00e208376347cf5bf56ce4c3274e442ee998fa7eec905d"
 
 [[files]]
 file = "config/fancymenu/customization/esc_menu.txt"
-hash = "b2178d09bb2251143d7d1fb57c625cef740510991f886e5171e4b89384318f75"
+hash = "f7ea5edb47c6499d30ac0f48e36a39e5534f64cd2ad6cda947d34cc10ff1c75d"
 
 [[files]]
 file = "config/fancymenu/customization/main_menu.txt"
-hash = "6e537edc5499898ad4f32cccb9fa7771e7783db95d389e3bef82c273fb24e483"
+hash = "52048cdc0d4fc130dadbf5048768ccc4a8cb87211f4303a59b9f80f840e5f3d7"
 
 [[files]]
 file = "config/fancymenu/customization/voicechat.txt"
