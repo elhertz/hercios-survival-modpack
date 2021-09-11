@@ -1322,11 +1322,6 @@ hash = "98b932638d85c42367d575dbe895b026508a4fa4b3ca1af6061e3f73d2816f3f"
 metafile = true
 
 [[files]]
-file = "mods/server/ledger.toml"
-hash = "2fab96bb8ac321b426806d76a07800969c311f22c90d8421a4a9d8b0d4cb0b08"
-metafile = true
-
-[[files]]
 file = "mods/server/light-fix-mc-228802.toml"
 hash = "84e983256570d078f98a2d27ea14305905127fbc756b5445d11597693fe8e0fd"
 metafile = true
