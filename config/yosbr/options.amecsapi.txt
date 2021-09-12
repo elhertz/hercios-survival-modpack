@@ -39,7 +39,7 @@ key_modifiers_key.emotecraft.stop:
 key_modifiers_[Fabrication] Crawl:
 key_modifiers_key.expandedstorage.config:
 key_modifiers_key.adventurez.activatearmor:4
-key_modifiers_key.adventurez.dragonflydown:
+key_modifiers_key.adventurez.dragonflydown:1
 key_modifiers_key.adventurez.dragonfirebreath:
 key_modifiers_key.amecs.toggle_auto_jump:
 key_modifiers_key.amecs.toggle_cape:
@@ -54,7 +54,7 @@ key_modifiers_key.push_to_talk:
 key_modifiers_key.mute_microphone:2
 key_modifiers_key.disable_voice_chat:
 key_modifiers_key.hide_icons:
-key_modifiers_key.voice_chat:2
+key_modifiers_key.voice_chat:
 key_modifiers_key.voice_chat_settings:
 key_modifiers_key.voice_chat_group:
 key_modifiers_key.voice_chat_toggle_recording:
@@ -92,6 +92,10 @@ key_modifiers_gui.xaero_new_waypoint:
 key_modifiers_gui.xaero_display_all_sets:
 key_modifiers_gui.xaero_toggle_light_overlay:
 key_modifiers_gui.xaero_minimap_settings:
+key_modifiers_key.lightoverlay.enable_overlay:
+key_modifiers_key.extraalchemy.magnetism_toggle:
+key_modifiers_key.extraalchemy.potion_bag_mode:
+key_modifiers_key.extraalchemy.toggle_extra_inv_rings:
 key_modifiers_net.clayborn.accurateblockplacement.togglevanillaplacement:
 key_modifiers_key.okzoomer.zoom:
 key_modifiers_key.okzoomer.decrease_zoom:
