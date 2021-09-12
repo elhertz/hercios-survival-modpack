@@ -724,7 +724,7 @@ metafile = true
 
 [[files]]
 file = "mods/both/geckolib.toml"
-hash = "d966c76a73d7f33ef04fe217c961f6456d50cdcb827d6a23491d074be5c4d2ed"
+hash = "d8762c182cc350f77ef98df41a7bd48d8abf6e4c7defaaf372bc375d6be520f6"
 metafile = true
 
 [[files]]
@@ -904,7 +904,7 @@ metafile = true
 
 [[files]]
 file = "mods/both/simple-voice-chat.toml"
-hash = "54d2e14f081cb6f6282d111305a6e2c3d832cd73afb00818bd8a7cee3d5c5395"
+hash = "a7381aa2a04de5104b1d1c2062c6e0e7d71cda799cb9da8b4b7c271ae12145a2"
 metafile = true
 
 [[files]]
@@ -924,7 +924,7 @@ metafile = true
 
 [[files]]
 file = "mods/both/the-graveyard-fabric.toml"
-hash = "78b6419687c8a3db9e745ed473b71f06c26ee948468395a688e6628befde2494"
+hash = "bc551aa561955d3b0aa4e83c695057218984e53905213925b0a29be13a820b04"
 metafile = true
 
 [[files]]
