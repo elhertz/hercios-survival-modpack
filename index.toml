@@ -101,6 +101,10 @@ file = "config/eldritch_mobs.json5"
 hash = "db8ca3eb2c649e6e1c4b8a06342f308abf4b2d777cd6ce2afe6bff05ede0defe"
 
 [[files]]
+file = "config/emotecraft.json"
+hash = "655caad249d8f9ef37bee7855006b2fda2dc51e2a88d723d545eaaab5e0a6add"
+
+[[files]]
 file = "config/enchantedtooltips/enchants.json5"
 hash = "325b99e3e38f666b024571f43a8ea8f8ffa225931370db770bc73e19d79b9349"
 
