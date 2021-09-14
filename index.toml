@@ -1356,6 +1356,11 @@ hash = "f8c6760e4eb8b79a02c84bd79210362a28c603d8057f55c692d3d19f29de6034"
 metafile = true
 
 [[files]]
+file = "mods/server/fenceplayerupper.toml"
+hash = "94ce013d8ba3f8e8bb5112fdb4a3d9785f5ced8f8c33d9097df6c4c428550058"
+metafile = true
+
+[[files]]
 file = "mods/server/flan.toml"
 hash = "d1c8951ee11c85fc55999bcb129f1015c8e8288557d472d7c6292567a81e3c98"
 metafile = true
