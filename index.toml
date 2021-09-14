@@ -1212,7 +1212,7 @@ metafile = true
 
 [[files]]
 file = "mods/client/skin-layers-3d.toml"
-hash = "fb90c37ae60f97e577fd70c6eedcefb073b99e69d6eaff35eaafc38145669f6c"
+hash = "9b12358f001fc1155b6f44fc66c8815483cc77b3c714fa2ce98a00fef70ccee9"
 metafile = true
 
 [[files]]
