@@ -486,7 +486,7 @@ hash = "6dbb810e5ea07c2820b8e1a9ac51f51ff532327cd6cb66a63265cc25588bfe9c"
 
 [[files]]
 file = "kubejs/client_scripts/rei_unification.js"
-hash = "368a269acb97cb7fa8b2f838a84a88fe798435519bc42ba46410d6bfdccabd38"
+hash = "419f64dc12c2affde0249908eac05a902676c8ed68e8a269ce6d0888b75deaaf"
 
 [[files]]
 file = "kubejs/config/client.properties"

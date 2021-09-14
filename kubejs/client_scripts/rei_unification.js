@@ -82,6 +82,10 @@ const DELETED_ITEMS = [
     "allarmor:emerald_chestplate",
     "allarmor:emerald_leggings",
     "allarmor:emerald_boots",
+    "allarmor:bone_meal_helmet",
+	"allarmor:bone_meal_chestplate",
+	"allarmor:bone_meal_leggings",
+	"allarmor:bone_meal_boots",
     "magicfungi:cadentis_glyph",
     "magicfungi:pluviam_glyph"
 ];
