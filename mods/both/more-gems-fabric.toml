@@ -1,14 +1,14 @@
 name = "More Gems [FABRIC]"
-filename = "../MoreGems-Fabric-1.17.1-1.2.34.jar"
+filename = "../MoreGems-Fabric-1.17.1-1.2.35.jar"
 side = "both"
 
 [download]
-url = "https://edge.forgecdn.net/files/3446/645/MoreGems-Fabric-1.17.1-1.2.34.jar"
+url = "https://edge.forgecdn.net/files/3459/330/MoreGems-Fabric-1.17.1-1.2.35.jar"
 hash-format = "murmur2"
-hash = "536453191"
+hash = "2016995928"
 
 [update]
 [update.curseforge]
-file-id = 3446645
+file-id = 3459330
 project-id = 377284
 release-channel = "beta"

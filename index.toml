@@ -682,7 +682,7 @@ metafile = true
 
 [[files]]
 file = "mods/both/emotecraft.toml"
-hash = "510dd676f1edcf91e1153a02cddc7bfdc1577a9fbb6b5c42c9d67ecbe77c70a6"
+hash = "46b1cca21324304fe3f49de69563afe5eabab30d7c869ce19aa06f7531437f1b"
 metafile = true
 
 [[files]]
@@ -727,7 +727,7 @@ metafile = true
 
 [[files]]
 file = "mods/both/fabrictailor.toml"
-hash = "0e37f940d1effcdeb2f257637cf2ef5cbe49df3193e23bf472eab25616782798"
+hash = "fe183db89600e7212608aa74b931711bcc54583af4885c0b22a31b8faa6a835e"
 metafile = true
 
 [[files]]
@@ -832,7 +832,7 @@ metafile = true
 
 [[files]]
 file = "mods/both/lib.toml"
-hash = "4dd9c47d866ae2edc733295044996e1b9138c9b37bb4f92287f18dfdcd464065"
+hash = "fa72ecf9193d67c2e58f3b847ab6d076ef66c7d46d1573650eb88a17e298ed86"
 metafile = true
 
 [[files]]
@@ -852,7 +852,7 @@ metafile = true
 
 [[files]]
 file = "mods/both/more-gems-fabric.toml"
-hash = "1791b7056d85267d0809767849fa3fcc7e352330fa94e55d639710adf9878347"
+hash = "3780fea62875a190a3eee0fd01450ae9422aed26e4e809f5d960ef281c63aac7"
 metafile = true
 
 [[files]]
@@ -882,7 +882,7 @@ metafile = true
 
 [[files]]
 file = "mods/both/oops-all-armor.toml"
-hash = "7dc0a4040bb8033d01448140c12b754e492fc84d65c4a57c7f9672ca2b2aaf44"
+hash = "c278f5b69a9dfdcf5805dd444c42c1d45c07c743501ec975ff86b51e3a4890af"
 metafile = true
 
 [[files]]
@@ -997,7 +997,7 @@ metafile = true
 
 [[files]]
 file = "mods/both/vanillatweaks-fabric.toml"
-hash = "8a5987eedab394bc01296ecd437223e17644b3633734c251cdd411862e13af07"
+hash = "131d72fcaa164f0d0b3a58c97880a02c94ba35dd4104c7e68f56bb3b4f7aad9b"
 metafile = true
 
 [[files]]

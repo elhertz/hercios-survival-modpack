@@ -1,14 +1,14 @@
 name = "Oops! All Armor"
-filename = "../oops_all_armor-1.0.1.jar"
+filename = "../oops_all_armor-1.1.0.jar"
 side = "both"
 
 [download]
-url = "https://edge.forgecdn.net/files/3456/680/oops_all_armor-1.0.1.jar"
+url = "https://edge.forgecdn.net/files/3459/214/oops_all_armor-1.1.0.jar"
 hash-format = "murmur2"
-hash = "3263943073"
+hash = "3061544277"
 
 [update]
 [update.curseforge]
-file-id = 3456680
+file-id = 3459214
 project-id = 523218
 release-channel = "beta"
