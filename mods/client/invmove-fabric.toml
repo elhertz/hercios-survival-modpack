@@ -1,0 +1,14 @@
+name = "InvMove (Fabric)"
+filename = "../InvMove-fabric-1.17-0.1.0.jar"
+side = "client"
+
+[download]
+url = "https://edge.forgecdn.net/files/3459/83/InvMove-fabric-1.17-0.1.0.jar"
+hash-format = "murmur2"
+hash = "2938085745"
+
+[update]
+[update.curseforge]
+file-id = 3459083
+project-id = 419550
+release-channel = "beta"

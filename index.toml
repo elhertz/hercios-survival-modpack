@@ -1146,6 +1146,11 @@ hash = "e537d3642f3647a228821bfb1dce025aed04516b4bb5cf0712faedf03fe33b63"
 metafile = true
 
 [[files]]
+file = "mods/client/invmove-fabric.toml"
+hash = "b7e6a354ecba299c73f88c6c9ea224b5c8673d23df5e36e45f242ef4ffb2b957"
+metafile = true
+
+[[files]]
 file = "mods/client/lambdabettergrass.toml"
 hash = "e62fda608ccfffc4ac6bd5de7e0cb921bf7fd44f4d5b72f153007693ee3208eb"
 metafile = true
