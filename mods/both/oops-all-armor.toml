@@ -1,0 +1,14 @@
+name = "Oops! All Armor"
+filename = "../oops_all_armor-1.0.1.jar"
+side = "both"
+
+[download]
+url = "https://edge.forgecdn.net/files/3456/680/oops_all_armor-1.0.1.jar"
+hash-format = "murmur2"
+hash = "3263943073"
+
+[update]
+[update.curseforge]
+file-id = 3456680
+project-id = 523218
+release-channel = "beta"

@@ -9,14 +9,6 @@ file = "config/InvisFrames.conf"
 hash = "70aefe0b9471c924782bdd67eb880f7a724a7da8db67fd100f8046e3d1f06341"
 
 [[files]]
-file = "config/backslot.json5"
-hash = "f3d4befbeefa974f70aff8b2ca8927828d80a0d68bacebc0f2605017086e4f65"
-
-[[files]]
-file = "config/backslotaddon.json5"
-hash = "092265e8777cc2f79198aef08bf8116c801fd7014f2280fcb6ac7484ee65672c"
-
-[[files]]
 file = "config/betterend/biomes.json"
 hash = "aa07d1f7ef06324e1fc37da23b37e6e460898e10853d54f97f8ed2ec4a45bc9e"
 
@@ -249,6 +241,10 @@ file = "config/simple-rpc.toml"
 hash = "81e2514988e2e0a10db5537fa5fad0bbf49a6a85de221b863f75c5fe605c525e"
 
 [[files]]
+file = "config/skinlayers.json"
+hash = "3b78a0eda3d5e1a40fdc71b49d4e6478a5d73205c7bac3af72092988fc5001ac"
+
+[[files]]
 file = "config/vanillatweaks.toml"
 hash = "3dfc28084f46d20c60a14dc8e644ab1c26154b24346e76d01fa1d5210ceba492"
 
@@ -263,6 +259,14 @@ hash = "18d217f73a8375be5ea2c8e2240fc9f2ba39b9b3b8584c849f2d0f944e80053a"
 [[files]]
 file = "config/yosbr/config/appleskin.json5"
 hash = "1898ceb22e4521f276b5b457b567ba5f78cf5fd9cfd32235c74677dfb01c7683"
+
+[[files]]
+file = "config/yosbr/config/backslot.json5"
+hash = "f3d4befbeefa974f70aff8b2ca8927828d80a0d68bacebc0f2605017086e4f65"
+
+[[files]]
+file = "config/yosbr/config/backslotaddon.json5"
+hash = "092265e8777cc2f79198aef08bf8116c801fd7014f2280fcb6ac7484ee65672c"
 
 [[files]]
 file = "config/yosbr/config/bobby.conf"
@@ -473,12 +477,16 @@ file = "config/yosbr/resourcepacks/betterminecraft.zip"
 hash = "546343de404f807cd1a542b37f59d826abb24b26be6f65c3453ad19e47547f17"
 
 [[files]]
+file = "config/yosbr/resourcepacks/lower-shield.zip"
+hash = "657d2d4f35f7ecf9d39af2f41f5ab9a5dbc1af06a6b978698ef35d74c52621d1"
+
+[[files]]
 file = "config/yosbr/servers.dat"
 hash = "6dbb810e5ea07c2820b8e1a9ac51f51ff532327cd6cb66a63265cc25588bfe9c"
 
 [[files]]
 file = "kubejs/client_scripts/rei_unification.js"
-hash = "360b7e4b22e8e037b4d2c448e4d2c6b315f66890ad9e94349e2ed01d0847f2a2"
+hash = "368a269acb97cb7fa8b2f838a84a88fe798435519bc42ba46410d6bfdccabd38"
 
 [[files]]
 file = "kubejs/config/client.properties"
@@ -613,6 +621,11 @@ hash = "bd178d744a549007325518ad5c87401454954cb277f4bfa86638dc01eb796439"
 metafile = true
 
 [[files]]
+file = "mods/both/chipped.toml"
+hash = "a53c822315175909109ee0d8b5893f770bb267b44bdd6b8fe53ebc0cea2ddf85"
+metafile = true
+
+[[files]]
 file = "mods/both/cloth-config.toml"
 hash = "fc90613d19f9ada9d5a176f425448fc1e972abe14acac3d54e964c1cc936870c"
 metafile = true
@@ -645,6 +658,16 @@ metafile = true
 [[files]]
 file = "mods/both/double-jump-mod.toml"
 hash = "d08e25026d827f9ad2ce59dc53cd0e941a203e6e097264bfb50597fa196193d3"
+metafile = true
+
+[[files]]
+file = "mods/both/dragonloot.toml"
+hash = "758c40c16fae37d3a7b07414be26ffac10f2e3bd0283e4144be8d75cff816c20"
+metafile = true
+
+[[files]]
+file = "mods/both/draylars-battle-towers.toml"
+hash = "5ecf721e5f5b545b35ec9f15798dbf6b1b652a9e8e0e955f82a25e4081e19d94"
 metafile = true
 
 [[files]]
@@ -818,6 +841,11 @@ hash = "3b65b7e3713e6ddf7cb6875581eab56b02653361fabf00636d810a3c5b56104d"
 metafile = true
 
 [[files]]
+file = "mods/both/magic-fungi.toml"
+hash = "5eb57dc4798378fefc685c0a985d3c2787843d3ae0d5e7cc02428d2b09322316"
+metafile = true
+
+[[files]]
 file = "mods/both/modern-glass-doors.toml"
 hash = "c124a2967398f834d23d9e4588cbe19a0fae186fb20bd83f1084197c9527e782"
 metafile = true
@@ -853,6 +881,11 @@ hash = "60110a52a49a63387e50b0fc8024130df560709b83b9acf80ea0ae1546a072eb"
 metafile = true
 
 [[files]]
+file = "mods/both/oops-all-armor.toml"
+hash = "7dc0a4040bb8033d01448140c12b754e492fc84d65c4a57c7f9672ca2b2aaf44"
+metafile = true
+
+[[files]]
 file = "mods/both/outvoted.toml"
 hash = "fed3856874099ec4347cca3a38e9ecdce967b782acffb894feb97e8e895744d0"
 metafile = true
@@ -875,6 +908,11 @@ metafile = true
 [[files]]
 file = "mods/both/quick-shulker.toml"
 hash = "bc37d062bcf26b43116b88b7fbe89deb858abe508fd06ce9bb817d0bc52b6189"
+metafile = true
+
+[[files]]
+file = "mods/both/rats-mischief.toml"
+hash = "23949d4420bc018964ed46f7ffc7d801c77e150a92dda7a458244e2d89a91545"
 metafile = true
 
 [[files]]
@@ -910,6 +948,11 @@ metafile = true
 [[files]]
 file = "mods/both/slimeologymc.toml"
 hash = "36b648aeb9580f0bc05b93c6c4d2a2bbbfc9892e07d3e88f19ce603006235508"
+metafile = true
+
+[[files]]
+file = "mods/both/soulbound.toml"
+hash = "f97969eaf821992b990edddacee8b6fa5e4e7924f5c047a003a835c969c9442d"
 metafile = true
 
 [[files]]
@@ -1385,6 +1428,11 @@ metafile = true
 [[files]]
 file = "mods/server/primordial-shores-add-on-for-william-wythers.toml"
 hash = "8c828330437e7c80ab7cc2e664aba929ba0a2d55504af1e661f34208f18a05a2"
+metafile = true
+
+[[files]]
+file = "mods/server/progression-fabric.toml"
+hash = "cf27b98c2a1179edf3aec43fe692dfbc4bd6a96945d2897d1932386760cb078f"
 metafile = true
 
 [[files]]

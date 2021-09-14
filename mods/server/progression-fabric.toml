@@ -1,0 +1,14 @@
+name = "Progression (Fabric)"
+filename = "../progression-1.0.0.jar"
+side = "server"
+
+[download]
+url = "https://edge.forgecdn.net/files/3458/156/progression-1.0.0.jar"
+hash-format = "murmur2"
+hash = "3047449465"
+
+[update]
+[update.curseforge]
+file-id = 3458156
+project-id = 526982
+release-channel = "beta"
