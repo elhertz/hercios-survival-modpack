@@ -305,6 +305,22 @@ file = "config/yosbr/config/okzoomer.json5"
 hash = "af42735416cf6ec07f7a55236c019e1c9f899b1a3355262cc0734936728eb243"
 
 [[files]]
+file = "config/yosbr/config/physicsmod/physics_blocks_client_config.json"
+hash = "b8c7110f160af03df3cba98d33acf3f08e35155ee38ceaea690713dfa0985495"
+
+[[files]]
+file = "config/yosbr/config/physicsmod/physics_client_config.json"
+hash = "5eb06b668960f2ee0122092ee62ad8c564dc9db233f897dea6c2c705689d77cc"
+
+[[files]]
+file = "config/yosbr/config/physicsmod/physics_mobs_client_config.json"
+hash = "c6a9f07c7d73382db15ba9c0b2ebef7946abb52ed36fad557e799b2bf60c8172"
+
+[[files]]
+file = "config/yosbr/config/physicsmod/physics_server_config.json"
+hash = "e6c1234596884339e56c93f3e52ae9b646c70bd245ca301775de4317a8f8928a"
+
+[[files]]
 file = "config/yosbr/config/presencefootsteps/updater.json"
 hash = "4780f8de1dfa1ab6d4492a434d0269683814d19a53f9cadd897bb51e8e4f2e2a"
 
@@ -1196,6 +1212,11 @@ hash = "196ccd208918512e1024eac7399701a3d579423e41c68ccea84a0cd9c883006e"
 metafile = true
 
 [[files]]
+file = "mods/client/physics-mod.toml"
+hash = "e4de094fd6b387a73b3436988ee96d3da6a91672ebd7febae02c30852b639be7"
+metafile = true
+
+[[files]]
 file = "mods/client/presence-footsteps.toml"
 hash = "42b29d057385781a239c19d79c678e18fa221e2e6da2b60dca9545e23ca38a6e"
 metafile = true
@@ -1549,6 +1570,10 @@ metafile = true
 file = "mods/server/yungs-better-strongholds-fabric.toml"
 hash = "de503060a3a8c9293487dae3da7c6207763b7e984b1edcd36dd6efe56ce42266"
 metafile = true
+
+[[files]]
+file = "resources/jars/physicsmod-2.5.8-custom.jar"
+hash = "06856d449efc506b1ad2b8492890fd8560100df7fced21606111cb4043cc9d15"
 
 [[files]]
 file = "resources/jars/playerex-3.0.3-1.17.1-custom-lang.jar"

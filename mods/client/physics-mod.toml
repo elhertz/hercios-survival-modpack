@@ -1,0 +1,8 @@
+name = "physics-mod"
+filename = "../physicsmod-2.5.8-custom.jar"
+side = "client"
+
+[download]
+url = "https://hertz.rocks/resources/jars/physicsmod-2.5.8-custom.jar"
+hash-format = "sha512"
+hash = "3faaddf1fb07601d2a4b683fea66e0c44a1cc8c77be69829c1ad28ef0fe0f63f0ebe8faf4d19ab5be25d267eb80893f23e72b69a25a27f7a3d2738f44b8e2443"
