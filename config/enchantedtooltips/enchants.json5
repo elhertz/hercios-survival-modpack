@@ -6,7 +6,6 @@
 		"enchantment.minecraft.impaling.desc": "Aumenta el daño hacia los monstruos acuáticos y jugadores.",
 		"enchantment.extra_enchants.architect.desc": "Aumenta la distancia de contrucción/minado.",
 		"enchantment.fabricenchantments.consumer.desc": "Probabilidad de rellenar hambre al matar un enemigo.",
-		"enchantment.extra_enchants.terraforming.desc": "Aumenta la velocidad de minado pero los bloques no sueltan nada.",
 		"enchantment.doublejump.doublejump.desc": "Recibe un salto extra dependiendo del nivel.",
 		"enchantment.gobber2.rebuffing.desc": "Empuja a los atacantes e inflige daño.",
 		"enchantment.extra_enchants.boosting.desc": "Obtén un impulso al correr.",
@@ -22,7 +21,7 @@
 		"enchantment.spellbound.attractive.desc": "Atrae entidades hacia ti.",
 		"enchantment.minecraft.lure.desc": "Aumenta la velocidad de pesca.",
 		"enchantment.better_withered_mobs.withering.desc": "Inflige efecto de wither al enemigo.",
-		"enchantment.betterend.end_veil.desc": "Observar a un enderman a los no causará su enojo.",
+		"enchantment.betterend.end_veil.desc": "Observar a un enderman a los ojos no causará su enojo.",
 		"enchantment.fabricenchantments.nocturnal.desc": "Al recibir un golpe en la noche te haces invisible por un momento.",
 		"enchantment.spellbound.dullness.desc": "Reduce el daño de las herramientas.",
 		"enchantment.extra_enchants.explosive.desc": "La flecha causa explosiones (no rompe bloques).",
@@ -63,7 +62,7 @@
 		"enchantment.minecraft.frost_walker.desc": "Convierte el agua debajo del jugador en hielo.",
 		"enchantment.minecraft.knockback.desc": "Aumenta la distancia de retroceso al dañar enemigos.",
 		"enchantment.extra_enchants.bounding.desc": "Caballo salta más alto.",
-		"enchantment.extra_enchants.reflecting.desc": "El escudo hace rebotar los ataques hacía la dirección que estés mirando.",
+		"enchantment.extra_enchants.reflecting.desc": "El escudo hace rebotar los proyectiles hacía la dirección que estés mirando.",
 		"enchantment.extra_enchants.psychic.desc": "Iluminar el mob más cercano al agacharse.",
 		"enchantment.minecraft.bane_of_arthropods.desc": "Aumenta el daño hacia los artrópodos.",
 		"enchantment.minecraft.depth_strider.desc": "Aumenta la velocidad debajo del agua.",
@@ -90,8 +89,9 @@
 		"enchantment.minecraft.flame.desc": "Las flechas encienden fuego a enemigos.",
 		"enchantment.extra_enchants.core_of_neptune.desc": "Recibe el poder del dios del océano. Pero te vuelves débil en tierra.",
 		"enchantment.minecraft.loyalty.desc": "Los tridentes regresan al ser lanzados.",
-		"enchantment.extra_enchants.soulbound.desc": "No perderás el ítem al morir.",
+		"enchantment.soulbound.soulbound.desc": "No perderás el ítem al morir.",
 		"enchantment.minecraft.looting.desc": "Aumenta el botín de las criaturas.",
-		"enchantment.fabricenchantments.rise.desc": "Los enemigos flotan por un momento al ser golpeados."
+		"enchantment.fabricenchantments.rise.desc": "Los enemigos flotan por un momento al ser golpeados.",
+		"enchantment.gofish.deepfry.desc": "Los peces serán cocidos al pescar."
 	}
 }

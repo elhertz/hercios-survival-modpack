@@ -87,8 +87,55 @@ const DELETED_ITEMS = [
 	"allarmor:bone_meal_leggings",
 	"allarmor:bone_meal_boots",
     "magicfungi:cadentis_glyph",
-    "magicfungi:pluviam_glyph"
+    "magicfungi:pluviam_glyph",
+    "charm:totem_of_preserving",
+	"moretotems:teleporting_totem_of_undying"
 ];
+
 onEvent('rei.hide.items', event => {
     DELETED_ITEMS.forEach(id => event.hide(id));
+	for(let lvl = 0; lvl < 6; lvl++) {
+		event.hide(Item.of('minecraft:enchanted_book').enchant('gobber2:smithblade', lvl));
+		event.hide(Item.of('minecraft:enchanted_book').enchant('more_gems:stupify', lvl));
+		event.hide(Item.of('minecraft:enchanted_book').enchant('fabricenchantments:tank', lvl));
+		event.hide(Item.of('minecraft:enchanted_book').enchant('charm:collection', lvl));;
+		event.hide(Item.of('minecraft:enchanted_book').enchant('charm:aerial_affinity', lvl));
+		event.hide(Item.of('minecraft:enchanted_book').enchant('spellbound:selfish', lvl));
+		event.hide(Item.of('minecraft:enchanted_book').enchant('spellbound:jousting', lvl));;
+		event.hide(Item.of('minecraft:enchanted_book').enchant('spellbound:launching', lvl));;
+		event.hide(Item.of('minecraft:enchanted_book').enchant('spellbound:legacy', lvl));;
+		event.hide(Item.of('minecraft:enchanted_book').enchant('spellbound:monogamous', lvl));;
+		event.hide(Item.of('minecraft:enchanted_book').enchant('spellbound:phase_leap', lvl));;
+		event.hide(Item.of('minecraft:enchanted_book').enchant('spellbound:polygamous', lvl));;
+		event.hide(Item.of('minecraft:enchanted_book').enchant('spellbound:rampage', lvl));;
+	    event.hide(Item.of('minecraft:enchanted_book').enchant('spellbound:cave_in', lvl));
+		event.hide(Item.of('minecraft:enchanted_book').enchant('spellbound:hearty', lvl));
+		event.hide(Item.of('minecraft:enchanted_book').enchant('spellbound:impersonal', lvl));
+		event.hide(Item.of('minecraft:enchanted_book').enchant('extra_enchants:sniper', lvl));
+		event.hide(Item.of('minecraft:enchanted_book').enchant('extra_enchants:soulbound', lvl));
+		event.hide(Item.of('minecraft:enchanted_book').enchant('extra_enchants:stalwart', lvl));
+		event.hide(Item.of('minecraft:enchanted_book').enchant('extra_enchants:terraforming', lvl));
+		event.hide(Item.of('minecraft:enchanted_book').enchant('extra_enchants:thunderbolt', lvl));
+		event.hide(Item.of('minecraft:enchanted_book').enchant('extra_enchants:tough', lvl));
+		event.hide(Item.of('minecraft:enchanted_book').enchant('extra_enchants:turbo', lvl));
+		event.hide(Item.of('minecraft:enchanted_book').enchant('extra_enchants:weighted', lvl));
+		event.hide(Item.of('minecraft:enchanted_book').enchant('extra_enchants:windstep', lvl));
+		event.hide(Item.of('minecraft:enchanted_book').enchant('extra_enchants:featherweight', lvl));
+		event.hide(Item.of('minecraft:enchanted_book').enchant('extra_enchants:launching', lvl));
+		event.hide(Item.of('minecraft:enchanted_book').enchant('extra_enchants:leaping', lvl));
+		event.hide(Item.of('minecraft:enchanted_book').enchant('extra_enchants:lunging', lvl));
+		event.hide(Item.of('minecraft:enchanted_book').enchant('extra_enchants:magic_guard', lvl));
+		event.hide(Item.of('minecraft:enchanted_book').enchant('extra_enchants:magnetic', lvl));
+		event.hide(Item.of('minecraft:enchanted_book').enchant('extra_enchants:night_vision', lvl));
+		event.hide(Item.of('minecraft:enchanted_book').enchant('extra_enchants:propelling', lvl));
+		event.hide(Item.of('minecraft:enchanted_book').enchant('extra_enchants:sharpshooter', lvl));
+		event.hide(Item.of('minecraft:enchanted_book').enchant('extra_enchants:ace', lvl));
+		event.hide(Item.of('minecraft:enchanted_book').enchant('extra_enchants:cleaving', lvl));
+		event.hide(Item.of('minecraft:enchanted_book').enchant('extra_enchants:core_of_purity', lvl));
+		event.hide(Item.of('minecraft:enchanted_book').enchant('extra_enchants:core_of_the_warp', lvl));
+		event.hide(Item.of('minecraft:enchanted_book').enchant('extra_enchants:curse_of_instability', lvl));
+		event.hide(Item.of('minecraft:enchanted_book').enchant('extra_enchants:dextrous', lvl));;
+		event.hide(Item.of('minecraft:enchanted_book').enchant('extra_enchants:dwarven', lvl));;
+		event.hide(Item.of('minecraft:enchanted_book').enchant('extra_enchants:exposing', lvl));;
+	};
 });

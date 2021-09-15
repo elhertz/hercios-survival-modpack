@@ -98,7 +98,7 @@ hash = "655caad249d8f9ef37bee7855006b2fda2dc51e2a88d723d545eaaab5e0a6add"
 
 [[files]]
 file = "config/enchantedtooltips/enchants.json5"
-hash = "325b99e3e38f666b024571f43a8ea8f8ffa225931370db770bc73e19d79b9349"
+hash = "a24c8ee67af453463d1f10920aa70d9a1bc3a0fca3e0521fe5b87cf5dc731771"
 
 [[files]]
 file = "config/enhanced_bes.properties"
@@ -246,7 +246,7 @@ hash = "3b78a0eda3d5e1a40fdc71b49d4e6478a5d73205c7bac3af72092988fc5001ac"
 
 [[files]]
 file = "config/vanillatweaks.toml"
-hash = "3dfc28084f46d20c60a14dc8e644ab1c26154b24346e76d01fa1d5210ceba492"
+hash = "c35e2309882320aee17606c8eaad4ad0e080ce93d3f037bf10218138feaccb9b"
 
 [[files]]
 file = "config/waystones/config.json"
@@ -486,7 +486,7 @@ hash = "6dbb810e5ea07c2820b8e1a9ac51f51ff532327cd6cb66a63265cc25588bfe9c"
 
 [[files]]
 file = "kubejs/client_scripts/rei_unification.js"
-hash = "419f64dc12c2affde0249908eac05a902676c8ed68e8a269ce6d0888b75deaaf"
+hash = "2517fa032428728abef78036f6be87f14804a10198cb1ff956e2952d080f8626"
 
 [[files]]
 file = "kubejs/config/client.properties"
