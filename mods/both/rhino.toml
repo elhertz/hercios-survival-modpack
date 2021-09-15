@@ -6,9 +6,3 @@ side = "both"
 url = "https://edge.forgecdn.net/files/3427/364/rhino-1605.1.2-build.47.jar"
 hash-format = "murmur2"
 hash = "4086141203"
-
-[update]
-[update.curseforge]
-file-id = 3427364
-project-id = 416294
-release-channel = "beta"

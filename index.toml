@@ -528,7 +528,7 @@ metafile = true
 
 [[files]]
 file = "mods/both/adorn.toml"
-hash = "34e58f99efdd09b848e8a32c9a2d0807ced08c2dad66d6ce7a9fab3450f49c4d"
+hash = "cc958f4b389796477805327375bfce0c3dc4a2624e9e94a71acc1dfdc9aa5a42"
 metafile = true
 
 [[files]]
@@ -663,7 +663,7 @@ metafile = true
 
 [[files]]
 file = "mods/both/data-attributes.toml"
-hash = "f8184197a7f299b16730711bde4321503fb0540a64307b1da471d35f8ebfe1e0"
+hash = "d74f570266ba3811a6157486e0dc0885ce73dcc6c7c2c99ff5f527dd089d7f82"
 metafile = true
 
 [[files]]
@@ -783,7 +783,7 @@ metafile = true
 
 [[files]]
 file = "mods/both/gobber-fabric.toml"
-hash = "407b6cec75b4124571445a11c4480abdb352275f738050cf9065b8d007bf1dc4"
+hash = "661b708abbf7e76fbc37c53e9403577028d409326f556a9910c4719cd2052281"
 metafile = true
 
 [[files]]
@@ -943,7 +943,7 @@ metafile = true
 
 [[files]]
 file = "mods/both/rhino.toml"
-hash = "dffcfaee935f5ec9e88dd4a0b715d128b60975761a37a6f97b68696ab4429474"
+hash = "026ee7b9b07fc8e2f2509468ea471123fec4afdee6917726a82a2af422e3a412"
 metafile = true
 
 [[files]]
@@ -958,7 +958,7 @@ metafile = true
 
 [[files]]
 file = "mods/both/simple-voice-chat.toml"
-hash = "a7381aa2a04de5104b1d1c2062c6e0e7d71cda799cb9da8b4b7c271ae12145a2"
+hash = "8fa909377ababdc553f4bc1772972c4b5d8dc162ef19afe6af93513ca89f7450"
 metafile = true
 
 [[files]]
