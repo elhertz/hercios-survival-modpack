@@ -89,7 +89,27 @@ const DELETED_ITEMS = [
     "magicfungi:cadentis_glyph",
     "magicfungi:pluviam_glyph",
     "charm:totem_of_preserving",
-	"moretotems:teleporting_totem_of_undying"
+	"moretotems:teleporting_totem_of_undying",
+	"more_gems:citrine_hammer",
+	"more_gems:tourmaline_hammer",
+	"more_gems:kunzite_hammer",
+	"more_gems:emerald_hammer",
+	"more_gems:topaz_hammer",
+	"more_gems:alexandrite_hammer",
+	"more_gems:corundum_hammer",
+	"more_gems:sapphire_hammer",
+	"more_gems:ruby_hammer",
+	"more_gems:carbonado_hammer",
+	"more_gems:citrine_excavator",
+	"more_gems:tourmaline_excavator",
+	"more_gems:kunzite_excavator",
+	"more_gems:emerald_excavator",
+	"more_gems:topaz_excavator",
+	"more_gems:alexandrite_excavator",
+	"more_gems:corundum_excavator",
+	"more_gems:sapphire_excavator",
+	"more_gems:ruby_excavator",
+	"more_gems:carbonado_excavator"
 ];
 
 onEvent('rei.hide.items', event => {
