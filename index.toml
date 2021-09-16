@@ -1062,11 +1062,6 @@ hash = "68a63fad57e2295b07d746dd62167d4dfe48a40dd06b5393777be9645eebcf3d"
 metafile = true
 
 [[files]]
-file = "mods/client/better-dropped-items.toml"
-hash = "321907a679b20e6dd69d205eb7a7a16c2e5809657dc41954dcf94a35a5ec8b67"
-metafile = true
-
-[[files]]
 file = "mods/client/bobby.toml"
 hash = "797a1a94e69b719f5c73b6e2cdd7a19f904e82a662a8321dcda563028fb8c634"
 metafile = true
