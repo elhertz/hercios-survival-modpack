@@ -652,11 +652,6 @@ hash = "78a14a82182b0f85c480eb19648749f155007674a122f54ef3229acf0f929f66"
 metafile = true
 
 [[files]]
-file = "mods/both/cosmetic-armor-fabric.toml"
-hash = "d80be167f557edddaa472361d4b4c1b6565df5682eb4b46624840a13b1cef362"
-metafile = true
-
-[[files]]
 file = "mods/both/croptopia-fabric.toml"
 hash = "2f006e56fd1f02cd76e0feba3f4ea05662917868e1905045c9639acd1e4404f2"
 metafile = true
