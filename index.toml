@@ -927,11 +927,6 @@ hash = "bc37d062bcf26b43116b88b7fbe89deb858abe508fd06ce9bb817d0bc52b6189"
 metafile = true
 
 [[files]]
-file = "mods/both/rats-mischief.toml"
-hash = "23949d4420bc018964ed46f7ffc7d801c77e150a92dda7a458244e2d89a91545"
-metafile = true
-
-[[files]]
 file = "mods/both/red-bits.toml"
 hash = "10f2668296016249be06251a0a590c9674edd2530b7d6223e7084a811a5d7af3"
 metafile = true
