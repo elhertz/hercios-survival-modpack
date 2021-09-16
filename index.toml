@@ -1477,11 +1477,6 @@ hash = "7f6dde0d96d25848ee17ce13f8c2ed505b765491aa16a0b0f535f1fbf5041273"
 metafile = true
 
 [[files]]
-file = "mods/server/sihywtcamd.toml"
-hash = "49a2dc59b347eb2687b81609696d282088abdea88f74b58fe4bbfd1d74d8611b"
-metafile = true
-
-[[files]]
 file = "mods/server/sit.toml"
 hash = "792d7f196c7606bd2453f10946151e20b2233148693df7289b8ad6b9d859042c"
 metafile = true
