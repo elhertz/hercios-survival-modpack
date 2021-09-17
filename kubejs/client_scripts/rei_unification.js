@@ -115,11 +115,13 @@ const DELETED_ITEMS = [
 onEvent('rei.hide.items', event => {
     DELETED_ITEMS.forEach(id => event.hide(id));
 	for(let lvl = 0; lvl < 6; lvl++) {
-		event.hide(Item.of('minecraft:enchanted_book').enchant('gobber2:smithblade', lvl));
 		event.hide(Item.of('minecraft:enchanted_book').enchant('more_gems:stupify', lvl));
 		event.hide(Item.of('minecraft:enchanted_book').enchant('fabricenchantments:tank', lvl));
+        event.hide(Item.of('minecraft:enchanted_book').enchant('gobber2:rebuffing', lvl));;
+		event.hide(Item.of('minecraft:enchanted_book').enchant('gobber2:smithblade', lvl));
 		event.hide(Item.of('minecraft:enchanted_book').enchant('charm:collection', lvl));;
 		event.hide(Item.of('minecraft:enchanted_book').enchant('charm:aerial_affinity', lvl));
+        event.hide(Item.of('minecraft:enchanted_book').enchant('spellbound:priming', lvl));;
 		event.hide(Item.of('minecraft:enchanted_book').enchant('spellbound:selfish', lvl));
 		event.hide(Item.of('minecraft:enchanted_book').enchant('spellbound:jousting', lvl));;
 		event.hide(Item.of('minecraft:enchanted_book').enchant('spellbound:launching', lvl));;
@@ -131,6 +133,7 @@ onEvent('rei.hide.items', event => {
 	    event.hide(Item.of('minecraft:enchanted_book').enchant('spellbound:cave_in', lvl));
 		event.hide(Item.of('minecraft:enchanted_book').enchant('spellbound:hearty', lvl));
 		event.hide(Item.of('minecraft:enchanted_book').enchant('spellbound:impersonal', lvl));
+        event.hide(Item.of('minecraft:enchanted_book').enchant('spellbound:red_alert', lvl));;
 		event.hide(Item.of('minecraft:enchanted_book').enchant('extra_enchants:sniper', lvl));
 		event.hide(Item.of('minecraft:enchanted_book').enchant('extra_enchants:soulbound', lvl));
 		event.hide(Item.of('minecraft:enchanted_book').enchant('extra_enchants:stalwart', lvl));
@@ -151,7 +154,9 @@ onEvent('rei.hide.items', event => {
 		event.hide(Item.of('minecraft:enchanted_book').enchant('extra_enchants:sharpshooter', lvl));
 		event.hide(Item.of('minecraft:enchanted_book').enchant('extra_enchants:ace', lvl));
 		event.hide(Item.of('minecraft:enchanted_book').enchant('extra_enchants:cleaving', lvl));
-		event.hide(Item.of('minecraft:enchanted_book').enchant('extra_enchants:core_of_purity', lvl));
+		event.hide(Item.of('minecraft:enchanted_book').enchant('extra_enchants:core_of_neptune', lvl));
+		event.hide(Item.of('minecraft:enchanted_book').enchant('extra_enchants:core_of_the_blood_god', lvl));
+        event.hide(Item.of('minecraft:enchanted_book').enchant('extra_enchants:core_of_purity', lvl));
 		event.hide(Item.of('minecraft:enchanted_book').enchant('extra_enchants:core_of_the_warp', lvl));
 		event.hide(Item.of('minecraft:enchanted_book').enchant('extra_enchants:curse_of_instability', lvl));
 		event.hide(Item.of('minecraft:enchanted_book').enchant('extra_enchants:dextrous', lvl));;
