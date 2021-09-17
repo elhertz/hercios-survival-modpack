@@ -1,0 +1,12 @@
+{
+  "resetOnDeath": false,
+  "showLevelNameplates": true,
+  "levelFormula": "10 + ((0.2 * x) - 2)^3",
+  "levelUpVolume": 100,
+  "skillUpVolume": 100,
+  "inventoryButtonPosX": 155,
+  "inventoryButtonPosY": 7,
+  "textSqueezeX": 50,
+  "textSqueezeY": 50,
+  "enableTooltipFix": false
+}

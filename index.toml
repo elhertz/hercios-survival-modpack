@@ -233,6 +233,10 @@ file = "config/openloader/resources/hercios.zip"
 hash = "b577cd4736b72caf0a83049f01a19b1863f1dbd34c081eb69809c73fdcb1790c"
 
 [[files]]
+file = "config/playerex.json"
+hash = "cbcb368ecdf102a6d1c334ad73e6ff64d5ec9e9d0b542a1512b3aa82b17e1548"
+
+[[files]]
 file = "config/redbits.json"
 hash = "9d8cdb52394221c033b6b2c72ba7b8018a7fb5c658f7e6e2b7fece5f9c2d4fa6"
 
