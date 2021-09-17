@@ -102,7 +102,7 @@ hash = "a24c8ee67af453463d1f10920aa70d9a1bc3a0fca3e0521fe5b87cf5dc731771"
 
 [[files]]
 file = "config/enhanced_bes.properties"
-hash = "2264e3b589b2a976824a653031b0cd5704c8e8165f9c1e9a0db1f13bdccbca80"
+hash = "ed75122b2ea205dd22f22861dcdba9863d98159ae707f3e5716ffe8b03d07b06"
 
 [[files]]
 file = "config/extraalchemy.json"
@@ -1122,7 +1122,7 @@ metafile = true
 
 [[files]]
 file = "mods/client/enhanced-block-entities.toml"
-hash = "e910b001c406a6dae1dba7e6a356786660189ab74d667dc703f92ed4ad3b03b5"
+hash = "990ed4787be3d41bf2edce32e99972c1d677eba66af38b3b6b9d986b54bcb991"
 metafile = true
 
 [[files]]
