@@ -1561,18 +1561,6 @@ hash = "de503060a3a8c9293487dae3da7c6207763b7e984b1edcd36dd6efe56ce42266"
 metafile = true
 
 [[files]]
-file = "resources/jars/aether-1.17.1-1.6.0.jar"
-hash = "918de035ea3f354b22fe01f254ab9d97deef0aaa916db10e44db04e324b3aad9"
-
-[[files]]
-file = "resources/jars/physicsmod-2.5.8-custom.jar"
-hash = "06856d449efc506b1ad2b8492890fd8560100df7fced21606111cb4043cc9d15"
-
-[[files]]
-file = "resources/jars/playerex-3.0.3-1.17.1-custom-lang.jar"
-hash = "e0cc9c8e18366ec27fe5dca1d8af1f6c44705f1a3bf7fa779bd4df414ee9fe54"
-
-[[files]]
 file = "resources/menu/bedrock.png"
 hash = "489e704d0ffba022126eda90fbbe70e3a2784b586de5341de226d775022d357d"
 
