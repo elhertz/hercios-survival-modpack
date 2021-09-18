@@ -1406,6 +1406,11 @@ hash = "84e983256570d078f98a2d27ea14305905127fbc756b5445d11597693fe8e0fd"
 metafile = true
 
 [[files]]
+file = "mods/server/limited-spawner-fabric.toml"
+hash = "c377240be561e477923b90a5475fcdafc124263f1010cd711f9b1bb7b89d7870"
+metafile = true
+
+[[files]]
 file = "mods/server/lithium.toml"
 hash = "7301c32669873315fc2536208354a7fb3bf98fc7c0e53cd02a6006b4dfb83c32"
 metafile = true
