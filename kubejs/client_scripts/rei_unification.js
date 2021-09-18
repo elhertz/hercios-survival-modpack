@@ -109,7 +109,10 @@ const DELETED_ITEMS = [
 	"more_gems:corundum_excavator",
 	"more_gems:sapphire_excavator",
 	"more_gems:ruby_excavator",
-	"more_gems:carbonado_excavator"
+	"more_gems:carbonado_excavator",
+    "slotlink:multi_dim_remote",
+    "slotlink:unlimited_remote",
+    "slotlink:limited_remote"
 ];
 
 onEvent('rei.hide.items', event => {
