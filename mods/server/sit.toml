@@ -1,13 +1,13 @@
 name = "FabricSit"
-filename = "../FabricSit-1.6.2.jar"
+filename = "../FabricSit-1.6.3.jar"
 side = "server"
 
 [download]
-url = "https://cdn.modrinth.com//data/eM1KzRjc/versions/v1.6.2/FabricSit-1.6.2.jar"
+url = "https://cdn.modrinth.com//data/eM1KzRjc/versions/v1.6.3/FabricSit-1.6.3.jar"
 hash-format = "sha512"
-hash = "be5eb9648357f4864088571f5810c0cccf0a391656d22d48c5d4b67d91169076ac9bc44fdb293b379684d9950723027c96e90cdc679ff7bd56e7c2684334d528"
+hash = "2b5f9efe41a48cea2def9d3a44a87de3dfb56081a62e834d1a95d060bba60bd46c8be68acec80b9c2fda80c25ce68f8e7a9cae9d3ae1c74211681a6ff87782f5"
 
 [update]
 [update.modrinth]
 mod-id = "eM1KzRjc"
-version = "CREAyyuM"
+version = "1ntwxlmn"

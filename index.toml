@@ -657,12 +657,12 @@ metafile = true
 
 [[files]]
 file = "mods/both/croptopia-fabric.toml"
-hash = "2f006e56fd1f02cd76e0feba3f4ea05662917868e1905045c9639acd1e4404f2"
+hash = "2502b96fa86383e309145393ef327b7859510d71f69df2b97537871257103a38"
 metafile = true
 
 [[files]]
 file = "mods/both/data-attributes.toml"
-hash = "d74f570266ba3811a6157486e0dc0885ce73dcc6c7c2c99ff5f527dd089d7f82"
+hash = "74981ec636740c68d914b514e2e6818319a694d5acc3229551b4552288519e89"
 metafile = true
 
 [[files]]
@@ -697,7 +697,7 @@ metafile = true
 
 [[files]]
 file = "mods/both/expanded-storage-fabric.toml"
-hash = "515600f9fd305e5bfdbf89f283c79329ad283264f93118759614dacf2c3d78ca"
+hash = "7dea2b45168ece958d0e8ae2dea721f2b1fca979beb8bc528d25e98ec7f5dd44"
 metafile = true
 
 [[files]]
@@ -1007,7 +1007,7 @@ metafile = true
 
 [[files]]
 file = "mods/both/vanillatweaks-fabric.toml"
-hash = "131d72fcaa164f0d0b3a58c97880a02c94ba35dd4104c7e68f56bb3b4f7aad9b"
+hash = "bf04d6cea7ac4530db388b602f305942210c0367d3c0412f523b0c77f192bba6"
 metafile = true
 
 [[files]]
@@ -1172,7 +1172,7 @@ metafile = true
 
 [[files]]
 file = "mods/client/modmenu.toml"
-hash = "0b06066518732ad1704c8e426304292eb67cc53f54da2a600d818546435f3aea"
+hash = "db9462c76c4d515bd83a82532e283b4e7f7bb5081eeb7aafd6cf360373aa1ebb"
 metafile = true
 
 [[files]]
@@ -1217,7 +1217,7 @@ metafile = true
 
 [[files]]
 file = "mods/client/simple-discord-rpc.toml"
-hash = "605e2db5f20fb5357f88cb1105cb1d80fa5a0bfe9aa1f46c0762d0b11b3484b4"
+hash = "02fdec352dacdcdd058a4d5d37da5e65893a3b3e99d8d8df83f478f8d643a137"
 metafile = true
 
 [[files]]
@@ -1307,7 +1307,7 @@ metafile = true
 
 [[files]]
 file = "mods/server/carpet.toml"
-hash = "5dca544a7165896cee6bfa4eeed5a5e9a202b1be31f27c1bec7306ce586cda36"
+hash = "bdc2d82646cf3d5f129605e3843ada94a70a468c80950f271d2dd2f54d0bc6cd"
 metafile = true
 
 [[files]]
@@ -1337,7 +1337,7 @@ metafile = true
 
 [[files]]
 file = "mods/server/easyauth.toml"
-hash = "5eca8578a49e167757d4ae9912f055d9529db4737efd7bc0a8dcb83c83df94aa"
+hash = "4d77a7102573395bd069a29deb76cd4cff87dbe714fc666e8ba2ccdcd1252564"
 metafile = true
 
 [[files]]
@@ -1477,7 +1477,7 @@ metafile = true
 
 [[files]]
 file = "mods/server/sit.toml"
-hash = "792d7f196c7606bd2453f10946151e20b2233148693df7289b8ad6b9d859042c"
+hash = "9e913ea5bb824356c4dbc525faf13012118af3e42e939df65c405e97a8797bf6"
 metafile = true
 
 [[files]]
