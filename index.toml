@@ -956,6 +956,11 @@ hash = "36b648aeb9580f0bc05b93c6c4d2a2bbbfc9892e07d3e88f19ce603006235508"
 metafile = true
 
 [[files]]
+file = "mods/both/slotlink.toml"
+hash = "e4391f0df5c0532ab4a90ba9d3f63a799c42e52415c3534e6758cabbac2df75e"
+metafile = true
+
+[[files]]
 file = "mods/both/soulbound.toml"
 hash = "f97969eaf821992b990edddacee8b6fa5e4e7924f5c047a003a835c969c9442d"
 metafile = true
