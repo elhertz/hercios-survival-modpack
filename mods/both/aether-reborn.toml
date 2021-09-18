@@ -1,0 +1,8 @@
+name = "aether-reborn"
+filename = "../aether-1.17.1-1.6.0.jar"
+side = "both"
+
+[download]
+url = "https://hertz.rocks/resources/jars/aether-1.17.1-1.6.0.jar"
+hash-format = "sha512"
+hash = "b8986cbd48343ccc936861cbff13703bec0fac6d568f33e4acf2ee955a5d30d87eac3078744aec903f1bee4e9b31fd33369494106cd6ddd92df9d195977a35e4"

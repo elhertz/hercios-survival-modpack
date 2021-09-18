@@ -541,8 +541,8 @@ hash = "2863973afe98767b4d74382390186d5e3dbcbe855762ece3c7a9010d824bf74c"
 metafile = true
 
 [[files]]
-file = "mods/both/aether.toml"
-hash = "a17b71e95897ade72e9b6f2b9e655a3e34e769f75c1b979f7106ef4421a410e9"
+file = "mods/both/aether-reborn.toml"
+hash = "cc6ab98c4eaf611d5806bab0277f0f6a2240be3822ba25abbe0227e5ca16aa19"
 metafile = true
 
 [[files]]
@@ -688,11 +688,6 @@ metafile = true
 [[files]]
 file = "mods/both/dual-riders.toml"
 hash = "780e029863fb8d0276c787196f0551d459b99cda2f368d1710dfe489d5d497bd"
-metafile = true
-
-[[files]]
-file = "mods/both/eldritch-mobs.toml"
-hash = "c42ca1e254ee62e241c6cc3a18b157720a913e37d1d1ae56922694a5f2bd4da0"
 metafile = true
 
 [[files]]
@@ -1554,6 +1549,10 @@ metafile = true
 file = "mods/server/yungs-better-strongholds-fabric.toml"
 hash = "de503060a3a8c9293487dae3da7c6207763b7e984b1edcd36dd6efe56ce42266"
 metafile = true
+
+[[files]]
+file = "resources/jars/aether-1.17.1-1.6.0.jar"
+hash = "918de035ea3f354b22fe01f254ab9d97deef0aaa916db10e44db04e324b3aad9"
 
 [[files]]
 file = "resources/jars/physicsmod-2.5.8-custom.jar"
