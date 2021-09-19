@@ -102,7 +102,7 @@ hash = "a24c8ee67af453463d1f10920aa70d9a1bc3a0fca3e0521fe5b87cf5dc731771"
 
 [[files]]
 file = "config/enhanced_bes.properties"
-hash = "f5b695875184acb4509fc952fa9e1dbfaf936b5d9400e9d7f9de98b8c5d5b64e"
+hash = "78f737f3a8b5d5271c718100d312bf8e5658834d52ed90f1919776642577df8c"
 
 [[files]]
 file = "config/extraalchemy.json"
