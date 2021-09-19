@@ -1,0 +1,14 @@
+name = "Map Tooltip"
+filename = "../maptooltip-fabric-1.17-1.3.0.jar"
+side = "both"
+
+[download]
+url = "https://edge.forgecdn.net/files/3351/751/maptooltip-fabric-1.17-1.3.0.jar"
+hash-format = "murmur2"
+hash = "2813372937"
+
+[update]
+[update.curseforge]
+file-id = 3351751
+project-id = 384852
+release-channel = "beta"

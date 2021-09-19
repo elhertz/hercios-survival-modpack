@@ -74,7 +74,7 @@ hash = "5c18818e3aa9506430efef418e97826a1a40b97b379cd4dedf3146b9a3c1496d"
 
 [[files]]
 file = "config/charm.toml"
-hash = "6b9b8dbd61c526b613ee142380ae3035354855bcbafa98f2548253b7f5190c69"
+hash = "b6f78a52ed9a11115d6b3a5a330f73798633a32f1b6d259666a8e3c9ba416dd6"
 
 [[files]]
 file = "config/drippyloadingscreen/config.cfg"
@@ -853,6 +853,11 @@ metafile = true
 [[files]]
 file = "mods/both/magic-fungi.toml"
 hash = "5eb57dc4798378fefc685c0a985d3c2787843d3ae0d5e7cc02428d2b09322316"
+metafile = true
+
+[[files]]
+file = "mods/both/map-tooltip.toml"
+hash = "8b935f14e39aeab6a0f8fbea62345120379a01912a52246410b44837a582c393"
 metafile = true
 
 [[files]]

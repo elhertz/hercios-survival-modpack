@@ -95,7 +95,7 @@
 #Lumberjacks are villagers that trade wooden items. Their job site is the woodcutter.
 "Lumberjacks Enabled" = false
 #Show maps in tooltips.
-"MapTooltips Enabled" = true
+"MapTooltips Enabled" = false
 #Adds decoration and more ores to mineshafts.
 "MineshaftImprovements Enabled" = false
 #Mooblooms are cow-like mobs that come in a variety of flower types. They spawn flowers where they walk and can be milked for suspicious stew.
