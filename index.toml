@@ -662,7 +662,7 @@ metafile = true
 
 [[files]]
 file = "mods/both/data-attributes.toml"
-hash = "74981ec636740c68d914b514e2e6818319a694d5acc3229551b4552288519e89"
+hash = "7537589073aaaa01f70ec47ca809571f5098a0fdf5516e21e8d91506b2d1cf63"
 metafile = true
 
 [[files]]
