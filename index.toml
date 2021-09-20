@@ -205,6 +205,10 @@ file = "config/icarus.json5"
 hash = "f9efc22958458a1e8d7c9b8a4d0027a700e04a878e300773acc6df85526924c0"
 
 [[files]]
+file = "config/invmove.json"
+hash = "afb2c56f850346c772cc3882db549247957e829a6a1a791aedb9fa0ff05fd2fd"
+
+[[files]]
 file = "config/kibe.json"
 hash = "824c8145d59b30d47850119cb7038a370526e40db3fff70b00f258b005b23cdf"
 
