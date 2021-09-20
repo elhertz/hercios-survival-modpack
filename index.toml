@@ -233,6 +233,10 @@ file = "config/openloader/resources/hercios.zip"
 hash = "b577cd4736b72caf0a83049f01a19b1863f1dbd34c081eb69809c73fdcb1790c"
 
 [[files]]
+file = "config/physicsmod/physics_client_config.json"
+hash = "db828ec31fbbe32ba8a23c0cba94fab5ba9cf6eef08b0de5185b81489c1a6471"
+
+[[files]]
 file = "config/playerex.json"
 hash = "cbcb368ecdf102a6d1c334ad73e6ff64d5ec9e9d0b542a1512b3aa82b17e1548"
 
@@ -311,10 +315,6 @@ hash = "af42735416cf6ec07f7a55236c019e1c9f899b1a3355262cc0734936728eb243"
 [[files]]
 file = "config/yosbr/config/physicsmod/physics_blocks_client_config.json"
 hash = "b8c7110f160af03df3cba98d33acf3f08e35155ee38ceaea690713dfa0985495"
-
-[[files]]
-file = "config/yosbr/config/physicsmod/physics_client_config.json"
-hash = "5eb06b668960f2ee0122092ee62ad8c564dc9db233f897dea6c2c705689d77cc"
 
 [[files]]
 file = "config/yosbr/config/physicsmod/physics_mobs_client_config.json"
@@ -1212,7 +1212,7 @@ metafile = true
 
 [[files]]
 file = "mods/client/physics-mod.toml"
-hash = "e4de094fd6b387a73b3436988ee96d3da6a91672ebd7febae02c30852b639be7"
+hash = "051b079d664510ba6a0264d0022feca4e8330b20bf51090eda95986b4d53ed15"
 metafile = true
 
 [[files]]
