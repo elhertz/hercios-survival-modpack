@@ -5,4 +5,4 @@ side = "both"
 [download]
 url = "https://hertz.rocks/resources/jars/aether-1.17.1-1.6.0.jar"
 hash-format = "sha512"
-hash = "f82743f8d83ba23f8f26577ff0364986d70bdc60a1334afc66517954ac1d8d313942ce28582c0895756b155d6e97e09c27a108ee062a3f11de48dd68e85d25af"
+hash = "1cfead1912b3fea41b44eacaa27539c16559eeae162d6bd206193f5c81a47a74565c589c520dd8cc0ee3ea9b5e4ee7ab2e5443b39f5757f9890e4050252dc53d"

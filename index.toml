@@ -547,7 +547,7 @@ metafile = true
 
 [[files]]
 file = "mods/both/aether-reborn.toml"
-hash = "0e410e980747839489cef6552d05a726e41b1bd29188d2a9596000911e927843"
+hash = "dac972c649b5ff84edea78efad1732fa42847d4ac0801a13b7a50d7576266ed2"
 metafile = true
 
 [[files]]
