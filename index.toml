@@ -234,7 +234,7 @@ hash = "399b4aa325ac3f1809b886d2c05714ca356e234d04ff41e4441348bcfff048d3"
 
 [[files]]
 file = "config/openloader/resources/hercios.zip"
-hash = "b577cd4736b72caf0a83049f01a19b1863f1dbd34c081eb69809c73fdcb1790c"
+hash = "46d3f5841de4f90334873f0b7acd2be95c086aeb5fc6178942ed0529a7e3b928"
 
 [[files]]
 file = "config/physicsmod/physics_client_config.json"
@@ -509,8 +509,24 @@ file = "config/yosbr/servers.dat"
 hash = "6dbb810e5ea07c2820b8e1a9ac51f51ff532327cd6cb66a63265cc25588bfe9c"
 
 [[files]]
+file = "kubejs/assets/minecraft/lang/en_gb.json"
+hash = "ef63addccd77aa4f97f77ced61617583c4daed6e428928beb9c4dbc08fd08468"
+
+[[files]]
+file = "kubejs/assets/minecraft/lang/en_us.json"
+hash = "ef63addccd77aa4f97f77ced61617583c4daed6e428928beb9c4dbc08fd08468"
+
+[[files]]
+file = "kubejs/assets/playerex/lang/en_us.json"
+hash = "35325420cde8591997c03f7e8d746fdb7e65d6ff3ff058bbad316f0f705f2575"
+
+[[files]]
+file = "kubejs/assets/playerex/lang/es_mx.json"
+hash = "71a47d01a61ae94837e7da1ee2da086b88f038b1c0e958cdc0b71ec471c20da2"
+
+[[files]]
 file = "kubejs/client_scripts/rei_unification.js"
-hash = "2e1d312634933a2e29f5d4d9cf51aebc4ecb95034547150751f4f7e29d7db73f"
+hash = "86b487261c41f22f602a6e5ecc380c38c0f105eec2aa4c23fecf650e3d58a021"
 
 [[files]]
 file = "kubejs/config/client.properties"
@@ -616,12 +632,12 @@ metafile = true
 
 [[files]]
 file = "mods/both/blockus.toml"
-hash = "e9b0634807745b80c8a18c8eba317e076c3f584e50c3042ebe410ff66615cc34"
+hash = "6fae3509ca5f670a798bf80919300ff0dffbe250f142aff745755bdf50740678"
 metafile = true
 
 [[files]]
 file = "mods/both/bosses-of-mass-destruction.toml"
-hash = "278e09d966d754c01e4a8e858e97db68e004e2f087ab6ed3ca698d4190ecf2ea"
+hash = "480335f44671a8ca33b95262a7bac8fb5d16aaf945af45aaf0c1c36bfdc2f10e"
 metafile = true
 
 [[files]]
@@ -671,7 +687,7 @@ metafile = true
 
 [[files]]
 file = "mods/both/data-attributes.toml"
-hash = "7537589073aaaa01f70ec47ca809571f5098a0fdf5516e21e8d91506b2d1cf63"
+hash = "74981ec636740c68d914b514e2e6818319a694d5acc3229551b4552288519e89"
 metafile = true
 
 [[files]]
@@ -746,7 +762,7 @@ metafile = true
 
 [[files]]
 file = "mods/both/fabrictailor.toml"
-hash = "fe183db89600e7212608aa74b931711bcc54583af4885c0b22a31b8faa6a835e"
+hash = "1da065c715daa5e594ddf8d59d7d602f803ddc655df630590b8f5f3febd394ad"
 metafile = true
 
 [[files]]
@@ -901,7 +917,7 @@ metafile = true
 
 [[files]]
 file = "mods/both/not-enough-crashes.toml"
-hash = "60110a52a49a63387e50b0fc8024130df560709b83b9acf80ea0ae1546a072eb"
+hash = "bc3d96bf25368047ff3b839674a5a957511bffe41bfcd6201f32641543a6ec58"
 metafile = true
 
 [[files]]
@@ -921,7 +937,7 @@ metafile = true
 
 [[files]]
 file = "mods/both/playerex.toml"
-hash = "a5df2f77c7ad0396a5c735433889dec4e65f371a6b358d917da20a7d85a217ac"
+hash = "120b483acb8fff8b70fb6828a938d81451913fb7aca9d01b6aedf477d172253d"
 metafile = true
 
 [[files]]
@@ -1031,7 +1047,7 @@ metafile = true
 
 [[files]]
 file = "mods/both/when-dungeons-arise-fabric.toml"
-hash = "0a67fa0c7243ae2e402105db06c09422c5318c0d9bd5963b1c0747b6cae3a6ae"
+hash = "b3c79e0cf8efc78fb3072bf80e3ff1797719e9b01b92e05efd70945dcb659ba9"
 metafile = true
 
 [[files]]
@@ -1436,7 +1452,7 @@ metafile = true
 
 [[files]]
 file = "mods/server/luckperms.toml"
-hash = "250272240e76de79afc26e0c3a986e24dd8c01efd898fc1cc26b7df21ac66f3b"
+hash = "ce9e9ee1d52def84d58a302378bc39c21060966acc7c1e3fae590e3612dbdadc"
 metafile = true
 
 [[files]]

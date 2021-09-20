@@ -3,6 +3,6 @@ filename = "../LuckPerms-Fabric-5.3.64.jar"
 side = "server"
 
 [download]
-url = "https://ci.lucko.me/job/LuckPerms/1363/artifact/fabric/build/libs/LuckPerms-Fabric-5.3.64.jar"
+url = "https://ci.lucko.me/job/LuckPerms/1367/artifact/fabric/build/libs/LuckPerms-Fabric-5.3.68.jar"
 hash-format = "sha512"
-hash = "7501846e51b12e11891d036f55d46b216f3f9977015706dd5a54d9b806292ffd347ea00b85ab8936ef279409d2a7c6c43dbc0da2e3c7d9e0a0bc30105279375b"
+hash = "bcc739bbcd132e6c105a91cc72018f71478263476bde3307211632de4c9aa1294ae18b05118c3643b1af9976b485e9e252692fffddd8e791180765a815e63ebd"
