@@ -1,0 +1,8 @@
+name = "mmc-pack"
+filename = "../mmc-pack.json"
+side = "client"
+
+[download]
+url = "https://hertz.rocks/resources/fabric-version/mmc-pack.json"
+hash-format = "sha512"
+hash = "32118f2166f0105d415ac029a81ac17116faa871290ee386a2e25d7d01fdb631b23450376c960c38e231dfc7409bc8e0b86945342d2dee5a83806ed27cd37950"

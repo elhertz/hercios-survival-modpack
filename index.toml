@@ -521,6 +521,11 @@ file = "kubejs/startup_scripts/packversion.js"
 hash = "30def9282657e424f96a7a85c915fa57e5f8c222dc8246bc3746f24f55d36288"
 
 [[files]]
+file = "mmc-pack.toml"
+hash = "001e910f71e73b4f4e2ed56f539a2054246839f4edbed7d2eedf64e1a5fd9cac"
+metafile = true
+
+[[files]]
 file = "mods/both/adabranium.toml"
 hash = "1303587599c83805e886a6b686175b6bdf13dec7b7b812518fc559eaca8a027a"
 metafile = true
