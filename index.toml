@@ -877,7 +877,7 @@ metafile = true
 
 [[files]]
 file = "mods/both/magic-fungi.toml"
-hash = "5eb57dc4798378fefc685c0a985d3c2787843d3ae0d5e7cc02428d2b09322316"
+hash = "8ada78dd7fbc008c9373dc42d162a05ed852201eb7fadd31374ae7314017e598"
 metafile = true
 
 [[files]]
