@@ -1,0 +1,14 @@
+name = "Fabric Restart"
+filename = "../fabric-restart-1.4.1+1.17.1.jar"
+side = "server"
+
+[download]
+url = "https://edge.forgecdn.net/files/3466/24/fabric-restart-1.4.1+1.17.1.jar"
+hash-format = "murmur2"
+hash = "1299747418"
+
+[update]
+[update.curseforge]
+file-id = 3466024
+project-id = 482945
+release-channel = "beta"

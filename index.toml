@@ -1371,6 +1371,11 @@ hash = "1955cb123e6e6a859524a5ea117f757afa82396fa785f29654a500faa44a6155"
 metafile = true
 
 [[files]]
+file = "mods/server/fabric-restart.toml"
+hash = "b96c3c1b36eec19df47c4aa1436266af34d3b1543539ee73f2c81248e7b952e7"
+metafile = true
+
+[[files]]
 file = "mods/server/fabric-tree-chopper.toml"
 hash = "280d08a0629971d89c87abfc73a39ffaaf83c3f26b1a5b3a9cb2b79df4fcd716"
 metafile = true
