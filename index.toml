@@ -238,7 +238,7 @@ hash = "b577cd4736b72caf0a83049f01a19b1863f1dbd34c081eb69809c73fdcb1790c"
 
 [[files]]
 file = "config/physicsmod/physics_client_config.json"
-hash = "db828ec31fbbe32ba8a23c0cba94fab5ba9cf6eef08b0de5185b81489c1a6471"
+hash = "5639297292c5cd023a1824f6410e641b99f5ffdd9531152efca4d55d10c0ecb0"
 
 [[files]]
 file = "config/playerex.json"
