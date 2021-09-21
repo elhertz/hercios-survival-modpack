@@ -847,7 +847,7 @@ metafile = true
 
 [[files]]
 file = "mods/both/kibe.toml"
-hash = "010bdee1938daeaf2882bc98e4b8a08c6bc2dacd9889b95b8934e1ce70225f2e"
+hash = "0c3a255cb668c4d08a76a33e5d6e922fc7d706829371277211987b54248b06bd"
 metafile = true
 
 [[files]]
