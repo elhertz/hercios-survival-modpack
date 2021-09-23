@@ -946,11 +946,6 @@ hash = "100d3d8c56ff78ed477e1fd12e5bab7f5ffa17cb47b2a97079e8a0f16da28d4f"
 metafile = true
 
 [[files]]
-file = "mods/both/quick-shulker.toml"
-hash = "bc37d062bcf26b43116b88b7fbe89deb858abe508fd06ce9bb817d0bc52b6189"
-metafile = true
-
-[[files]]
 file = "mods/both/red-bits.toml"
 hash = "10f2668296016249be06251a0a590c9674edd2530b7d6223e7084a811a5d7af3"
 metafile = true
