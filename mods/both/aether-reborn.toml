@@ -3,6 +3,6 @@ filename = "../aether-1.17.1-1.6.0.jar"
 side = "both"
 
 [download]
-url = "https://hertz.rocks/resources/jars/aether-1.17.1-1.6.0.jar"
+url = "https://www.dropbox.com/s/d17r8alovkwde6v/aether-1.17.1-1.6.0.jar?dl=1"
 hash-format = "sha512"
 hash = "1cfead1912b3fea41b44eacaa27539c16559eeae162d6bd206193f5c81a47a74565c589c520dd8cc0ee3ea9b5e4ee7ab2e5443b39f5757f9890e4050252dc53d"
