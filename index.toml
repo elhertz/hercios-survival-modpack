@@ -265,6 +265,10 @@ file = "config/waystones/config.json"
 hash = "3a5e38e6b02fadc24550ce4c78bd6f6082d5d634d13ddb35601daa451ab978dd"
 
 [[files]]
+file = "config/xaeroworldmap.txt"
+hash = "bff569bcbfe00f58f6794caa82b909e82b8624b53f9df363f9781334bb3df75b"
+
+[[files]]
 file = "config/yosbr/config/advancementplaques.json5"
 hash = "18d217f73a8375be5ea2c8e2240fc9f2ba39b9b3b8584c849f2d0f944e80053a"
 
@@ -355,6 +359,10 @@ hash = "97ef697075609211feaad140b5c5a84b2655aec3c8efd4096098d43026c131f0"
 [[files]]
 file = "config/yosbr/config/xaerominimap.txt"
 hash = "72cdc8f0381fa06f7269e87f635d27b8d11eb2943c1e0047df34bb1fc0f49a0c"
+
+[[files]]
+file = "config/yosbr/config/xaeroworldmap.txt"
+hash = "bff569bcbfe00f58f6794caa82b909e82b8624b53f9df363f9781334bb3df75b"
 
 [[files]]
 file = "config/yosbr/emotes/Amogus.json"
