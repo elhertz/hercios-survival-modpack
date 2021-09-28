@@ -1,6 +1,6 @@
-name = "Bounding Box Outline Reloaded Client"
+name = "Bounding Box Outline Reloaded"
 filename = "../../BBOutlineReloaded-2.4-1.17.1-fabric-beta2.jar"
-side = "client"
+side = "both"
 
 [download]
 url = "https://edge.forgecdn.net/files/3426/411/BBOutlineReloaded-2.4-1.17.1-fabric-beta2.jar"
