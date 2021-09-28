@@ -114,7 +114,7 @@ hash = "14eb4e8cd105c580403c4e5bc6bba831c81aedcf4e6e04485c74e9d3f253689f"
 
 [[files]]
 file = "config/fabrication/features.ini"
-hash = "3316e852b2bf9c19f3746b0c7da695623c64d01f0cabd045a5229f13cfefe1d0"
+hash = "900f76510de464e3550680e75c3efe039baf3884c5077dcc088cf46f23afa128"
 
 [[files]]
 file = "config/fabrication/gear_components.ini"
