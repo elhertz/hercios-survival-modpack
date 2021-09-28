@@ -824,6 +824,11 @@ hash = "9f0a644e9199d86ad704eaa74aa94da21a637ba2ca2f5aacd0ef864b899bbfce"
 metafile = true
 
 [[files]]
+file = "mods/both/grind-enchantments.toml"
+hash = "f77a53909297d22491d5eebde8073967b64ea647148653c948cb07add00e67ab"
+metafile = true
+
+[[files]]
 file = "mods/both/herbs-extra-enchants.toml"
 hash = "f9bf2dbc8f77cb9e60e7758960438549da3527234bbf00dbe225202cc06eb3a2"
 metafile = true
@@ -1234,6 +1239,11 @@ hash = "196ccd208918512e1024eac7399701a3d579423e41c68ccea84a0cd9c883006e"
 metafile = true
 
 [[files]]
+file = "mods/client/optional/bounding-box-outline-reloaded-client.toml"
+hash = "58f2bf8b683d7f268bde086e4f185e481e36725822ac410e40663eecf07d2a53"
+metafile = true
+
+[[files]]
 file = "mods/client/physics-mod.toml"
 hash = "051b079d664510ba6a0264d0022feca4e8330b20bf51090eda95986b4d53ed15"
 metafile = true
@@ -1331,6 +1341,11 @@ metafile = true
 [[files]]
 file = "mods/server/bfapi.toml"
 hash = "02dc23fd95872d1e3f751ae3daa03e46793998fdefeae31b1468979f71ff5dbc"
+metafile = true
+
+[[files]]
+file = "mods/server/bounding-box-outline-reloaded-server.toml"
+hash = "ea2faebb8f929d4b96cbd4e1eb7c4ef1a9f825793eee15068e5b8ddda40870cc"
 metafile = true
 
 [[files]]

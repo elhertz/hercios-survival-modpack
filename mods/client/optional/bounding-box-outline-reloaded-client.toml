@@ -1,0 +1,18 @@
+name = "Bounding Box Outline Reloaded Client"
+filename = "../../BBOutlineReloaded-2.4-1.17.1-fabric-beta2.jar"
+side = "client"
+
+[download]
+url = "https://edge.forgecdn.net/files/3426/411/BBOutlineReloaded-2.4-1.17.1-fabric-beta2.jar"
+hash-format = "murmur2"
+hash = "3407944735"
+
+[update]
+[update.curseforge]
+file-id = 3426411
+project-id = 272578
+release-channel = "beta"
+
+[option]
+optional = true
+description = "Este mod te permite ver las areas de spawn de mobs."
