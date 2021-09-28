@@ -74,7 +74,7 @@ hash = "5c18818e3aa9506430efef418e97826a1a40b97b379cd4dedf3146b9a3c1496d"
 
 [[files]]
 file = "config/charm.toml"
-hash = "b6f78a52ed9a11115d6b3a5a330f73798633a32f1b6d259666a8e3c9ba416dd6"
+hash = "398ac06f76a5c7d12c3dd7728fa45b3051e539d5a3895c03ffcf6363ba4e32f2"
 
 [[files]]
 file = "config/drippyloadingscreen/config.cfg"

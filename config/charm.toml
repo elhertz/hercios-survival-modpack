@@ -186,13 +186,13 @@
 
 [AnvilImprovements]
 	#If true, removes the maximum cost of 40 XP when working items on the anvil.
-	"Remove Too Expensive" = false
+	"Remove Too Expensive" = true
 	#If true, anvils are 50% less likely to take damage when used.
 	"Stronger anvils" = false
 	#If true, an enchanted book with a level higher than the maximum enchantment level may be applied to an item.
 	"Allow higher enchantment levels" = false
 	#If true, items show their repair cost in their tooltip when looking at the anvil screen.
-	"Show item repair cost" = false
+	"Show item repair cost" = true
 
 [Atlases]
 	#Allow opening the atlas while it is in the off hand.
