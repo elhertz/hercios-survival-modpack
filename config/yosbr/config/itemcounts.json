@@ -17,7 +17,7 @@
   "hotbarItemCountTextScale": 0.75,
   "showHotbarItemIcon": false,
   "hotbarItemCountOffset": {
-    "x": 2,
-    "y": -12
+    "x": 0,
+    "y": -5
   }
 }

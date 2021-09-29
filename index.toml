@@ -314,7 +314,7 @@ hash = "24e15ce86fcc4af75988b86be85be46c6948263684391b407a92ce472900d36c"
 
 [[files]]
 file = "config/yosbr/config/itemcounts.json"
-hash = "44e51974b5971b720489f02f66b4452e9a0d37a792e6d528b44ed2fb170593d3"
+hash = "0c32b8e76df5a50ff11cbca2d7a27ae0431c957e24a537f691515807fb243bdd"
 
 [[files]]
 file = "config/yosbr/config/modmenu.json"
