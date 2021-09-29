@@ -1,0 +1,14 @@
+name = "Fabric Dispenser Cauldron"
+filename = "../dispenser-cauldron-1.0.3.jar"
+side = "server"
+
+[download]
+url = "https://edge.forgecdn.net/files/3476/604/dispenser-cauldron-1.0.3.jar"
+hash-format = "murmur2"
+hash = "405799802"
+
+[update]
+[update.curseforge]
+file-id = 3476604
+project-id = 532165
+release-channel = "beta"
