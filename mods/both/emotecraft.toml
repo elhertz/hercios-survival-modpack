@@ -1,14 +1,14 @@
 name = "Emotecraft (Fabric)"
-filename = "../emotecraft-for-MC1.17.1-2.1-SNAPSHOT-build.6-fabric.jar"
+filename = "../emotecraft-for-MC1.17.1-2.1-SNAPSHOT-build.7-fabric.jar"
 side = "both"
 
 [download]
-url = "https://edge.forgecdn.net/files/3458/653/emotecraft-for-MC1.17.1-2.1-SNAPSHOT-build.6-fabric.jar"
+url = "https://edge.forgecdn.net/files/3466/42/emotecraft-for-MC1.17.1-2.1-SNAPSHOT-build.7-fabric.jar"
 hash-format = "murmur2"
-hash = "3007097854"
+hash = "3312376279"
 
 [update]
 [update.curseforge]
-file-id = 3458653
+file-id = 3466042
 project-id = 397809
 release-channel = "beta"

@@ -1,13 +1,13 @@
 name = "DeepslateCutting Fabric"
-filename = "../deepslatecutting-1.2.0.jar"
+filename = "../deepslatecutting-1.2.2.jar"
 side = "server"
 
 [download]
-url = "https://cdn.modrinth.com/data/IiuFShHs/versions/DeepslateCutting 1.2.0/deepslatecutting-1.2.0.jar"
+url = "https://cdn.modrinth.com/data/IiuFShHs/versions/DeepslateCutting 1.2.2/deepslatecutting-1.2.2.jar"
 hash-format = "sha512"
-hash = "251e2c3cd2d05d14ffa55dd37a0ec8917e40de64eed41243c96880974edadc988bcceec996a02b40e653b63bec94feb93005c3e336d8b226720a84f80cfeb0f2"
+hash = "fe50fd5d1910b83e1472dc8f1f5004f5c22947402fc5a937de238bf3eee154f314b96f80bfc0aab7ba29fa26270edb9c4c5e9f355ff14a6e77a37ba31bf4ec95"
 
 [update]
 [update.modrinth]
 mod-id = "IiuFShHs"
-version = "iEpBsdYg"
+version = "HJIVJ1OT"

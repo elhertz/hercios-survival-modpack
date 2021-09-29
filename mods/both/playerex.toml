@@ -1,14 +1,14 @@
 name = "PlayerEx"
-filename = "../playerex-3.0.4-1.17.1.jar"
+filename = "../playerex-3.0.5-1.17.1.jar"
 side = "both"
 
 [download]
-url = "https://edge.forgecdn.net/files/3466/875/playerex-3.0.4-1.17.1.jar"
+url = "https://edge.forgecdn.net/files/3470/132/playerex-3.0.5-1.17.1.jar"
 hash-format = "murmur2"
-hash = "2242234577"
+hash = "4244660019"
 
 [update]
 [update.curseforge]
-file-id = 3466875
+file-id = 3470132
 project-id = 409221
 release-channel = "beta"

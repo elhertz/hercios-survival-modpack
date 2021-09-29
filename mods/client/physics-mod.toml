@@ -1,14 +1,14 @@
 name = "Physics Mod"
-filename = "../physics-mod-2.5.10-mc-1.17.1.jar"
+filename = "../physics-mod-2.5.11-mc-1.17.1-fabric.jar"
 side = "client"
 
 [download]
-url = "https://edge.forgecdn.net/files/3465/999/physics-mod-2.5.10-mc-1.17.1.jar"
+url = "https://edge.forgecdn.net/files/3466/700/physics-mod-2.5.11-mc-1.17.1-fabric.jar"
 hash-format = "murmur2"
-hash = "3214918972"
+hash = "1353160511"
 
 [update]
 [update.curseforge]
-file-id = 3465999
+file-id = 3466700
 project-id = 442735
 release-channel = "beta"
