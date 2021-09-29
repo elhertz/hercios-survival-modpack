@@ -1,0 +1,14 @@
+name = "Death Backup (Fabric)"
+filename = "../deathbackup-fabric_1.17.x-1.5.jar"
+side = "server"
+
+[download]
+url = "https://edge.forgecdn.net/files/3472/236/deathbackup-fabric_1.17.x-1.5.jar"
+hash-format = "murmur2"
+hash = "3503564872"
+
+[update]
+[update.curseforge]
+file-id = 3472236
+project-id = 531270
+release-channel = "beta"

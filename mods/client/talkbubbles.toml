@@ -1,0 +1,14 @@
+name = "TalkBubbles"
+filename = "../talkbubbles-1.0.0.jar"
+side = "client"
+
+[download]
+url = "https://edge.forgecdn.net/files/3475/895/talkbubbles-1.0.0.jar"
+hash-format = "murmur2"
+hash = "220701576"
+
+[update]
+[update.curseforge]
+file-id = 3475895
+project-id = 532113
+release-channel = "beta"

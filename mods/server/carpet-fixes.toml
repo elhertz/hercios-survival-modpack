@@ -1,0 +1,14 @@
+name = "Carpet-Fixes"
+filename = "../carpet-fixes-1.17.1-1.1.0+v210919.jar"
+side = "server"
+
+[download]
+url = "https://edge.forgecdn.net/files/3466/104/carpet-fixes-1.17.1-1.1.0+v210919.jar"
+hash-format = "murmur2"
+hash = "2538393226"
+
+[update]
+[update.curseforge]
+file-id = 3466104
+project-id = 529720
+release-channel = "beta"

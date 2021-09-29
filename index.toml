@@ -102,7 +102,7 @@ hash = "655caad249d8f9ef37bee7855006b2fda2dc51e2a88d723d545eaaab5e0a6add"
 
 [[files]]
 file = "config/enchantedtooltips/enchants.json5"
-hash = "a24c8ee67af453463d1f10920aa70d9a1bc3a0fca3e0521fe5b87cf5dc731771"
+hash = "41043ce566794267272adb8f3258e770dbb0d516e1e77def370e6c45e7e41bb3"
 
 [[files]]
 file = "config/enhanced_bes.properties"
@@ -217,6 +217,10 @@ file = "config/kibe.json"
 hash = "824c8145d59b30d47850119cb7038a370526e40db3fff70b00f258b005b23cdf"
 
 [[files]]
+file = "config/mcda.json5"
+hash = "c97cb83683c0c93093b46149006ca2d7a4eb539c9f743200319d003659291836"
+
+[[files]]
 file = "config/moenchantconfig.json"
 hash = "7e40a94ac7defeefc2d65f0af363e46bd6c1a5b8397bdf7f7d6073410b1f6949"
 
@@ -307,6 +311,10 @@ hash = "76c20c264dfdb2dabe1085d31dd7630aa7b7ddd672ddf29dc4ad4edcf8a8b51c"
 [[files]]
 file = "config/yosbr/config/enchantedtooltips/config.json5"
 hash = "24e15ce86fcc4af75988b86be85be46c6948263684391b407a92ce472900d36c"
+
+[[files]]
+file = "config/yosbr/config/itemcounts.json"
+hash = "44e51974b5971b720489f02f66b4452e9a0d37a792e6d528b44ed2fb170593d3"
 
 [[files]]
 file = "config/yosbr/config/modmenu.json"
@@ -598,8 +606,8 @@ hash = "0639cba16ddc7e0a0ebcbcf2c746d2d1e3787b0ad90ba1591ba5d6090c3873a7"
 metafile = true
 
 [[files]]
-file = "mods/both/art-of-alchemy-memoriam.toml"
-hash = "4a7f11e4e55c1f67184e1bc37054006a6f0d39d92168a28a1fe51e8ed410ff0a"
+file = "mods/both/art-of-alchemy-continued.toml"
+hash = "030ce8f16d9cd867ddea7d89d226a1caabc1dbf80cd618d2b049fb82ead12c87"
 metafile = true
 
 [[files]]
@@ -725,6 +733,11 @@ metafile = true
 [[files]]
 file = "mods/both/dual-riders.toml"
 hash = "780e029863fb8d0276c787196f0551d459b99cda2f368d1710dfe489d5d497bd"
+metafile = true
+
+[[files]]
+file = "mods/both/eldritch-mobs.toml"
+hash = "33ddf1ece006f132f843df5852860b7c7cf5441747ef12452a411164e784a087"
 metafile = true
 
 [[files]]
@@ -900,6 +913,11 @@ metafile = true
 [[files]]
 file = "mods/both/map-tooltip.toml"
 hash = "8b935f14e39aeab6a0f8fbea62345120379a01912a52246410b44837a582c393"
+metafile = true
+
+[[files]]
+file = "mods/both/mcda.toml"
+hash = "db86e6569b41e1a20da4076ee467b53d06285401882bb061f3c92fec44e602d6"
 metafile = true
 
 [[files]]
@@ -1118,6 +1136,11 @@ hash = "68a63fad57e2295b07d746dd62167d4dfe48a40dd06b5393777be9645eebcf3d"
 metafile = true
 
 [[files]]
+file = "mods/client/armor-sound-tweak.toml"
+hash = "631dde21a08a0262c4144469db3ccb7c8c8bb170a0ea250fe6e98b34f3dda013"
+metafile = true
+
+[[files]]
 file = "mods/client/bobby.toml"
 hash = "797a1a94e69b719f5c73b6e2cdd7a19f904e82a662a8321dcda563028fb8c634"
 metafile = true
@@ -1134,7 +1157,7 @@ metafile = true
 
 [[files]]
 file = "mods/client/chat-heads.toml"
-hash = "f30e4f7d2c2c4bafc15cf2ccfd552a143c3e0d9910d6d0f36ec0751d7864928e"
+hash = "ca5aae3977f359cc37ca72f93016efef741c0dba5cf08e27512e2e09e9510f16"
 metafile = true
 
 [[files]]
@@ -1258,6 +1281,11 @@ hash = "196ccd208918512e1024eac7399701a3d579423e41c68ccea84a0cd9c883006e"
 metafile = true
 
 [[files]]
+file = "mods/client/optional/item-counts-fabric.toml"
+hash = "12bb76565b3b04739127a7a2cf02385d1f83e5695df4377138e37735df3e74b1"
+metafile = true
+
+[[files]]
 file = "mods/client/physics-mod.toml"
 hash = "42431b24dc7c2bb098b5b4be13c4c9ddd02cf197d343e3d4fa698e3dd3412b5b"
 metafile = true
@@ -1295,6 +1323,11 @@ metafile = true
 [[files]]
 file = "mods/client/status-effect-timer.toml"
 hash = "85f8e2e89b5fdef044a974915957f0e464cd51024618448a6ca3a3b2a2c01c46"
+metafile = true
+
+[[files]]
+file = "mods/client/talkbubbles.toml"
+hash = "741c74d371f66329b140d064c684416620b959177e8dc670a49a568166ad15a7"
 metafile = true
 
 [[files]]
@@ -1363,6 +1396,11 @@ hash = "2fc23339079e34558e39b746509f1ccfb65b6ab24d840bc9efea1a758cd9ebf9"
 metafile = true
 
 [[files]]
+file = "mods/server/carpet-fixes.toml"
+hash = "3228181ce6094557d93454e449ed778cfb8b230d773d4b7bb1101b83d4a48995"
+metafile = true
+
+[[files]]
 file = "mods/server/carpet.toml"
 hash = "95c52efc8c0fc00b5ad22ee48e648dcf4d29e319129b1b5a8b0f1897d239fbe8"
 metafile = true
@@ -1378,8 +1416,18 @@ hash = "bb20c26ec54c64123219d6aab830946c3576a92b25c62621f542921696d56708"
 metafile = true
 
 [[files]]
+file = "mods/server/collective-fabric.toml"
+hash = "aa9928876994a885961af3c113886addfac27e43d98aab60c36669cc2ad68286"
+metafile = true
+
+[[files]]
 file = "mods/server/compostable-rotten-flesh.toml"
 hash = "e36624dfa5a060900ed665cef35a8eb04cd1de7a03d65865adbe65d164012647"
+metafile = true
+
+[[files]]
+file = "mods/server/death-backup-fabric.toml"
+hash = "b06a89d1e2e550a69535bc5f20c3a67b1379ea3d0f93f190c928654c8770ea38"
 metafile = true
 
 [[files]]
@@ -1535,6 +1583,11 @@ metafile = true
 [[files]]
 file = "mods/server/semblance.toml"
 hash = "7f6dde0d96d25848ee17ce13f8c2ed505b765491aa16a0b0f535f1fbf5041273"
+metafile = true
+
+[[files]]
+file = "mods/server/server-chat-history.toml"
+hash = "7c41d31bcd4ca11fcc22a0864803573281674bb62f843befec278e8ce64e2864"
 metafile = true
 
 [[files]]

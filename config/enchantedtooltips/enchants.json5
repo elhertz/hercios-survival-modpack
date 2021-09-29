@@ -93,5 +93,12 @@
 		"enchantment.minecraft.looting.desc": "Aumenta el botín de las criaturas.",
 		"enchantment.fabricenchantments.rise.desc": "Los enemigos flotan por un momento al ser golpeados.",
 		"enchantment.gofish.deepfry.desc": "Los peces serán cocidos al pescar."
+		"enchantment.mcda.burning.desc": "Enciende fuego a los atacantes."
+		"enchantment.mcda.chilling.desc": "Ralentiza y aplica fatiga al atacante."
+		"enchantment.mcda.deflect.desc": "Probabilidad de desviar flechas."
+		"enchantment.mcda.fire_focus.desc": "Aumenta el daño por fuego al enemigo."
+		"enchantment.mcda.poison_focus.desc": "Aumenta el daño por veneno al enemigo."
+		"enchantment.mcda.reckless.desc": "Tu vida se reduce pero ganas el efecto de fuerza."
+		"enchantment.mcda.snowball.desc": "Bolas de nieve serán lanzadas hacia los atacantes (sólo al ser atacado por 2 o más enemigos)."
 	}
 }
