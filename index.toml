@@ -1133,6 +1133,11 @@ hash = "a35758b0be384070336885b199bd33dc98b60bd6d65d3c9e0dda0a734b6470dc"
 metafile = true
 
 [[files]]
+file = "mods/client/chat-heads.toml"
+hash = "f30e4f7d2c2c4bafc15cf2ccfd552a143c3e0d9910d6d0f36ec0751d7864928e"
+metafile = true
+
+[[files]]
 file = "mods/client/chat-up.toml"
 hash = "82e86f24a2ba7192a33160cd43159c33bcaac4b3da6014f8f69e42d6084685a4"
 metafile = true
