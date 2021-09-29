@@ -617,7 +617,7 @@ metafile = true
 
 [[files]]
 file = "mods/both/backslot.toml"
-hash = "8a15c07499225d4bf1ac9a416b228950d5770dbfb8a666f97a4b8eaf2cfeea9b"
+hash = "87c5c9d33957bbad74ed25c28d408318349e2cd3889a0133be33c069e9a7a055"
 metafile = true
 
 [[files]]
@@ -877,7 +877,7 @@ metafile = true
 
 [[files]]
 file = "mods/both/kibe.toml"
-hash = "9e4c8d31a5e11b4190826a32f89badd76f6b354a6d6cff8d23feb32a8403a783"
+hash = "cb5b402ba46628eb7e18aa94c5f0fbe68950351ebff20e77f6f5d774298abaf1"
 metafile = true
 
 [[files]]
@@ -1027,7 +1027,7 @@ metafile = true
 
 [[files]]
 file = "mods/both/slotlink.toml"
-hash = "c2d73568b25ca23d7efb30698c53c1d2b0f4d37a9c64e88d2eb0341e672f9922"
+hash = "2d78d9ff215f8fbf8fe422bb9ebf74c2f9427bd8408ca0799afa3812a9f5fb01"
 metafile = true
 
 [[files]]
@@ -1588,6 +1588,11 @@ metafile = true
 [[files]]
 file = "mods/server/server-chat-history.toml"
 hash = "7c41d31bcd4ca11fcc22a0864803573281674bb62f843befec278e8ce64e2864"
+metafile = true
+
+[[files]]
+file = "mods/server/shut-up-console.toml"
+hash = "acfe68c227b2aee40e9b23346a721f02cb454476a3bdfeed33bfb9dfeb42957a"
 metafile = true
 
 [[files]]
