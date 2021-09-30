@@ -1592,7 +1592,7 @@ metafile = true
 
 [[files]]
 file = "mods/server/server-chat-history.toml"
-hash = "7c41d31bcd4ca11fcc22a0864803573281674bb62f843befec278e8ce64e2864"
+hash = "605ff75ef6812b5f75f2ce9bcae6e19bbea4063279cd8f3d987dfc48182dc02f"
 metafile = true
 
 [[files]]
