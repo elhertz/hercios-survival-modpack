@@ -927,7 +927,7 @@ metafile = true
 
 [[files]]
 file = "mods/both/more-gems-fabric.toml"
-hash = "f4087ae6851414e3a47d1e172659582480b4ff369e833d9c6aa67c44080b8578"
+hash = "2fec54d087b8690c1d21189cf293bea49e654ee8972ceb6384d121da07300757"
 metafile = true
 
 [[files]]
@@ -1043,6 +1043,11 @@ metafile = true
 [[files]]
 file = "mods/both/statement.toml"
 hash = "e9354c0be076904a7e2a6ebcca7ffd9319021600aff08fe64c8835d4a3aaebb1"
+metafile = true
+
+[[files]]
+file = "mods/both/stockpile.toml"
+hash = "890d98ccb1a5a9c0117338f86ae0e7c93e61f1618c5c21b51281cd5d6a29bb12"
 metafile = true
 
 [[files]]
