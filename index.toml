@@ -607,7 +607,7 @@ metafile = true
 
 [[files]]
 file = "mods/both/art-of-alchemy-continued.toml"
-hash = "030ce8f16d9cd867ddea7d89d226a1caabc1dbf80cd618d2b049fb82ead12c87"
+hash = "fd5cfe4d1dcb38fd664c10feeed60600d84172970cde059a9d4518558733e212"
 metafile = true
 
 [[files]]
@@ -762,7 +762,7 @@ metafile = true
 
 [[files]]
 file = "mods/both/fabric-language-kotlin.toml"
-hash = "1a1f14d75f4aaeafacf9925c61bea202c4a3af964d47dfd9c5b897b294abef6c"
+hash = "54f4f90e208001bafa8087de332c03dd9bee658d10fe6281bc79168700c7cde0"
 metafile = true
 
 [[files]]
@@ -1462,7 +1462,7 @@ metafile = true
 
 [[files]]
 file = "mods/server/fabric-dispenser-cauldron.toml"
-hash = "9fa2a58de0215d3cad39f55b56255768bf1c47a8e6a58c04cc5057844620a290"
+hash = "c7c1a30988e5493f8bb5a5029c6457669b8364688011cd1c6ac195461c93f31b"
 metafile = true
 
 [[files]]
@@ -1518,11 +1518,6 @@ metafile = true
 [[files]]
 file = "mods/server/light-fix-mc-228802.toml"
 hash = "84e983256570d078f98a2d27ea14305905127fbc756b5445d11597693fe8e0fd"
-metafile = true
-
-[[files]]
-file = "mods/server/limited-spawner-fabric.toml"
-hash = "c377240be561e477923b90a5475fcdafc124263f1010cd711f9b1bb7b89d7870"
 metafile = true
 
 [[files]]
