@@ -1266,11 +1266,6 @@ hash = "2fa957f7b609ac0b2657de388e2815272c7f715ac59db9489f29ddcada40dd01"
 metafile = true
 
 [[files]]
-file = "mods/client/not-enough-animations.toml"
-hash = "2b827cd8c2a07ed6491f4bba260128c72b9a8a5089c0c1df17a818a3b3a6868b"
-metafile = true
-
-[[files]]
 file = "mods/client/notifmod.toml"
 hash = "fc19132073f2d048df9e2f125fbbd8a77b30c7167ed1a997d1d948f4516fd1a3"
 metafile = true
@@ -1338,11 +1333,6 @@ metafile = true
 [[files]]
 file = "mods/client/tooltipfix.toml"
 hash = "2a57ec7d7574baeab1629ea37b72a7902b4ad24a227b7bd50be5e4fcfeb33e7e"
-metafile = true
-
-[[files]]
-file = "mods/client/transliterationlib.toml"
-hash = "b87a706ca2dcc313fcad9ad1f22a93094eb0d06b084700cd91894566ec9fe5c8"
 metafile = true
 
 [[files]]
