@@ -517,12 +517,12 @@ file = "config/yosbr/options.txt"
 hash = "1f52577e6ac0cc56185612e9387608b9f3b5a14cf29c12fc39e098340887004c"
 
 [[files]]
-file = "config/yosbr/resourcepacks/betterminecraft.zip"
-hash = "546343de404f807cd1a542b37f59d826abb24b26be6f65c3453ad19e47547f17"
+file = "config/yosbr/resourcepacks/VanillaTweaks_Hercios.zip"
+hash = "4f22e097c27d1a53adf15c9a1d50d27e6d4815ca4d71f5d0efeb17b273fb8408"
 
 [[files]]
-file = "config/yosbr/resourcepacks/lower-shield.zip"
-hash = "657d2d4f35f7ecf9d39af2f41f5ab9a5dbc1af06a6b978698ef35d74c52621d1"
+file = "config/yosbr/resourcepacks/betterminecraft.zip"
+hash = "546343de404f807cd1a542b37f59d826abb24b26be6f65c3453ad19e47547f17"
 
 [[files]]
 file = "config/yosbr/servers.dat"
@@ -668,11 +668,6 @@ metafile = true
 [[files]]
 file = "mods/both/cardinal-components.toml"
 hash = "4421e64709857fac6668c03b62d87b3c69acc4daaf148782deebada63e2891d1"
-metafile = true
-
-[[files]]
-file = "mods/both/carrier.toml"
-hash = "3ef3814397f3a56e38211a17d4be772b5e4bcc22605039ab84eead08d6202c82"
 metafile = true
 
 [[files]]
