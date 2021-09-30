@@ -1027,7 +1027,7 @@ metafile = true
 
 [[files]]
 file = "mods/both/slotlink.toml"
-hash = "2d78d9ff215f8fbf8fe422bb9ebf74c2f9427bd8408ca0799afa3812a9f5fb01"
+hash = "898265ebe5050db43fc9368773602b739728b2e0454b514acfc90de5a2b79fb1"
 metafile = true
 
 [[files]]
@@ -1082,7 +1082,7 @@ metafile = true
 
 [[files]]
 file = "mods/both/vanillatweaks-fabric.toml"
-hash = "bf04d6cea7ac4530db388b602f305942210c0367d3c0412f523b0c77f192bba6"
+hash = "98d6fdebe4ef7e2fdf12cdf147e4a2a8ea2466662fd69ce14e4ec96e79dbfc23"
 metafile = true
 
 [[files]]
@@ -1657,7 +1657,7 @@ metafile = true
 
 [[files]]
 file = "mods/server/universal-graves.toml"
-hash = "ec04645f7cffd23ff96983c8ff2d065f30cc135b54651bb9f3490539cbddfa99"
+hash = "a9fce6f8053e7603e939c556b61ff53cc20497815bdf664830345cab8e8ce09a"
 metafile = true
 
 [[files]]
