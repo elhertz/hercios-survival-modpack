@@ -827,7 +827,7 @@ metafile = true
 
 [[files]]
 file = "mods/both/gobber-fabric.toml"
-hash = "ffb5606e42dd536fa49888ea372ae19cfa3cf2effa466e90a1b6f7548a8ecb5e"
+hash = "66c899bbd22150eb79067c88993a6ad0fb035717477da5ad2737bd0acc0812b7"
 metafile = true
 
 [[files]]
