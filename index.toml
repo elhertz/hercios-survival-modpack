@@ -102,7 +102,7 @@ hash = "655caad249d8f9ef37bee7855006b2fda2dc51e2a88d723d545eaaab5e0a6add"
 
 [[files]]
 file = "config/enchantedtooltips/enchants.json5"
-hash = "41043ce566794267272adb8f3258e770dbb0d516e1e77def370e6c45e7e41bb3"
+hash = "51e814e4864fc4c12889ec0dd3201525d330b73160f8041724694b5a1b227e96"
 
 [[files]]
 file = "config/enhanced_bes.properties"
@@ -546,7 +546,7 @@ hash = "71a47d01a61ae94837e7da1ee2da086b88f038b1c0e958cdc0b71ec471c20da2"
 
 [[files]]
 file = "kubejs/client_scripts/rei_unification.js"
-hash = "86b487261c41f22f602a6e5ecc380c38c0f105eec2aa4c23fecf650e3d58a021"
+hash = "b314e3a17a75e86e97c8f15b7ff37280f65ac025fe308093c00773356746584d"
 
 [[files]]
 file = "kubejs/config/client.properties"

@@ -143,7 +143,6 @@ onEvent('rei.hide.items', event => {
 		event.hide(Item.of('minecraft:enchanted_book').enchant('spellbound:hearty', lvl));
 		event.hide(Item.of('minecraft:enchanted_book').enchant('spellbound:impersonal', lvl));
         event.hide(Item.of('minecraft:enchanted_book').enchant('spellbound:red_alert', lvl));;
-		event.hide(Item.of('minecraft:enchanted_book').enchant('extra_enchants:sniper', lvl));
 		event.hide(Item.of('minecraft:enchanted_book').enchant('extra_enchants:soulbound', lvl));
 		event.hide(Item.of('minecraft:enchanted_book').enchant('extra_enchants:stalwart', lvl));
 		event.hide(Item.of('minecraft:enchanted_book').enchant('extra_enchants:terraforming', lvl));
