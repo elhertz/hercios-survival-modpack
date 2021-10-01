@@ -78,7 +78,7 @@ hash = "5c18818e3aa9506430efef418e97826a1a40b97b379cd4dedf3146b9a3c1496d"
 
 [[files]]
 file = "config/charm.toml"
-hash = "398ac06f76a5c7d12c3dd7728fa45b3051e539d5a3895c03ffcf6363ba4e32f2"
+hash = "bb195c0411c60dbf99127eaca36d554ca7479cdb51594a5d3ec0d26fa8821137"
 
 [[files]]
 file = "config/drippyloadingscreen/config.cfg"
@@ -195,6 +195,10 @@ hash = "f7398486de0b4430ca163c97fa0e4719a67b34938115d018816f7058b057e34b"
 [[files]]
 file = "config/flytre_lib.json5"
 hash = "8e2952e64a1ae967de6a88a12cccd63113f816f2e690274a7f6fa648b8e81f0d"
+
+[[files]]
+file = "config/forging-beyond.properties"
+hash = "be1d4dc65f3ecb2df1babb249ad8721c90e12bce3ba04d26dcc0695fe931296c"
 
 [[files]]
 file = "config/gobber2/general.json5"
@@ -798,6 +802,11 @@ metafile = true
 [[files]]
 file = "mods/both/foodables-fabric.toml"
 hash = "d479e2196506ded7e0c29224be4f0b080ae994d05974751c26293b0f34401ef3"
+metafile = true
+
+[[files]]
+file = "mods/both/forging-beyond.toml"
+hash = "6843379cadeeaa8f0bd31d9f603e74c2eb715bf89a869c0c9ac90107bb022411"
 metafile = true
 
 [[files]]

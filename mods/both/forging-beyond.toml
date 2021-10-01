@@ -1,0 +1,14 @@
+name = "Forging Beyond"
+filename = "../forging-beyond-0.0.2+1.16-1.17.jar"
+side = "both"
+
+[download]
+url = "https://edge.forgecdn.net/files/3418/646/forging-beyond-0.0.2+1.16-1.17.jar"
+hash-format = "murmur2"
+hash = "2972328040"
+
+[update]
+[update.curseforge]
+file-id = 3418646
+project-id = 460865
+release-channel = "beta"
