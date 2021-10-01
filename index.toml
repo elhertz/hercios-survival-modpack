@@ -657,7 +657,7 @@ metafile = true
 
 [[files]]
 file = "mods/both/bosses-of-mass-destruction.toml"
-hash = "480335f44671a8ca33b95262a7bac8fb5d16aaf945af45aaf0c1c36bfdc2f10e"
+hash = "9bd0afa05d16ed2f0ab2f96e74584cd5c620d4c44515cab729f1579209477d63"
 metafile = true
 
 [[files]]
