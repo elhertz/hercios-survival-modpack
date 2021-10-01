@@ -14,7 +14,7 @@
         "msgType": "ACTIONBAR",
         "soundEnabled": true,
         "soundSequence": "notifmod:durability.damage",
-        "volume": 100
+        "volume": 80
       },
       "stop": {
         "msgType": "ACTIONBAR",
@@ -49,12 +49,12 @@
     "join": {
       "enabled": true,
       "soundSequence": "notifmod:player.join(1.3)",
-      "volume": 100
+      "volume": 50
     },
     "leave": {
       "enabled": true,
       "soundSequence": "notifmod:player.leave(1.3)",
-      "volume": 100
+      "volume": 50
     }
   },
   "doneLoading": {

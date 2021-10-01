@@ -1,0 +1,14 @@
+name = "So I heard you were talking crap about Minecraft's difficulty?"
+filename = "../sihywtcamd-1.5.2+1.17.1.jar"
+side = "both"
+
+[download]
+url = "https://edge.forgecdn.net/files/3429/606/sihywtcamd-1.5.2+1.17.1.jar"
+hash-format = "murmur2"
+hash = "3502979437"
+
+[update]
+[update.curseforge]
+file-id = 3429606
+project-id = 460652
+release-channel = "beta"

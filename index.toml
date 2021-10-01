@@ -245,6 +245,10 @@ file = "config/naturescompass.json"
 hash = "399b4aa325ac3f1809b886d2c05714ca356e234d04ff41e4441348bcfff048d3"
 
 [[files]]
+file = "config/notifmod.json"
+hash = "01b3e32ca70169c2e13d8b524fd7d0df8b8bbd0c0d49c844c5159079ece6a330"
+
+[[files]]
 file = "config/openloader/resources/hercios.zip"
 hash = "46d3f5841de4f90334873f0b7acd2be95c086aeb5fc6178942ed0529a7e3b928"
 
@@ -327,10 +331,6 @@ hash = "6df2083901a28081c56b25f132df1df31dea27fddb7968d370cbffb595e0568f"
 [[files]]
 file = "config/yosbr/config/mousewheelie.hjson"
 hash = "c941d12bffe05178a19d755790507be4c929f38159f0e59014c78538b2e57766"
-
-[[files]]
-file = "config/yosbr/config/notifmod.json"
-hash = "39f5cfa6d822f8d2b5cd4ada1f9c8b985f31f27c0a218d8392e73ecb20626d7f"
 
 [[files]]
 file = "config/yosbr/config/okzoomer.json5"
@@ -606,12 +606,12 @@ metafile = true
 
 [[files]]
 file = "mods/both/architectury-fabric.toml"
-hash = "0639cba16ddc7e0a0ebcbcf2c746d2d1e3787b0ad90ba1591ba5d6090c3873a7"
+hash = "1266fbd47e6fa85b32fee06525a49522804f954599529cae911819382e045632"
 metafile = true
 
 [[files]]
 file = "mods/both/art-of-alchemy-continued.toml"
-hash = "fd5cfe4d1dcb38fd664c10feeed60600d84172970cde059a9d4518558733e212"
+hash = "99af04f74aa0ee6e9743dfdeb11005d26660502e98e9cecf8d7fc4c8a1a0cdbe"
 metafile = true
 
 [[files]]
@@ -632,11 +632,6 @@ metafile = true
 [[files]]
 file = "mods/both/bclib.toml"
 hash = "f31317338a4b9295b2ec0119d1f21e099d83aa063f4b1af82991e964a8a3a259"
-metafile = true
-
-[[files]]
-file = "mods/both/better-withered-mobs.toml"
-hash = "398af2b48dc8c964e549eb5f51f5049f40ce13fc79ea84b0f5bdbb4459ff8b80"
 metafile = true
 
 [[files]]
@@ -956,12 +951,12 @@ metafile = true
 
 [[files]]
 file = "mods/both/ninjaphenixs-container-library.toml"
-hash = "36cc2330d4437f4042f8fb43d8ccf4565edc23c8833656cb348bd334bab874bc"
+hash = "21ce602dec523d7b18539c1d0c0b7a235203d58a2ab4f68ee3266f774e56ee61"
 metafile = true
 
 [[files]]
 file = "mods/both/not-enough-crashes.toml"
-hash = "4a6243ecb942456155a72452c75cd43d229487e22877a149e30bb8497f72715e"
+hash = "8e4089332348fcadc2195ed375258be702658dd8dc736db7dc3e04ccfbccf667"
 metafile = true
 
 [[files]]
@@ -1017,6 +1012,11 @@ metafile = true
 [[files]]
 file = "mods/both/shieldbalancing.toml"
 hash = "e15fddeb9c7450154ff1a42772f8a54b8c0912da4ee7bac83c85ac996f7333df"
+metafile = true
+
+[[files]]
+file = "mods/both/sihywtcamd.toml"
+hash = "0a4ff28b4ba81ba955372e0351e233264a513f81d812116c158b41697258f600"
 metafile = true
 
 [[files]]
@@ -1296,7 +1296,7 @@ metafile = true
 
 [[files]]
 file = "mods/client/physics-mod.toml"
-hash = "42431b24dc7c2bb098b5b4be13c4c9ddd02cf197d343e3d4fa698e3dd3412b5b"
+hash = "bbe9d0ebc88a6e596aa957bfcf2c3d64c8495ce61578c90410a11165ffcd7721"
 metafile = true
 
 [[files]]
@@ -1596,7 +1596,7 @@ metafile = true
 
 [[files]]
 file = "mods/server/server-chat-history.toml"
-hash = "605ff75ef6812b5f75f2ce9bcae6e19bbea4063279cd8f3d987dfc48182dc02f"
+hash = "50da08699f18924135ea47599652d338d60ef8810f5227fdba89959671704732"
 metafile = true
 
 [[files]]
