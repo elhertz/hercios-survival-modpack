@@ -6,7 +6,7 @@ hash = "d5d195cbe9243aaf8bc2bfa717d94681ffb6128fadf97d33ba39b3a26261550d"
 
 [[files]]
 file = "config/GiveMeHats/config.acfg"
-hash = "2f0b7b0a6468971a91b8d1a75b87061c3dce24ddb771e66f91fd57450a7fbdfd"
+hash = "80740521b2b96fd48fc6f4c8cd14bf077e981751f09e96f89f64fbc1e56ce329"
 
 [[files]]
 file = "config/InvisFrames.conf"
@@ -71,10 +71,6 @@ hash = "6c15aaa04bfbc8886c8326a52d8b0621571ce33fbd032f9f3584ee513730ab4e"
 [[files]]
 file = "config/betternether/recipes.json"
 hash = "21300dad75334098c187d4b69260e1731ecf993005c70fb6827179b6136e2241"
-
-[[files]]
-file = "config/carrier.json"
-hash = "5c18818e3aa9506430efef418e97826a1a40b97b379cd4dedf3146b9a3c1496d"
 
 [[files]]
 file = "config/charm.toml"

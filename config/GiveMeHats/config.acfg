@@ -25,4 +25,4 @@ jojohat=0
 wolfears=1
 golembucket=1
 #this should probably not go lower than 10, it makes it so you not always guaranteed a hat
-air=50
+air=300
