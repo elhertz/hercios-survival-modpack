@@ -198,7 +198,7 @@ hash = "be1d4dc65f3ecb2df1babb249ad8721c90e12bce3ba04d26dcc0695fe931296c"
 
 [[files]]
 file = "config/gobber2/general.json5"
-hash = "8d72f5b037eaad69f7944ce8358905d33f0185ead1ee6f926135cfcb408697bd"
+hash = "3bdbcf74cd8d0bf81d919f0a46e946858ea0d12c208e2c8c19968779cc6b7067"
 
 [[files]]
 file = "config/gobber2/ores.json5"

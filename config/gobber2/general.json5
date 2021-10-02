@@ -281,7 +281,7 @@
 	"rebuffingMaxLevel": 3,
 	"enableFasterObsidian": true,
 	"enableUntouchable": true,
-	"untouchableDamage": 3,
+	"untouchableDamage": 2,
 	"untouchableMaxLevel": 3,
 	"enableQuickUse": false,
 	"enableBlinders": false,
