@@ -1565,6 +1565,11 @@ hash = "64fefe4d564c901cd17415e4337ab4984fa4a806f11e769c538fb522b1a228c1"
 metafile = true
 
 [[files]]
+file = "mods/server/plan-player-analytics.toml"
+hash = "83cfe7716f15c0417ef979103cee42be0904b4d6b816494caf83c296c6de06ac"
+metafile = true
+
+[[files]]
 file = "mods/server/playerpig.toml"
 hash = "bf3c228fdb5a0004327621f4909ef263a023a3de898ebd8a5a34bf632dce7b56"
 metafile = true

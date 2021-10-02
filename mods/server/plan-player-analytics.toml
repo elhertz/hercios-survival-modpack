@@ -1,0 +1,14 @@
+name = "Plan Player Analytics"
+filename = "../PlanFabric-5.4-dev-build-1445.jar"
+side = "server"
+
+[download]
+url = "https://edge.forgecdn.net/files/3464/94/PlanFabric-5.4-dev-build-1445.jar"
+hash-format = "murmur2"
+hash = "1931258703"
+
+[update]
+[update.curseforge]
+file-id = 3464094
+project-id = 508727
+release-channel = "beta"
