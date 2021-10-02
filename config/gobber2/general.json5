@@ -68,6 +68,7 @@
 	"ringBlinkDistance": 100,
 	"ringBlinkCooldown": 120,
 	"ringExplorerCooldown": 240,
+	"ringExplorerUsePlayerPos": false,
 	"ringExplorerMin": 5000,
 	"ringExplorerMax": 20000,
 	"ringFarmerHorizRange": 12,
@@ -84,10 +85,21 @@
 	/* 
 	   
 	   ***********************
+	   Effect Setting
+	   -used with optimization mods
+	   that break things
+	   Value of 300 works
+	   ***********************
+	*/
+	"effectDuration": 300,
+	"effectDurationKnowledge": 120,
+	/* 
+	   
+	   ***********************
 	   Medallion Settings
 	   ***********************
 	*/
-	"medallionExpMultiplier": 3,
+	"medallionExpMultiplier": 2,
 	"medallionLesserHealingAmount": 1,
 	"medallionHealingAmount": 2,
 	"medallionGreaterHealingAmount": 3,
@@ -141,6 +153,7 @@
 	"gobberDurability": 3800,
 	"gobberMiningSpeed": 9.0,
 	"gobberAttackDamage": 9.0,
+	"gobberSwordAttackSpeed": 2.0,
 	"gobberMiningLevel": 4,
 	"gobberEnchantability": 20,
 	/* 
@@ -153,6 +166,7 @@
 	"gobberNetherDurability": 5200,
 	"gobberNetherMiningSpeed": 12.0,
 	"gobberNetherAttackDamage": 9.0,
+	"gobberNetherSwordAttackSpeed": 2.200000047683716,
 	"gobberNetherMiningLevel": 5,
 	"gobberNetherEnchantability": 25,
 	/* 
@@ -166,6 +180,7 @@
 	"gobberEndDurability": 8000,
 	"gobberEndMiningSpeed": 14.0,
 	"gobberEndAttackDamage": 9.0,
+	"gobberEndSwordAttackSpeed": 2.4000000953674316,
 	"gobberEndMiningLevel": 5,
 	"gobberEndEnchantability": 30,
 	/* 
@@ -176,14 +191,20 @@
 	*/
 	"enableGobberAllPerks": true,
 	"enableGobberHealthPerks": true,
+	"gobberGobberArmorHealingPoints": 2,
 	"enableNetherAllPerks": true,
 	"enableNetherHealthPerks": true,
+	"gobberNetherArmorHealingPoints": 2,
 	"enableEndAllPerks": true,
 	"enableEndHealthPerks": true,
+	"gobberEndArmorHealingPoints": 3,
 	"unbreakableEndArmor": false,
 	"enablePhantomProtection": true,
+	"enableDragonArmorWithoutFlight": false,
+	"enableDragonArmorWithFlight": true,
 	"enableDragonAllPerks": true,
 	"enableDragonHealthPerks": true,
+	"gobberDragonArmorHealingPoints": 4,
 	"enableDragonProtectiveEffects": true,
 	"enableDragonNoFallDamage": true,
 	"unbreakableDragonArmor": false,
@@ -198,6 +219,10 @@
 	"gobberArmorEnchantability": 25,
 	"gobberToughness": 2.5,
 	"gobberKnockbackResistance": 0.10000000149011612,
+	"gobberHeadProtection": 6,
+	"gobberChestProtecction": 11,
+	"gobberLeggingsProtection": 9,
+	"gobberBootsProtection": 6,
 	/* 
 	   
 	   
@@ -209,6 +234,10 @@
 	"gobberNetherArmorEnchantability": 30,
 	"gobberNetherToughness": 2.75,
 	"gobberNetherKnockbackResistance": 0.10000000149011612,
+	"netherHeadProtection": 7,
+	"netherChestProtecction": 12,
+	"netherLeggingsProtection": 10,
+	"netherBootsProtection": 7,
 	/* 
 	   
 	   
@@ -220,6 +249,10 @@
 	"gobberEndArmorEnchantability": 30,
 	"gobberEndToughness": 3.0,
 	"gobberEndKnockbackResistance": 0.30000001192092896,
+	"endHeadProtection": 8,
+	"endChestProtecction": 13,
+	"endLeggingsProtection": 11,
+	"endBootsProtection": 8,
 	/* 
 	   
 	   
@@ -231,21 +264,24 @@
 	"gobberDragonArmorEnchantability": 30,
 	"gobberDragonToughness": 3.0,
 	"gobberDragonKnockbackResistance": 1.0,
-	"gobberDragonArmorHealingPoints": 4,
+	"dragonHeadProtection": 8,
+	"dragonChestProtecction": 13,
+	"dragonLeggingsProtection": 11,
+	"dragonBootsProtection": 8,
 	/* 
 	   
 	   ***********************
 	   Enchantments
 	   ***********************
 	*/
-	"enableSmithblade": true,
+	"enableSmithblade": false,
 	"smithbladeAttackAmount": 2,
 	"smithbladeMaxLevel": 5,
-	"enableRebuffing": true,
+	"enableRebuffing": false,
 	"rebuffingMaxLevel": 3,
 	"enableFasterObsidian": true,
 	"enableUntouchable": true,
-	"untouchableDamage": 8,
+	"untouchableDamage": 3,
 	"untouchableMaxLevel": 3,
 	"enableQuickUse": false,
 	"enableBlinders": false,
@@ -273,12 +309,14 @@
 	   Item provides a one-time random teleport
 	   and is consumed after successful teleport.
 	   Min/Max range from world spawn to search
+	   or from the player's current position
 	   Item does NOT have a standard recipe
 	   ***********************
 	*/
 	"enableSpecialItem": true,
 	"specialItemMin": 10000,
 	"specialItemMax": 20000,
+	"specialItemUsePlayerPos": false,
 	/* 
 	   
 	   ***********************
