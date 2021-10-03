@@ -1206,11 +1206,6 @@ hash = "7e2a107266ebb01ebff4390bf27cfef89a1b63f9633ae75398ac6726261d9374"
 metafile = true
 
 [[files]]
-file = "mods/client/enhanced-block-entities.toml"
-hash = "990ed4787be3d41bf2edce32e99972c1d677eba66af38b3b6b9d986b54bcb991"
-metafile = true
-
-[[files]]
 file = "mods/client/extended-armor-bars.toml"
 hash = "19db4e8d887099b82fec849de1f29bdc55019aa95b128f820d5e94854e94a0fb"
 metafile = true
