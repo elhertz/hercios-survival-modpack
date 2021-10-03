@@ -132,7 +132,7 @@
 	"enableHammers": true,
 	"enableExcavators": true,
 	"enablePaxels": true,
-	"enableNetherSwordPerks": true,
+	"enableNetherSwordPerks": false,
 	/* 
 	   
 	   
@@ -200,8 +200,8 @@
 	"gobberEndArmorHealingPoints": 3,
 	"unbreakableEndArmor": false,
 	"enablePhantomProtection": true,
-	"enableDragonArmorWithoutFlight": false,
-	"enableDragonArmorWithFlight": true,
+	"enableDragonArmorWithoutFlight": true,
+	"enableDragonArmorWithFlight": false,
 	"enableDragonAllPerks": true,
 	"enableDragonHealthPerks": true,
 	"gobberDragonArmorHealingPoints": 4,

@@ -45,10 +45,10 @@
 	"armorStats": {
 		"ARCHER": {
 			"protection": {
-				"FEET": 2,
-				"LEGS": 4,
-				"CHEST": 6,
-				"HEAD": 2
+				"FEET": 4,
+				"LEGS": 6,
+				"CHEST": 8,
+				"HEAD": 4
 			},
 			"toughness": 0.0,
 			"knockbackRes": 0.0,
@@ -59,10 +59,10 @@
 		},
 		"HUNTER": {
 			"protection": {
-				"FEET": 1,
-				"LEGS": 2,
-				"CHEST": 3,
-				"HEAD": 1
+				"FEET": 3,
+				"LEGS": 4,
+				"CHEST": 5,
+				"HEAD": 3
 			},
 			"toughness": 0.0,
 			"knockbackRes": 0.0,
@@ -73,10 +73,10 @@
 		},
 		"OCELOT": {
 			"protection": {
-				"FEET": 1,
-				"LEGS": 3,
-				"CHEST": 5,
-				"HEAD": 1
+				"FEET": 3,
+				"LEGS": 5,
+				"CHEST": 7,
+				"HEAD": 3
 			},
 			"toughness": 0.0,
 			"knockbackRes": 0.0,
@@ -87,10 +87,10 @@
 		},
 		"SHADOW_WALKER": {
 			"protection": {
-				"FEET": 2,
-				"LEGS": 4,
-				"CHEST": 6,
-				"HEAD": 2
+				"FEET": 4,
+				"LEGS": 6,
+				"CHEST": 8,
+				"HEAD": 4
 			},
 			"toughness": 0.0,
 			"knockbackRes": 0.0,
@@ -101,10 +101,10 @@
 		},
 		"SPELUNKER": {
 			"protection": {
-				"FEET": 2,
-				"LEGS": 4,
-				"CHEST": 6,
-				"HEAD": 2
+				"FEET": 4,
+				"LEGS": 6,
+				"CHEST": 8,
+				"HEAD": 4
 			},
 			"toughness": 0.0,
 			"knockbackRes": 0.0,
@@ -115,10 +115,10 @@
 		},
 		"CAVE_CRAWLER": {
 			"protection": {
-				"FEET": 2,
-				"LEGS": 5,
-				"CHEST": 6,
-				"HEAD": 2
+				"FEET": 4,
+				"LEGS": 6,
+				"CHEST": 8,
+				"HEAD": 4
 			},
 			"toughness": 0.0,
 			"knockbackRes": 0.0,
@@ -129,10 +129,10 @@
 		},
 		"WOLF": {
 			"protection": {
-				"FEET": 2,
-				"LEGS": 4,
-				"CHEST": 5,
-				"HEAD": 2
+				"FEET": 4,
+				"LEGS": 6,
+				"CHEST": 7,
+				"HEAD": 4
 			},
 			"toughness": 0.0,
 			"knockbackRes": 0.0,
@@ -143,10 +143,10 @@
 		},
 		"BLACK_WOLF": {
 			"protection": {
-				"FEET": 2,
-				"LEGS": 5,
-				"CHEST": 6,
-				"HEAD": 2
+				"FEET": 4,
+				"LEGS": 7,
+				"CHEST": 8,
+				"HEAD": 4
 			},
 			"toughness": 0.0,
 			"knockbackRes": 0.0,
@@ -157,10 +157,10 @@
 		},
 		"FOX": {
 			"protection": {
-				"FEET": 2,
-				"LEGS": 4,
-				"CHEST": 6,
-				"HEAD": 2
+				"FEET": 4,
+				"LEGS": 6,
+				"CHEST": 8,
+				"HEAD": 4
 			},
 			"toughness": 0.0,
 			"knockbackRes": 0.0,
@@ -171,10 +171,10 @@
 		},
 		"ARCTIC_FOX": {
 			"protection": {
-				"FEET": 2,
-				"LEGS": 4,
-				"CHEST": 6,
-				"HEAD": 2
+				"FEET": 4,
+				"LEGS": 6,
+				"CHEST": 8,
+				"HEAD": 4
 			},
 			"toughness": 0.0,
 			"knockbackRes": 0.0,
@@ -185,10 +185,10 @@
 		},
 		"CLIMBING_GEAR": {
 			"protection": {
-				"FEET": 1,
-				"LEGS": 5,
-				"CHEST": 6,
-				"HEAD": 1
+				"FEET": 3,
+				"LEGS": 7,
+				"CHEST": 8,
+				"HEAD": 3
 			},
 			"toughness": 0.0,
 			"knockbackRes": 0.0,
@@ -199,10 +199,10 @@
 		},
 		"RUGGED_CLIMBING_GEAR": {
 			"protection": {
-				"FEET": 2,
-				"LEGS": 5,
-				"CHEST": 6,
-				"HEAD": 2
+				"FEET": 4,
+				"LEGS": 7,
+				"CHEST": 8,
+				"HEAD": 4
 			},
 			"toughness": 0.0,
 			"knockbackRes": 0.0,
@@ -213,10 +213,10 @@
 		},
 		"SQUID": {
 			"protection": {
-				"FEET": 1,
-				"LEGS": 3,
-				"CHEST": 5,
-				"HEAD": 1
+				"FEET": 3,
+				"LEGS": 5,
+				"CHEST": 7,
+				"HEAD": 3
 			},
 			"toughness": 0.0,
 			"knockbackRes": 0.0,
@@ -227,10 +227,10 @@
 		},
 		"GLOW_SQUID": {
 			"protection": {
-				"FEET": 2,
-				"LEGS": 4,
-				"CHEST": 6,
-				"HEAD": 2
+				"FEET": 4,
+				"LEGS": 6,
+				"CHEST": 8,
+				"HEAD": 4
 			},
 			"toughness": 0.0,
 			"knockbackRes": 0.0,
@@ -241,10 +241,10 @@
 		},
 		"GOAT": {
 			"protection": {
-				"FEET": 2,
-				"LEGS": 5,
-				"CHEST": 6,
-				"HEAD": 2
+				"FEET": 4,
+				"LEGS": 7,
+				"CHEST": 8,
+				"HEAD": 4
 			},
 			"toughness": 0.0,
 			"knockbackRes": 0.20000000298023224,
@@ -255,10 +255,10 @@
 		},
 		"BATTLE": {
 			"protection": {
-				"FEET": 1,
-				"LEGS": 2,
-				"CHEST": 3,
-				"HEAD": 1
+				"FEET": 3,
+				"LEGS": 4,
+				"CHEST": 5,
+				"HEAD": 3
 			},
 			"toughness": 0.0,
 			"knockbackRes": 0.0,
@@ -269,10 +269,10 @@
 		},
 		"SPLENDID": {
 			"protection": {
-				"FEET": 2,
-				"LEGS": 2,
-				"CHEST": 3,
-				"HEAD": 2
+				"FEET": 4,
+				"LEGS": 4,
+				"CHEST": 5,
+				"HEAD": 4
 			},
 			"toughness": 0.0,
 			"knockbackRes": 0.0,
@@ -283,10 +283,10 @@
 		},
 		"EVOCATION": {
 			"protection": {
-				"FEET": 1,
-				"LEGS": 3,
-				"CHEST": 3,
-				"HEAD": 1
+				"FEET": 3,
+				"LEGS": 5,
+				"CHEST": 5,
+				"HEAD": 3
 			},
 			"toughness": 0.0,
 			"knockbackRes": 0.0,
@@ -297,10 +297,10 @@
 		},
 		"EMBER": {
 			"protection": {
-				"FEET": 1,
-				"LEGS": 3,
-				"CHEST": 3,
-				"HEAD": 1
+				"FEET": 3,
+				"LEGS": 5,
+				"CHEST": 5,
+				"HEAD": 3
 			},
 			"toughness": 0.0,
 			"knockbackRes": 0.0,
@@ -311,10 +311,10 @@
 		},
 		"VERDANT": {
 			"protection": {
-				"FEET": 1,
-				"LEGS": 3,
-				"CHEST": 3,
-				"HEAD": 1
+				"FEET": 3,
+				"LEGS": 5,
+				"CHEST": 5,
+				"HEAD": 3
 			},
 			"toughness": 0.0,
 			"knockbackRes": 0.0,
@@ -325,10 +325,10 @@
 		},
 		"THIEF": {
 			"protection": {
-				"FEET": 2,
-				"LEGS": 4,
-				"CHEST": 5,
-				"HEAD": 2
+				"FEET": 4,
+				"LEGS": 6,
+				"CHEST": 7,
+				"HEAD": 4
 			},
 			"toughness": 0.0,
 			"knockbackRes": 0.0,
@@ -339,10 +339,10 @@
 		},
 		"SPIDER": {
 			"protection": {
-				"FEET": 2,
-				"LEGS": 4,
-				"CHEST": 5,
-				"HEAD": 2
+				"FEET": 4,
+				"LEGS": 6,
+				"CHEST": 7,
+				"HEAD": 4
 			},
 			"toughness": 0.0,
 			"knockbackRes": 0.0,
@@ -353,10 +353,10 @@
 		},
 		"SOUL_ROBE": {
 			"protection": {
-				"FEET": 1,
-				"LEGS": 5,
-				"CHEST": 6,
-				"HEAD": 1
+				"FEET": 3,
+				"LEGS": 7,
+				"CHEST": 8,
+				"HEAD": 3
 			},
 			"toughness": 2.0,
 			"knockbackRes": 0.0,
@@ -367,10 +367,10 @@
 		},
 		"SOULDANCER": {
 			"protection": {
-				"FEET": 2,
-				"LEGS": 5,
-				"CHEST": 6,
-				"HEAD": 2
+				"FEET": 4,
+				"LEGS": 7,
+				"CHEST": 8,
+				"HEAD": 4
 			},
 			"toughness": 2.0,
 			"knockbackRes": 0.0,
@@ -381,10 +381,10 @@
 		},
 		"SPROUT": {
 			"protection": {
-				"FEET": 2,
-				"LEGS": 2,
-				"CHEST": 3,
-				"HEAD": 2
+				"FEET": 4,
+				"LEGS": 4,
+				"CHEST": 6,
+				"HEAD": 4
 			},
 			"toughness": 0.0,
 			"knockbackRes": 0.0,
@@ -395,10 +395,10 @@
 		},
 		"LIVING_VINES": {
 			"protection": {
-				"FEET": 2,
-				"LEGS": 2,
-				"CHEST": 3,
-				"HEAD": 2
+				"FEET": 4,
+				"LEGS": 4,
+				"CHEST": 5,
+				"HEAD": 4
 			},
 			"toughness": 0.0,
 			"knockbackRes": 0.0,
@@ -409,10 +409,10 @@
 		},
 		"PIGLIN": {
 			"protection": {
-				"FEET": 2,
-				"LEGS": 2,
-				"CHEST": 4,
-				"HEAD": 2
+				"FEET": 4,
+				"LEGS": 4,
+				"CHEST": 6,
+				"HEAD": 4
 			},
 			"toughness": 0.0,
 			"knockbackRes": 0.0,
@@ -423,10 +423,10 @@
 		},
 		"ENTERTAINER": {
 			"protection": {
-				"FEET": 2,
-				"LEGS": 3,
-				"CHEST": 4,
-				"HEAD": 2
+				"FEET": 4,
+				"LEGS": 5,
+				"CHEST": 6,
+				"HEAD": 4
 			},
 			"toughness": 0.0,
 			"knockbackRes": 0.0,
@@ -437,10 +437,10 @@
 		},
 		"TROUBADOUR": {
 			"protection": {
-				"FEET": 3,
-				"LEGS": 4,
-				"CHEST": 5,
-				"HEAD": 3
+				"FEET": 5,
+				"LEGS": 6,
+				"CHEST": 7,
+				"HEAD": 5
 			},
 			"toughness": 0.0,
 			"knockbackRes": 0.0,
@@ -451,10 +451,10 @@
 		},
 		"TELEPORTATION": {
 			"protection": {
-				"FEET": 2,
-				"LEGS": 3,
-				"CHEST": 4,
-				"HEAD": 2
+				"FEET": 4,
+				"LEGS": 5,
+				"CHEST": 6,
+				"HEAD": 4
 			},
 			"toughness": 0.0,
 			"knockbackRes": 0.0,
@@ -465,10 +465,10 @@
 		},
 		"UNSTABLE": {
 			"protection": {
-				"FEET": 3,
-				"LEGS": 4,
-				"CHEST": 5,
-				"HEAD": 3
+				"FEET": 5,
+				"LEGS": 6,
+				"CHEST": 7,
+				"HEAD": 6
 			},
 			"toughness": 0.0,
 			"knockbackRes": 0.0,
@@ -479,10 +479,10 @@
 		},
 		"PHANTOM": {
 			"protection": {
-				"FEET": 2,
-				"LEGS": 4,
-				"CHEST": 6,
-				"HEAD": 2
+				"FEET": 4,
+				"LEGS": 6,
+				"CHEST": 8,
+				"HEAD": 4
 			},
 			"toughness": 0.0,
 			"knockbackRes": 0.0,
@@ -493,10 +493,10 @@
 		},
 		"FROST_BITE": {
 			"protection": {
-				"FEET": 3,
-				"LEGS": 5,
-				"CHEST": 7,
-				"HEAD": 3
+				"FEET": 5,
+				"LEGS": 7,
+				"CHEST": 9,
+				"HEAD": 5
 			},
 			"toughness": 0.0,
 			"knockbackRes": 0.0,
@@ -507,10 +507,10 @@
 		},
 		"GRIM": {
 			"protection": {
-				"FEET": 2,
-				"LEGS": 4,
-				"CHEST": 6,
-				"HEAD": 2
+				"FEET": 4,
+				"LEGS": 6,
+				"CHEST": 8,
+				"HEAD": 4
 			},
 			"toughness": 0.0,
 			"knockbackRes": 0.0,
@@ -521,10 +521,10 @@
 		},
 		"WITHER": {
 			"protection": {
-				"FEET": 3,
-				"LEGS": 5,
-				"CHEST": 7,
-				"HEAD": 3
+				"FEET": 5,
+				"LEGS": 7,
+				"CHEST": 9,
+				"HEAD": 5
 			},
 			"toughness": 0.0,
 			"knockbackRes": 0.0,
@@ -535,10 +535,10 @@
 		},
 		"TURTLE": {
 			"protection": {
-				"FEET": 2,
-				"LEGS": 4,
-				"CHEST": 6,
-				"HEAD": 2
+				"FEET": 4,
+				"LEGS": 6,
+				"CHEST": 8,
+				"HEAD": 4
 			},
 			"toughness": 0.0,
 			"knockbackRes": 0.0,
@@ -549,10 +549,10 @@
 		},
 		"NIMBLE_TURTLE": {
 			"protection": {
-				"FEET": 3,
-				"LEGS": 5,
-				"CHEST": 7,
-				"HEAD": 3
+				"FEET": 5,
+				"LEGS": 7,
+				"CHEST": 9,
+				"HEAD": 5
 			},
 			"toughness": 0.0,
 			"knockbackRes": 0.0,
@@ -563,10 +563,10 @@
 		},
 		"SCALE_MAIL": {
 			"protection": {
-				"FEET": 2,
-				"LEGS": 4,
-				"CHEST": 5,
-				"HEAD": 2
+				"FEET": 4,
+				"LEGS": 6,
+				"CHEST": 7,
+				"HEAD": 4
 			},
 			"toughness": 0.0,
 			"knockbackRes": 0.0,
@@ -577,10 +577,10 @@
 		},
 		"HIGHLAND": {
 			"protection": {
-				"FEET": 2,
-				"LEGS": 5,
-				"CHEST": 6,
-				"HEAD": 2
+				"FEET": 4,
+				"LEGS": 7,
+				"CHEST": 8,
+				"HEAD": 4
 			},
 			"toughness": 0.0,
 			"knockbackRes": 0.0,
@@ -591,10 +591,10 @@
 		},
 		"BEEHIVE": {
 			"protection": {
-				"FEET": 2,
-				"LEGS": 5,
-				"CHEST": 6,
-				"HEAD": 2
+				"FEET": 4,
+				"LEGS": 7,
+				"CHEST": 8,
+				"HEAD": 4
 			},
 			"toughness": 0.0,
 			"knockbackRes": 0.0,
@@ -605,10 +605,10 @@
 		},
 		"BEENEST": {
 			"protection": {
-				"FEET": 2,
-				"LEGS": 4,
-				"CHEST": 5,
-				"HEAD": 2
+				"FEET": 4,
+				"LEGS": 6,
+				"CHEST": 7,
+				"HEAD": 4
 			},
 			"toughness": 0.0,
 			"knockbackRes": 0.0,
@@ -619,10 +619,10 @@
 		},
 		"GHOSTLY": {
 			"protection": {
-				"FEET": 2,
-				"LEGS": 4,
-				"CHEST": 5,
-				"HEAD": 2
+				"FEET": 4,
+				"LEGS": 6,
+				"CHEST": 7,
+				"HEAD": 4
 			},
 			"toughness": 0.0,
 			"knockbackRes": 0.0,
@@ -633,10 +633,10 @@
 		},
 		"GHOST_KINDLER": {
 			"protection": {
-				"FEET": 2,
-				"LEGS": 5,
-				"CHEST": 6,
-				"HEAD": 2
+				"FEET": 4,
+				"LEGS": 7,
+				"CHEST": 8,
+				"HEAD": 4
 			},
 			"toughness": 0.0,
 			"knockbackRes": 0.0,
@@ -647,10 +647,10 @@
 		},
 		"GOLDEN_PIGLIN": {
 			"protection": {
-				"FEET": 2,
-				"LEGS": 5,
-				"CHEST": 6,
-				"HEAD": 2
+				"FEET": 4,
+				"LEGS": 7,
+				"CHEST": 8,
+				"HEAD": 4
 			},
 			"toughness": 0.0,
 			"knockbackRes": 0.0,
@@ -661,10 +661,10 @@
 		},
 		"REINFORCED_MAIL": {
 			"protection": {
-				"FEET": 3,
-				"LEGS": 4,
-				"CHEST": 6,
-				"HEAD": 3
+				"FEET": 5,
+				"LEGS": 6,
+				"CHEST": 8,
+				"HEAD": 5
 			},
 			"toughness": 1.0,
 			"knockbackRes": 0.0,
@@ -675,10 +675,10 @@
 		},
 		"STALWART_MAIL": {
 			"protection": {
-				"FEET": 3,
-				"LEGS": 5,
-				"CHEST": 7,
-				"HEAD": 3
+				"FEET": 5,
+				"LEGS": 7,
+				"CHEST": 9,
+				"HEAD": 5
 			},
 			"toughness": 1.0,
 			"knockbackRes": 0.0,
@@ -689,10 +689,10 @@
 		},
 		"GUARDS": {
 			"protection": {
-				"FEET": 3,
-				"LEGS": 5,
-				"CHEST": 7,
-				"HEAD": 3
+				"FEET": 5,
+				"LEGS": 7,
+				"CHEST": 9,
+				"HEAD": 5
 			},
 			"toughness": 0.0,
 			"knockbackRes": 0.0,
@@ -703,10 +703,10 @@
 		},
 		"CURIOUS": {
 			"protection": {
-				"FEET": 3,
-				"LEGS": 5,
-				"CHEST": 7,
-				"HEAD": 3
+				"FEET": 5,
+				"LEGS": 7,
+				"CHEST": 9,
+				"HEAD": 5
 			},
 			"toughness": 2.0,
 			"knockbackRes": 0.0,
@@ -717,10 +717,10 @@
 		},
 		"SNOW": {
 			"protection": {
-				"FEET": 3,
-				"LEGS": 5,
-				"CHEST": 7,
-				"HEAD": 3
+				"FEET": 5,
+				"LEGS": 7,
+				"CHEST": 9,
+				"HEAD": 5
 			},
 			"toughness": 2.0,
 			"knockbackRes": 0.0,
@@ -731,10 +731,10 @@
 		},
 		"FROST": {
 			"protection": {
-				"FEET": 3,
-				"LEGS": 5,
-				"CHEST": 7,
-				"HEAD": 3
+				"FEET": 5,
+				"LEGS": 7,
+				"CHEST": 9,
+				"HEAD": 5
 			},
 			"toughness": 2.0,
 			"knockbackRes": 0.0,
@@ -745,10 +745,10 @@
 		},
 		"MERCENARY": {
 			"protection": {
-				"FEET": 3,
-				"LEGS": 4,
-				"CHEST": 5,
-				"HEAD": 3
+				"FEET": 5,
+				"LEGS": 6,
+				"CHEST": 7,
+				"HEAD": 5
 			},
 			"toughness": 1.5,
 			"knockbackRes": 0.0,
@@ -759,10 +759,10 @@
 		},
 		"RENEGADE": {
 			"protection": {
-				"FEET": 3,
-				"LEGS": 5,
-				"CHEST": 6,
-				"HEAD": 3
+				"FEET": 5,
+				"LEGS": 7,
+				"CHEST": 8,
+				"HEAD": 5
 			},
 			"toughness": 1.75,
 			"knockbackRes": 0.0,
@@ -773,10 +773,10 @@
 		},
 		"HUNGRY_HORROR": {
 			"protection": {
-				"FEET": 3,
-				"LEGS": 5,
-				"CHEST": 7,
-				"HEAD": 3
+				"FEET": 5,
+				"LEGS": 7,
+				"CHEST": 9,
+				"HEAD": 5
 			},
 			"toughness": 2.0,
 			"knockbackRes": 0.0,
@@ -787,10 +787,10 @@
 		},
 		"EMERALD": {
 			"protection": {
-				"FEET": 3,
-				"LEGS": 5,
-				"CHEST": 7,
-				"HEAD": 3
+				"FEET": 5,
+				"LEGS": 7,
+				"CHEST": 9,
+				"HEAD": 5
 			},
 			"toughness": 2.0,
 			"knockbackRes": 0.0,
@@ -801,10 +801,10 @@
 		},
 		"OPULENT": {
 			"protection": {
-				"FEET": 4,
-				"LEGS": 5,
-				"CHEST": 7,
-				"HEAD": 4
+				"FEET": 6,
+				"LEGS": 7,
+				"CHEST": 9,
+				"HEAD": 6
 			},
 			"toughness": 2.0,
 			"knockbackRes": 0.0,
@@ -815,10 +815,10 @@
 		},
 		"DARK": {
 			"protection": {
-				"FEET": 3,
-				"LEGS": 6,
-				"CHEST": 8,
-				"HEAD": 3
+				"FEET": 5,
+				"LEGS": 8,
+				"CHEST": 10,
+				"HEAD": 5
 			},
 			"toughness": 0.0,
 			"knockbackRes": 0.0,
@@ -829,10 +829,10 @@
 		},
 		"TITAN": {
 			"protection": {
-				"FEET": 3,
-				"LEGS": 6,
-				"CHEST": 8,
-				"HEAD": 3
+				"FEET": 5,
+				"LEGS": 8,
+				"CHEST": 10,
+				"HEAD": 5
 			},
 			"toughness": 0.0,
 			"knockbackRes": 0.0,
@@ -843,10 +843,10 @@
 		},
 		"ROYAL": {
 			"protection": {
-				"FEET": 3,
-				"LEGS": 6,
-				"CHEST": 8,
-				"HEAD": 3
+				"FEET": 5,
+				"LEGS": 8,
+				"CHEST": 10,
+				"HEAD": 5
 			},
 			"toughness": 0.0,
 			"knockbackRes": 0.0,
@@ -857,10 +857,10 @@
 		},
 		"PLATE": {
 			"protection": {
-				"FEET": 3,
-				"LEGS": 6,
-				"CHEST": 8,
-				"HEAD": 3
+				"FEET": 5,
+				"LEGS": 8,
+				"CHEST": 10,
+				"HEAD": 5
 			},
 			"toughness": 0.0,
 			"knockbackRes": 0.0,
@@ -871,10 +871,10 @@
 		},
 		"FULL_METAL": {
 			"protection": {
-				"FEET": 4,
-				"LEGS": 7,
-				"CHEST": 9,
-				"HEAD": 4
+				"FEET": 6,
+				"LEGS": 9,
+				"CHEST": 11,
+				"HEAD": 6
 			},
 			"toughness": 0.0,
 			"knockbackRes": 0.0,
@@ -885,10 +885,10 @@
 		},
 		"MYSTERY": {
 			"protection": {
-				"FEET": 3,
-				"LEGS": 6,
-				"CHEST": 8,
-				"HEAD": 3
+				"FEET": 5,
+				"LEGS": 8,
+				"CHEST": 10,
+				"HEAD": 5
 			},
 			"toughness": 0.0,
 			"knockbackRes": 0.0,
@@ -899,10 +899,10 @@
 		},
 		"BLUE_MYSTERY": {
 			"protection": {
-				"FEET": 3,
-				"LEGS": 6,
-				"CHEST": 8,
-				"HEAD": 3
+				"FEET": 5,
+				"LEGS": 8,
+				"CHEST": 10,
+				"HEAD": 5
 			},
 			"toughness": 0.0,
 			"knockbackRes": 0.0,
@@ -913,10 +913,10 @@
 		},
 		"GREEN_MYSTERY": {
 			"protection": {
-				"FEET": 3,
-				"LEGS": 6,
-				"CHEST": 8,
-				"HEAD": 3
+				"FEET": 5,
+				"LEGS": 8,
+				"CHEST": 10,
+				"HEAD": 5
 			},
 			"toughness": 0.0,
 			"knockbackRes": 0.0,
@@ -927,10 +927,10 @@
 		},
 		"PURPLE_MYSTERY": {
 			"protection": {
-				"FEET": 3,
-				"LEGS": 6,
-				"CHEST": 8,
-				"HEAD": 3
+				"FEET": 5,
+				"LEGS": 8,
+				"CHEST": 10,
+				"HEAD": 5
 			},
 			"toughness": 0.0,
 			"knockbackRes": 0.0,
@@ -941,10 +941,10 @@
 		},
 		"RED_MYSTERY": {
 			"protection": {
-				"FEET": 3,
-				"LEGS": 6,
-				"CHEST": 8,
-				"HEAD": 3
+				"FEET": 5,
+				"LEGS": 8,
+				"CHEST": 10,
+				"HEAD": 5
 			},
 			"toughness": 0.0,
 			"knockbackRes": 0.0,
@@ -955,10 +955,10 @@
 		},
 		"CHAMPION": {
 			"protection": {
-				"FEET": 3,
-				"LEGS": 6,
-				"CHEST": 8,
-				"HEAD": 3
+				"FEET": 5,
+				"LEGS": 8,
+				"CHEST": 10,
+				"HEAD": 5
 			},
 			"toughness": 0.0,
 			"knockbackRes": 0.0,
@@ -969,10 +969,10 @@
 		},
 		"HERO": {
 			"protection": {
-				"FEET": 4,
-				"LEGS": 7,
-				"CHEST": 9,
-				"HEAD": 4
+				"FEET": 6,
+				"LEGS": 9,
+				"CHEST": 11,
+				"HEAD": 6
 			},
 			"toughness": 2.0,
 			"knockbackRes": 0.0,
@@ -983,10 +983,10 @@
 		},
 		"GILDED": {
 			"protection": {
-				"FEET": 3,
-				"LEGS": 6,
-				"CHEST": 8,
-				"HEAD": 3
+				"FEET": 5,
+				"LEGS": 8,
+				"CHEST": 10,
+				"HEAD": 5
 			},
 			"toughness": 2.0,
 			"knockbackRes": 0.0,
@@ -997,10 +997,10 @@
 		},
 		"SHULKER": {
 			"protection": {
-				"FEET": 3,
-				"LEGS": 5,
-				"CHEST": 7,
-				"HEAD": 3
+				"FEET": 5,
+				"LEGS": 7,
+				"CHEST": 9,
+				"HEAD": 5
 			},
 			"toughness": 1.0,
 			"knockbackRes": 0.0,
@@ -1011,10 +1011,10 @@
 		},
 		"STURDY_SHULKER": {
 			"protection": {
-				"FEET": 3,
-				"LEGS": 6,
-				"CHEST": 8,
-				"HEAD": 3
+				"FEET": 5,
+				"LEGS": 8,
+				"CHEST": 10,
+				"HEAD": 5
 			},
 			"toughness": 3.0,
 			"knockbackRes": 0.20000000298023224,

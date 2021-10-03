@@ -198,7 +198,7 @@ hash = "be1d4dc65f3ecb2df1babb249ad8721c90e12bce3ba04d26dcc0695fe931296c"
 
 [[files]]
 file = "config/gobber2/general.json5"
-hash = "3bdbcf74cd8d0bf81d919f0a46e946858ea0d12c208e2c8c19968779cc6b7067"
+hash = "154b309d7c7f38bdc31ac239d1cf720a9e0866aea63cbaba162f87a9a87ea901"
 
 [[files]]
 file = "config/gobber2/ores.json5"
@@ -218,7 +218,7 @@ hash = "824c8145d59b30d47850119cb7038a370526e40db3fff70b00f258b005b23cdf"
 
 [[files]]
 file = "config/mcda.json5"
-hash = "c97cb83683c0c93093b46149006ca2d7a4eb539c9f743200319d003659291836"
+hash = "27ea874499d4bf4a46a74c33284db456294d16119a62432a893e70bdce01a592"
 
 [[files]]
 file = "config/moenchantconfig.json"
