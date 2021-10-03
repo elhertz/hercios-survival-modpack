@@ -1401,11 +1401,6 @@ hash = "3228181ce6094557d93454e449ed778cfb8b230d773d4b7bb1101b83d4a48995"
 metafile = true
 
 [[files]]
-file = "mods/server/carpet-tctc-addition.toml"
-hash = "96348f016b44d7ebdf22b6ac6e76ea8ae7c8afc223328a1cf309604f9bf95b5d"
-metafile = true
-
-[[files]]
 file = "mods/server/carpet.toml"
 hash = "95c52efc8c0fc00b5ad22ee48e648dcf4d29e319129b1b5a8b0f1897d239fbe8"
 metafile = true
