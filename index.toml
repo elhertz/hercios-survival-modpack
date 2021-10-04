@@ -951,7 +951,7 @@ metafile = true
 
 [[files]]
 file = "mods/both/ninjaphenixs-container-library.toml"
-hash = "47d2087eb7b1f34ea9d94cb8f7cd7ede554a4395fe3bfd325bced49a7d6e2146"
+hash = "72e654cd0965796105dbb0a8c25cb0e84b08aaad113909473662d51cbd04cd64"
 metafile = true
 
 [[files]]
@@ -991,7 +991,7 @@ metafile = true
 
 [[files]]
 file = "mods/both/red-bits.toml"
-hash = "10f2668296016249be06251a0a590c9674edd2530b7d6223e7084a811a5d7af3"
+hash = "48a3f085b13c0189881ed3978423c593201a59e63889d80974a99abb5b32f445"
 metafile = true
 
 [[files]]
