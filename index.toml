@@ -266,7 +266,7 @@ hash = "3b78a0eda3d5e1a40fdc71b49d4e6478a5d73205c7bac3af72092988fc5001ac"
 
 [[files]]
 file = "config/spellbound.json"
-hash = "1210b69b636628ca39a7a8d87d892269b040256b981c388cd7f74967bb250824"
+hash = "ad345306246d52c03f30c8059e7c152e3334fbbd900e68395905d5b4f549e663"
 
 [[files]]
 file = "config/vanillatweaks.toml"
