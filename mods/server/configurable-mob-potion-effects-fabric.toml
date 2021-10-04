@@ -1,0 +1,14 @@
+name = "Configurable Mob Potion Effects (Fabric)"
+filename = "../configurablemobpotioneffects-fabric_1.17.x-1.4.jar"
+side = "server"
+
+[download]
+url = "https://edge.forgecdn.net/files/3472/274/configurablemobpotioneffects-fabric_1.17.x-1.4.jar"
+hash-format = "murmur2"
+hash = "184329155"
+
+[update]
+[update.curseforge]
+file-id = 3472274
+project-id = 531277
+release-channel = "beta"

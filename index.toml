@@ -1085,6 +1085,11 @@ hash = "c6a65474329a9c2aadd3bdd68d33a4faf4c6fad0188c2726a4edaf217edca810"
 metafile = true
 
 [[files]]
+file = "mods/both/vanilla-degus.toml"
+hash = "f56cdb4c96baa8e3e9570b6fb596ce9e173a3f064328d3d4196181e0c25835c6"
+metafile = true
+
+[[files]]
 file = "mods/both/vanillatweaks-fabric.toml"
 hash = "98d6fdebe4ef7e2fdf12cdf147e4a2a8ea2466662fd69ce14e4ec96e79dbfc23"
 metafile = true
@@ -1425,6 +1430,11 @@ hash = "bb20c26ec54c64123219d6aab830946c3576a92b25c62621f542921696d56708"
 metafile = true
 
 [[files]]
+file = "mods/server/clumps.toml"
+hash = "f8d66cff4cfbd6c1ea9a79fc68f98f37d3654ffd4500110534f2b0bb3f6e2764"
+metafile = true
+
+[[files]]
 file = "mods/server/collective-fabric.toml"
 hash = "aa9928876994a885961af3c113886addfac27e43d98aab60c36669cc2ad68286"
 metafile = true
@@ -1432,6 +1442,11 @@ metafile = true
 [[files]]
 file = "mods/server/compostable-rotten-flesh.toml"
 hash = "e36624dfa5a060900ed665cef35a8eb04cd1de7a03d65865adbe65d164012647"
+metafile = true
+
+[[files]]
+file = "mods/server/configurable-mob-potion-effects-fabric.toml"
+hash = "fe215d69d9cd313d216f34529ed928c2fd1eff92734d4c7403e2ffe66e7f0da3"
 metafile = true
 
 [[files]]
