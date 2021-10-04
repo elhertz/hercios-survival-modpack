@@ -265,6 +265,10 @@ file = "config/skinlayers.json"
 hash = "3b78a0eda3d5e1a40fdc71b49d4e6478a5d73205c7bac3af72092988fc5001ac"
 
 [[files]]
+file = "config/spellbound.json"
+hash = "1210b69b636628ca39a7a8d87d892269b040256b981c388cd7f74967bb250824"
+
+[[files]]
 file = "config/vanillatweaks.toml"
 hash = "c35e2309882320aee17606c8eaad4ad0e080ce93d3f037bf10218138feaccb9b"
 
@@ -546,7 +550,7 @@ hash = "71a47d01a61ae94837e7da1ee2da086b88f038b1c0e958cdc0b71ec471c20da2"
 
 [[files]]
 file = "kubejs/client_scripts/rei_unification.js"
-hash = "b314e3a17a75e86e97c8f15b7ff37280f65ac025fe308093c00773356746584d"
+hash = "0791480e38f865b3f96b4cb285cf1752ef7cfc5f96fe52a39a984b84c38ff3b4"
 
 [[files]]
 file = "kubejs/config/client.properties"
@@ -607,7 +611,7 @@ metafile = true
 
 [[files]]
 file = "mods/both/art-of-alchemy-continued.toml"
-hash = "99af04f74aa0ee6e9743dfdeb11005d26660502e98e9cecf8d7fc4c8a1a0cdbe"
+hash = "58b45219c0d464aa70336c2f97414632a88358891cb7ce17e2946d0db58953fa"
 metafile = true
 
 [[files]]
@@ -767,7 +771,7 @@ metafile = true
 
 [[files]]
 file = "mods/both/fabric-waystones.toml"
-hash = "bb66d31b105afd3b0183d52e9b5aa0babb9e3a5d325ec29f07d733bc267d55d4"
+hash = "ab275f6725e074c4f88de3399fbe6436f38b204e9a1b9c511b6583628bb90985"
 metafile = true
 
 [[files]]
@@ -782,7 +786,7 @@ metafile = true
 
 [[files]]
 file = "mods/both/female-gender-fabric.toml"
-hash = "55d8a5ce32363f97529be10faa05efb9c037c1673b424b0d394346d5420327e8"
+hash = "3e52157e8b55e0ca4b591158a2932543b8cdfad7d462b3d2886eeb559e70b694"
 metafile = true
 
 [[files]]
@@ -937,7 +941,7 @@ metafile = true
 
 [[files]]
 file = "mods/both/more-villagers-fabric.toml"
-hash = "7a528656597ea67ee13cf7b9a5fb7c17f2f4e85101e2bf12e4a23673574409a2"
+hash = "b6f33980c3ec95e9fb099e9259d157e7bef7578642f546a65ba522a272ffc4cf"
 metafile = true
 
 [[files]]
@@ -1037,7 +1041,7 @@ metafile = true
 
 [[files]]
 file = "mods/both/spellbound-enchantments.toml"
-hash = "38e90db5fcb0e1ecebf5f8813fcedcfd77e88a32d6a2d04879e7a5a297b0591f"
+hash = "ae96fbeda69039cce47857423e98fe343087c24da7385df7bb63874080c94acf"
 metafile = true
 
 [[files]]
@@ -1107,7 +1111,7 @@ metafile = true
 
 [[files]]
 file = "mods/both/wthit.toml"
-hash = "2e74948182bd85e4513ea7dffcb993ad08fdac213e40ee320f862906032f52b4"
+hash = "bf76a20edbde1cdb7aa6b3bb45e8c0382419368029768a8497c83eb4619daa88"
 metafile = true
 
 [[files]]
@@ -1252,7 +1256,7 @@ metafile = true
 
 [[files]]
 file = "mods/client/modmenu.toml"
-hash = "0412f57975dd77db572ec57b47ce8bedd42dca17d5adf409b7fd7cd8ecdd61c0"
+hash = "a14424f0578fb2686a66ca21f9f593b38653e60e4da860cf0b98a17f99c8f33b"
 metafile = true
 
 [[files]]
@@ -1312,7 +1316,7 @@ metafile = true
 
 [[files]]
 file = "mods/client/sodium-extra.toml"
-hash = "920ebbfbdf8cb6582726b1f86ee66a3adee963a5b6dde92d1a33abce69e8aa47"
+hash = "7439b8b4e07bc316f5cdd7c94bcf6ee0bacbdde54b50f05e5126346224f766bd"
 metafile = true
 
 [[files]]
@@ -1337,7 +1341,7 @@ metafile = true
 
 [[files]]
 file = "mods/client/xaeros-minimap-fair-play-edition.toml"
-hash = "5af4a14765a160bf3b4f4b091ad5cdbecd70a4a74bd906ba772ba332a669cea6"
+hash = "1cd8aca172b09335c57e37e1df86544ada5bbe49de6723db4b8aad753dd9d72e"
 metafile = true
 
 [[files]]
@@ -1382,7 +1386,12 @@ metafile = true
 
 [[files]]
 file = "mods/server/banhammer.toml"
-hash = "3cd8610cff3186bf98b96077e683166cab3459ee239865db35dc6162c98d49a3"
+hash = "97a05d08c69df53a36bcb018db077c60d31fb6378145f4680a36eda64f9580f4"
+metafile = true
+
+[[files]]
+file = "mods/server/better-dispensers.toml"
+hash = "d211165e15afc8b1782b742b34ce7662bf442092e005c326f8ae84a7475d7daa"
 metafile = true
 
 [[files]]
@@ -1441,6 +1450,11 @@ hash = "487538c88da5f60ddf320cc3293071ccc7b925b229ddefcf47aaab2b9414df5b"
 metafile = true
 
 [[files]]
+file = "mods/server/dynmapforge.toml"
+hash = "a6e7585e2137e7a0cafdb8ca175be59773faa736bd23fdaf78a8f544b0b11a13"
+metafile = true
+
+[[files]]
 file = "mods/server/easyauth.toml"
 hash = "4d77a7102573395bd069a29deb76cd4cff87dbe714fc666e8ba2ccdcd1252564"
 metafile = true
@@ -1458,11 +1472,6 @@ metafile = true
 [[files]]
 file = "mods/server/expanded-trident-enchanting.toml"
 hash = "2adafb86731d299ce005e5cb61ffa352adba017c004f567353cfe51b93d359b1"
-metafile = true
-
-[[files]]
-file = "mods/server/fabric-dispenser-cauldron.toml"
-hash = "c7c1a30988e5493f8bb5a5029c6457669b8364688011cd1c6ac195461c93f31b"
 metafile = true
 
 [[files]]
@@ -1553,11 +1562,6 @@ metafile = true
 [[files]]
 file = "mods/server/paxi-fabric.toml"
 hash = "64fefe4d564c901cd17415e4337ab4984fa4a806f11e769c538fb522b1a228c1"
-metafile = true
-
-[[files]]
-file = "mods/server/plan-player-analytics.toml"
-hash = "83cfe7716f15c0417ef979103cee42be0904b4d6b816494caf83c296c6de06ac"
 metafile = true
 
 [[files]]
@@ -1667,7 +1671,7 @@ metafile = true
 
 [[files]]
 file = "mods/server/yungs-api-fabric.toml"
-hash = "f828e77bb9dbd3a8b838f06a1bfd5f3ce628873f70f05fca0952c9760cc2a56d"
+hash = "bc88b1458d9214fb34b33307162c533f68a82ab4bcc07fb4e0bda9f82117d4af"
 metafile = true
 
 [[files]]
@@ -1682,7 +1686,7 @@ metafile = true
 
 [[files]]
 file = "mods/server/yungs-better-strongholds-fabric.toml"
-hash = "de503060a3a8c9293487dae3da7c6207763b7e984b1edcd36dd6efe56ce42266"
+hash = "464aef08e9c71b287abf828565d43fd1a12304543f68b4f5b426781ad2807563"
 metafile = true
 
 [[files]]

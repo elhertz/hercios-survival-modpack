@@ -1,14 +1,14 @@
 name = "Wildfire's Female Gender Mod (Fabric)"
-filename = "../%5BFabric%5D Wildfire Female Gender Mod-2.6.1.jar"
+filename = "../%5BFabric%5D Wildfire Female Gender Mod-2.8.jar"
 side = "both"
 
 [download]
-url = "https://edge.forgecdn.net/files/3345/985/%5BFabric%5D Wildfire Female Gender Mod-2.6.1.jar"
+url = "https://edge.forgecdn.net/files/3479/582/%5BFabric%5D Wildfire Female Gender Mod-2.8.jar"
 hash-format = "murmur2"
-hash = "1733650390"
+hash = "2533891675"
 
 [update]
 [update.curseforge]
-file-id = 3345985
+file-id = 3479582
 project-id = 456319
 release-channel = "beta"

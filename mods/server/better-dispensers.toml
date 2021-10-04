@@ -1,0 +1,14 @@
+name = "Better Dispensers"
+filename = "../better-dispensers-1.17.1_v2.jar"
+side = "server"
+
+[download]
+url = "https://edge.forgecdn.net/files/3478/229/better-dispensers-1.17.1_v2.jar"
+hash-format = "murmur2"
+hash = "524824442"
+
+[update]
+[update.curseforge]
+file-id = 3478229
+project-id = 409496
+release-channel = "beta"

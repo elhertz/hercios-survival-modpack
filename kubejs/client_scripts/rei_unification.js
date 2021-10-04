@@ -130,6 +130,7 @@ onEvent('rei.hide.items', event => {
 		event.hide(Item.of('minecraft:enchanted_book').enchant('gobber2:smithblade', lvl));
 		event.hide(Item.of('minecraft:enchanted_book').enchant('charm:collection', lvl));;
 		event.hide(Item.of('minecraft:enchanted_book').enchant('charm:aerial_affinity', lvl));
+        event.hide(Item.of('minecraft:enchanted_book').enchant('spellbound:spellbound:flesh_wound', lvl));;
         event.hide(Item.of('minecraft:enchanted_book').enchant('spellbound:priming', lvl));;
 		event.hide(Item.of('minecraft:enchanted_book').enchant('spellbound:selfish', lvl));
 		event.hide(Item.of('minecraft:enchanted_book').enchant('spellbound:jousting', lvl));;
