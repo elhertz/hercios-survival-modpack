@@ -194,7 +194,7 @@ hash = "be1d4dc65f3ecb2df1babb249ad8721c90e12bce3ba04d26dcc0695fe931296c"
 
 [[files]]
 file = "config/gobber2/general.json5"
-hash = "154b309d7c7f38bdc31ac239d1cf720a9e0866aea63cbaba162f87a9a87ea901"
+hash = "c8e7c01a870bced78d8ba5c5a7e617b0cdf5ae25e7735145f3108b9e8aed436f"
 
 [[files]]
 file = "config/gobber2/ores.json5"
@@ -254,7 +254,7 @@ hash = "cbcb368ecdf102a6d1c334ad73e6ff64d5ec9e9d0b542a1512b3aa82b17e1548"
 
 [[files]]
 file = "config/redbits.json"
-hash = "9d8cdb52394221c033b6b2c72ba7b8018a7fb5c658f7e6e2b7fece5f9c2d4fa6"
+hash = "7cb971103a7a185b6da8fcae36c5dbcc467094852bb78d3731c9b0fb02cb04c2"
 
 [[files]]
 file = "config/simple-rpc.toml"
@@ -586,7 +586,7 @@ metafile = true
 
 [[files]]
 file = "mods/both/adventurez.toml"
-hash = "2863973afe98767b4d74382390186d5e3dbcbe855762ece3c7a9010d824bf74c"
+hash = "a64db23fe7e0cbc8a3ad725eb40f0e79b913a5ee417ce02e6aaaba5c48e45b5b"
 metafile = true
 
 [[files]]
@@ -826,7 +826,7 @@ metafile = true
 
 [[files]]
 file = "mods/both/gobber-fabric.toml"
-hash = "d8068a792ad5c8f147f94d7065f5555921d24b55b8715853726230c6f0db2d9b"
+hash = "0726eeec90d251c3b1c561f5a2db1773d5a0fa9f110cca9c625be1eb636f352d"
 metafile = true
 
 [[files]]
@@ -916,7 +916,7 @@ metafile = true
 
 [[files]]
 file = "mods/both/mcda.toml"
-hash = "db86e6569b41e1a20da4076ee467b53d06285401882bb061f3c92fec44e602d6"
+hash = "d56c30a970f2165579b82652a92c602d371e2c80eb0d8c023b90bb22a58798ff"
 metafile = true
 
 [[files]]
@@ -1091,7 +1091,7 @@ metafile = true
 
 [[files]]
 file = "mods/both/vanillatweaks-fabric.toml"
-hash = "98d6fdebe4ef7e2fdf12cdf147e4a2a8ea2466662fd69ce14e4ec96e79dbfc23"
+hash = "edc5f48bfe6b733a0cb71d97f107a52a27d2b2f093fed1ee3ba6029c8cd8983c"
 metafile = true
 
 [[files]]
@@ -1466,7 +1466,7 @@ metafile = true
 
 [[files]]
 file = "mods/server/dynmapforge.toml"
-hash = "a6e7585e2137e7a0cafdb8ca175be59773faa736bd23fdaf78a8f544b0b11a13"
+hash = "b456d78d632e0109bca5c3c9633cd95a240667fc8e40d6194b4d6c7a7752617b"
 metafile = true
 
 [[files]]
@@ -1601,7 +1601,7 @@ metafile = true
 
 [[files]]
 file = "mods/server/repurposed-structures-fabric.toml"
-hash = "54c8ac4f9f27b1966c23cc858e2b546f453b080ad6ceeb00dd62833e6ed8b4ce"
+hash = "9a5c39880706c7a8fbd21173af105fc6b81de25bb312fe0622c9ba9f45a6a4cc"
 metafile = true
 
 [[files]]
