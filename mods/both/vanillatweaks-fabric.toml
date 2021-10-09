@@ -1,14 +1,14 @@
 name = "VanillaTweaks (Fabric)"
-filename = "../VanillaTweaks-1.17.1-1.0.17.jar"
+filename = "../VanillaTweaks-1.17.1-1.0.18.jar"
 side = "both"
 
 [download]
-url = "https://edge.forgecdn.net/files/3482/58/VanillaTweaks-1.17.1-1.0.17.jar"
+url = "https://edge.forgecdn.net/files/3483/442/VanillaTweaks-1.17.1-1.0.18.jar"
 hash-format = "murmur2"
-hash = "3402314789"
+hash = "1878615314"
 
 [update]
 [update.curseforge]
-file-id = 3482058
+file-id = 3483442
 project-id = 428252
 release-channel = "beta"

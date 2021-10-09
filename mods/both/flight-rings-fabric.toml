@@ -1,0 +1,14 @@
+name = "Flight Rings (Fabric)"
+filename = "../%5B1.17%5D+Flight+Rings+1.6b.jar"
+side = "both"
+
+[download]
+url = "https://media.forgecdn.net/files/3392/675/%5b1.17%5d+Flight+Rings+1.6b.jar"
+hash-format = "murmur2"
+hash = "3425335521"
+
+[update]
+[update.curseforge]
+file-id = 3392675
+project-id = 401229
+release-channel = "beta"

@@ -1,0 +1,14 @@
+name = "Elemental Creepers: Refabricated"
+filename = "../elementalcreepers-1.4.0.jar"
+side = "both"
+
+[download]
+url = "https://edge.forgecdn.net/files/3343/772/elementalcreepers-1.4.0.jar"
+hash-format = "murmur2"
+hash = "1928159766"
+
+[update]
+[update.curseforge]
+file-id = 3343772
+project-id = 454086
+release-channel = "beta"

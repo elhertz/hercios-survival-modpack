@@ -1,13 +1,13 @@
 name = "Conjuring"
-filename = "../conjuring-1.0.7.jar"
+filename = "../conjuring-1.0.9.jar"
 side = "both"
 
 [download]
-url = "https://cdn.modrinth.com/data/GriMtaoD/versions/1.0.7/conjuring-1.0.7.jar"
+url = "https://cdn.modrinth.com/data/GriMtaoD/versions/1.0.9/conjuring-1.0.9.jar"
 hash-format = "sha512"
-hash = "5fea1020d560a1f34bd7666ea1af81f1cc1d17821c90491859cbe2b3357370c26068634a31f594a34c7d6a02981254e5cbbb609dc9c0748e68e116aa08abc0d8"
+hash = "10f6c657f186f2dd2f2202fe2cf357c5cd1529872b74fd3b18594a5833e53d76afd6cba18b3f0767a18d21bd507b8bc3a59b20bb75cfa656bd16758f17d90431"
 
 [update]
 [update.modrinth]
 mod-id = "GriMtaoD"
-version = "AJ2t1ts8"
+version = "5lyfF52O"

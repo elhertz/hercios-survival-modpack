@@ -3,12 +3,12 @@ filename = "../spark-fabric.jar"
 side = "server"
 
 [download]
-url = "https://edge.forgecdn.net/files/3398/114/spark-fabric.jar"
+url = "https://edge.forgecdn.net/files/3485/139/spark-fabric.jar"
 hash-format = "murmur2"
-hash = "2225131967"
+hash = "156274226"
 
 [update]
 [update.curseforge]
-file-id = 3398114
+file-id = 3485139
 project-id = 361579
 release-channel = "beta"

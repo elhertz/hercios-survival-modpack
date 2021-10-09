@@ -1,0 +1,14 @@
+name = "Better Eating Mod"
+filename = "../BetterEatingMod-0.3.0.jar"
+side = "client"
+
+[download]
+url = "https://edge.forgecdn.net/files/3400/784/BetterEatingMod-0.3.0.jar"
+hash-format = "murmur2"
+hash = "1251614803"
+
+[update]
+[update.curseforge]
+file-id = 3400784
+project-id = 395987
+release-channel = "beta"

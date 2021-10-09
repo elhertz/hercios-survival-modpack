@@ -1,0 +1,14 @@
+name = "Ugly Scoreboard Fix"
+filename = "../uglyscoreboardfix-2.3.1.jar"
+side = "client"
+
+[download]
+url = "https://edge.forgecdn.net/files/3344/38/uglyscoreboardfix-2.3.1.jar"
+hash-format = "murmur2"
+hash = "2553468917"
+
+[update]
+[update.curseforge]
+file-id = 3344038
+project-id = 402437
+release-channel = "beta"

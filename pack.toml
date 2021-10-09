@@ -1,15 +1,15 @@
-name = "hercios-survival"
+name = "hercios-modpack"
 author = "hertz"
-version = "0.0.1"
+version = "1.0"
 
 [index]
 file = "index.toml"
 hash-format = "sha256"
-hash = "dc33ca4a507833a7e017ee797610f97a185b2dbdf60862c14958e98bdf2e097c"
+hash = "a1325801aa29ca5ad711d8f1734a5de41ed639565c35bc14fe4d763d67ebc2a5"
 
 [versions]
 fabric = "0.11.7"
 minecraft = "1.17.1"
 
 [options]
-acceptable-game-versions = "1.17"
+acceptable-game-versions = ["1.17", "1.17.1"]

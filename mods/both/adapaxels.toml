@@ -1,14 +1,14 @@
 name = "AdaPaxels"
-filename = "../adapaxels-1.2.1+1.17.1.jar"
+filename = "../adapaxels-1.2.2+1.17.1.jar"
 side = "both"
 
 [download]
-url = "https://edge.forgecdn.net/files/3402/776/adapaxels-1.2.1+1.17.1.jar"
+url = "https://edge.forgecdn.net/files/3484/460/adapaxels-1.2.2+1.17.1.jar"
 hash-format = "murmur2"
-hash = "327886118"
+hash = "2646904178"
 
 [update]
 [update.curseforge]
-file-id = 3402776
+file-id = 3484460
 project-id = 406691
 release-channel = "beta"

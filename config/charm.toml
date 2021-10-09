@@ -45,9 +45,9 @@
 #Tools with the Collection enchantment automatically pick up drops.
 "CollectionEnchantment Enabled" = false
 #Allows bundles to be dyed.
-"ColoredBundles Enabled" = true
+"ColoredBundles Enabled" = false
 #Use dye on an anvil to change an item's enchantment color.
-"ColoredGlints Enabled" = false
+"ColoredGlints Enabled" = true
 #Cooking pots let you combine up to 64 food items, keeping an average of all hunger and saturation. Use wooden bowls to extract stew from the pot.
 "CookingPots Enabled" = false
 #Copper ingots can be used to craft rails.

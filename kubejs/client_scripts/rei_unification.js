@@ -118,7 +118,9 @@ const DELETED_ITEMS = [
 	"more_gems:carbonado_excavator",
     "slotlink:multi_dim_remote",
     "slotlink:unlimited_remote",
-    "slotlink:limited_remote"
+    "slotlink:limited_remote",
+    "flight_rings:t_basic_ring",
+    "ringsofascension:ring_flight"
 ];
 
 onEvent('rei.hide.items', event => {

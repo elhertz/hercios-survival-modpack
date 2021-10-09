@@ -5,12 +5,20 @@ file = "config/BBOutlineReloaded.cfg"
 hash = "d5d195cbe9243aaf8bc2bfa717d94681ffb6128fadf97d33ba39b3a26261550d"
 
 [[files]]
+file = "config/Flight Rings.json5"
+hash = "1875bbe8e60db3863bbf2220e5ec7250346afc6429a3c4a9ad0c0086a1aaef21"
+
+[[files]]
 file = "config/GiveMeHats/config.acfg"
 hash = "80740521b2b96fd48fc6f4c8cd14bf077e981751f09e96f89f64fbc1e56ce329"
 
 [[files]]
 file = "config/InvisFrames.conf"
 hash = "70aefe0b9471c924782bdd67eb880f7a724a7da8db67fd100f8046e3d1f06341"
+
+[[files]]
+file = "config/adventurez.json5"
+hash = "e6bd58413f7c781e47504dedea6324a1cec843645d8635e9a0d66d4e7fe6ce38"
 
 [[files]]
 file = "config/betterend/biomes.json"
@@ -74,7 +82,7 @@ hash = "21300dad75334098c187d4b69260e1731ecf993005c70fb6827179b6136e2241"
 
 [[files]]
 file = "config/charm.toml"
-hash = "bb195c0411c60dbf99127eaca36d554ca7479cdb51594a5d3ec0d26fa8821137"
+hash = "44c7a1d2dbcfe15336835b6f8bc212e297ba5d58a1be0eed486dd93808d55d5e"
 
 [[files]]
 file = "config/drippyloadingscreen/config.cfg"
@@ -161,22 +169,6 @@ file = "config/fancymenu/customization/voicechat.txt"
 hash = "0b0127972f0f724f3c320047ab754c046b614cc0c48cecd90710bafa944e7323"
 
 [[files]]
-file = "config/fancymenu/locals/de_de.local"
-hash = "362e9a1b4480f5f8f52724f7f678b5899c92b5ac5cd14ddaeda533bb78721195"
-
-[[files]]
-file = "config/fancymenu/locals/en_us.local"
-hash = "1fa7898331852f7c1bf9b20c47cc89ab4b8362efcb46fe156b0a549d79824868"
-
-[[files]]
-file = "config/fancymenu/locals/pl_pl.local"
-hash = "82ee4c2444f37d9f011b7b945df1f05026e9910f6c02cf900a3b5e17871a81f3"
-
-[[files]]
-file = "config/fancymenu/locals/pt_br.local"
-hash = "c7c049bf3190cc0572bef5fb636fa80d775211962cdbede7bd284d072692eb91"
-
-[[files]]
 file = "config/fancymenu/minecraftwindow/icons/icon16x16.png"
 hash = "9228dee662e44e2a70208bfc66b215d9c357cd727c082fec824b8d1e2004e96f"
 
@@ -242,7 +234,7 @@ hash = "01b3e32ca70169c2e13d8b524fd7d0df8b8bbd0c0d49c844c5159079ece6a330"
 
 [[files]]
 file = "config/openloader/resources/hercios.zip"
-hash = "46d3f5841de4f90334873f0b7acd2be95c086aeb5fc6178942ed0529a7e3b928"
+hash = "614ccd929c146b9083d8419119ee4d6248566150ac7dd5fdafd0cc0653d84dbc"
 
 [[files]]
 file = "config/physicsmod/physics_client_config.json"
@@ -257,6 +249,10 @@ file = "config/redbits.json"
 hash = "7cb971103a7a185b6da8fcae36c5dbcc467094852bb78d3731c9b0fb02cb04c2"
 
 [[files]]
+file = "config/ringsofascension.json"
+hash = "2eb5edcf7cb87d4429f9d46d7c432ad53d5b31de8190a2be57e402ee14e7f85c"
+
+[[files]]
 file = "config/simple-rpc.toml"
 hash = "81e2514988e2e0a10db5537fa5fad0bbf49a6a85de221b863f75c5fe605c525e"
 
@@ -267,6 +263,10 @@ hash = "3b78a0eda3d5e1a40fdc71b49d4e6478a5d73205c7bac3af72092988fc5001ac"
 [[files]]
 file = "config/spellbound.json"
 hash = "ad345306246d52c03f30c8059e7c152e3334fbbd900e68395905d5b4f549e663"
+
+[[files]]
+file = "config/uglyscoreboardfix.conf"
+hash = "0cd692da91c54041cf172d37495863418d5b97e1fe54de519c493ee1a1c0777e"
 
 [[files]]
 file = "config/vanillatweaks.toml"
@@ -533,24 +533,8 @@ file = "config/yosbr/servers.dat"
 hash = "6dbb810e5ea07c2820b8e1a9ac51f51ff532327cd6cb66a63265cc25588bfe9c"
 
 [[files]]
-file = "kubejs/assets/minecraft/lang/en_gb.json"
-hash = "ef63addccd77aa4f97f77ced61617583c4daed6e428928beb9c4dbc08fd08468"
-
-[[files]]
-file = "kubejs/assets/minecraft/lang/en_us.json"
-hash = "ef63addccd77aa4f97f77ced61617583c4daed6e428928beb9c4dbc08fd08468"
-
-[[files]]
-file = "kubejs/assets/playerex/lang/en_us.json"
-hash = "35325420cde8591997c03f7e8d746fdb7e65d6ff3ff058bbad316f0f705f2575"
-
-[[files]]
-file = "kubejs/assets/playerex/lang/es_mx.json"
-hash = "71a47d01a61ae94837e7da1ee2da086b88f038b1c0e958cdc0b71ec471c20da2"
-
-[[files]]
 file = "kubejs/client_scripts/rei_unification.js"
-hash = "0791480e38f865b3f96b4cb285cf1752ef7cfc5f96fe52a39a984b84c38ff3b4"
+hash = "b558e9fbf2b1ad03378016a55e4f4044075ce33ca536d756c8d89374c653823d"
 
 [[files]]
 file = "kubejs/config/client.properties"
@@ -576,7 +560,7 @@ metafile = true
 
 [[files]]
 file = "mods/both/adapaxels.toml"
-hash = "a86cb07155360db2cbb8566015d5aa4202be911a0364cd87e0127c21040e8b0b"
+hash = "adddafa47726362fb648148c62840b4a675c8c0440d99c207cb850f0aae9ea70"
 metafile = true
 
 [[files]]
@@ -620,6 +604,11 @@ hash = "fe0547af13f06f44cf5866103f7dd39e19cd47e9ad6eea080029db79372c2cc8"
 metafile = true
 
 [[files]]
+file = "mods/both/automated-crafting.toml"
+hash = "38f85fd5c16e7fe778ab4a9e39da1eaa32a66b418884c0a2bc15973d721e8c76"
+metafile = true
+
+[[files]]
 file = "mods/both/backslot.toml"
 hash = "87c5c9d33957bbad74ed25c28d408318349e2cd3889a0133be33c069e9a7a055"
 metafile = true
@@ -645,6 +634,11 @@ hash = "b0cd3bdff9c78d360b7fbb05f1e0bf8b2cd58a61d95af16adaad5744a815bb26"
 metafile = true
 
 [[files]]
+file = "mods/both/big-beacons.toml"
+hash = "af7b8f6a8f24843ac213a41ed74c0ac087192e937643b1977e92e2e5dd96ff4f"
+metafile = true
+
+[[files]]
 file = "mods/both/bits-and-chisels.toml"
 hash = "6357d0ba176c625e0d57085c1fc7bc050344032e419401121a1b0386e3acce02"
 metafile = true
@@ -661,7 +655,7 @@ metafile = true
 
 [[files]]
 file = "mods/both/caelus-fabric.toml"
-hash = "223a7841dea9a074ff785a136eb251d5e9cd44d5608ac2ea8cfaaafbba7c5ea5"
+hash = "8d5a6e4731b57dfd9f909852e4eb411bf10dab308cc40138a6f355393426fb35"
 metafile = true
 
 [[files]]
@@ -691,7 +685,7 @@ metafile = true
 
 [[files]]
 file = "mods/both/conjuring.toml"
-hash = "78a14a82182b0f85c480eb19648749f155007674a122f54ef3229acf0f929f66"
+hash = "8eb16c2ebc7bc5c4525a7bf05f3d9e77536fd54bb67f4a5f0c6adb6354f92c48"
 metafile = true
 
 [[files]]
@@ -701,7 +695,7 @@ metafile = true
 
 [[files]]
 file = "mods/both/data-attributes.toml"
-hash = "88a0a68912bc185fb244d465ab89b0c4af8182afeb5b166c5976631356f8079e"
+hash = "a32bbc8ca49fef32e90bc8e64f4057247a8a493394ed78dd260fb62de177be55"
 metafile = true
 
 [[files]]
@@ -735,6 +729,11 @@ hash = "33ddf1ece006f132f843df5852860b7c7cf5441747ef12452a411164e784a087"
 metafile = true
 
 [[files]]
+file = "mods/both/elemental-creepers-refabricated.toml"
+hash = "52c00baef7ff2876bf3038fd11709416c7374f0f0efa41e5cf7bda7c1f77a232"
+metafile = true
+
+[[files]]
 file = "mods/both/emotecraft.toml"
 hash = "012a56bbfe749cae74c676e39d5b44910923b6dd963cc4f5b7a64aa57b668122"
 metafile = true
@@ -751,7 +750,7 @@ metafile = true
 
 [[files]]
 file = "mods/both/fabric-api.toml"
-hash = "beb96ea9ca67653aa59240ba35591ac5dfa9afc64960b63a34038e18f9e4dfa1"
+hash = "7f65a6dbcc09b34a6ab6ff47bb64fd17e08c13040a1e959fa46f07b44f072971"
 metafile = true
 
 [[files]]
@@ -792,6 +791,11 @@ metafile = true
 [[files]]
 file = "mods/both/ferrite-core.toml"
 hash = "327ca540cf50d56e76b037bc965fcd34b8c89f258012c6a0c594d904d9f1acfd"
+metafile = true
+
+[[files]]
+file = "mods/both/flight-rings-fabric.toml"
+hash = "2a655988d35b3071d1b8d824ba4469bc1a6c85e2d0fd0e45ab8c45b09a6cf1a3"
 metafile = true
 
 [[files]]
@@ -1006,7 +1010,7 @@ metafile = true
 
 [[files]]
 file = "mods/both/roughly-enough-items.toml"
-hash = "811e1c16a4affc7342ed46d6fbba59dd562553741fd3be859f0a6b97d04eb125"
+hash = "c9e455a68f216522f2281cbc967952e2857dde9d407dc596f36ea74f12fdf11b"
 metafile = true
 
 [[files]]
@@ -1060,6 +1064,11 @@ hash = "bc551aa561955d3b0aa4e83c695057218984e53905213925b0a29be13a820b04"
 metafile = true
 
 [[files]]
+file = "mods/both/trap-expansion-fabric.toml"
+hash = "5366e0ac2fe886de2dbcc5d133f715b23469aa078b10eedc4eb3b447d9494b6c"
+metafile = true
+
+[[files]]
 file = "mods/both/traverse.toml"
 hash = "277f09144ee493a0076eda6f63efcda778f025a38f260c7f840f379ad8c519ed"
 metafile = true
@@ -1086,12 +1095,12 @@ metafile = true
 
 [[files]]
 file = "mods/both/vanilla-degus.toml"
-hash = "f56cdb4c96baa8e3e9570b6fb596ce9e173a3f064328d3d4196181e0c25835c6"
+hash = "0846fd623eb3520107e57ae529dc27ae7b00d0bd0b8d107af5dae7b7d8c3e9eb"
 metafile = true
 
 [[files]]
 file = "mods/both/vanillatweaks-fabric.toml"
-hash = "edc5f48bfe6b733a0cb71d97f107a52a27d2b2f093fed1ee3ba6029c8cd8983c"
+hash = "bea2d171f036b4c2712bfcd1993a159767de263ce9edec197350723baccb2c8d"
 metafile = true
 
 [[files]]
@@ -1107,11 +1116,6 @@ metafile = true
 [[files]]
 file = "mods/both/wolves-with-armor.toml"
 hash = "d434c8ae1197fde29b0a6cde300003ab75e9e11ea7725775291e366f890516db"
-metafile = true
-
-[[files]]
-file = "mods/both/workbench-factory.toml"
-hash = "c7b78f4c0b9cb648a69f8a63844312641b90a9becf4e8263332e36067d3ed827"
 metafile = true
 
 [[files]]
@@ -1140,8 +1144,8 @@ hash = "5af9e382bd96f1fa140a766fb72c678854ca4f439898757457764e9ddd93d647"
 metafile = true
 
 [[files]]
-file = "mods/client/advancements-enlarger.toml"
-hash = "6d0674c40f03faa3dc0b517018436ecf79f57497b54a9255be08b09ad4319408"
+file = "mods/client/advancementinfo.toml"
+hash = "05bdd42cdb7256dcd62a4bf1a1c477f8fdb8e7b7162f411191ab1b30e865239b"
 metafile = true
 
 [[files]]
@@ -1152,6 +1156,16 @@ metafile = true
 [[files]]
 file = "mods/client/armor-sound-tweak.toml"
 hash = "631dde21a08a0262c4144469db3ccb7c8c8bb170a0ea250fe6e98b34f3dda013"
+metafile = true
+
+[[files]]
+file = "mods/client/better-eating-mod.toml"
+hash = "9437b25a325d238c1c02472c66718312b99ec295bf5741c479d947f9aed4a0a2"
+metafile = true
+
+[[files]]
+file = "mods/client/better-sodium-video-settings-button.toml"
+hash = "8caeaea824f631e2b25ed340096c91ba2db99f3311025a7c745ecfc411e76a11"
 metafile = true
 
 [[files]]
@@ -1182,6 +1196,11 @@ metafile = true
 [[files]]
 file = "mods/client/cleancut.toml"
 hash = "060eef47ccfb10d5e3c35af94544920354af5ce172aabc1df16d43c4cede5434"
+metafile = true
+
+[[files]]
+file = "mods/client/completeconfig.toml"
+hash = "471436b9f8ef87e96d25c54e1240f03483397638b07a10170654c619dcabf6c9"
 metafile = true
 
 [[files]]
@@ -1305,6 +1324,11 @@ hash = "42b29d057385781a239c19d79c678e18fa221e2e6da2b60dca9545e23ca38a6e"
 metafile = true
 
 [[files]]
+file = "mods/client/reeses-sodium-options.toml"
+hash = "4e7f2e4c82c2e500caa517fb50bfe908f64c1a633988a869c35c2d982378ff85"
+metafile = true
+
+[[files]]
 file = "mods/client/sheep-consistency.toml"
 hash = "9ecc1d232b1f04a4935020c90af06bb6c2c9e016596d909f4a3c655a38cb1c60"
 metafile = true
@@ -1345,13 +1369,18 @@ hash = "2a57ec7d7574baeab1629ea37b72a7902b4ad24a227b7bd50be5e4fcfeb33e7e"
 metafile = true
 
 [[files]]
+file = "mods/client/ugly-scoreboard-fix.toml"
+hash = "0a3244355657fc19751661ea672620e353fcd4d12415f9b6e89bde0810ca7deb"
+metafile = true
+
+[[files]]
 file = "mods/client/xaeros-minimap-fair-play-edition.toml"
 hash = "1cd8aca172b09335c57e37e1df86544ada5bbe49de6723db4b8aad753dd9d72e"
 metafile = true
 
 [[files]]
 file = "mods/client/xaeros-world-map.toml"
-hash = "9992ecc83a95405f20efb347b6e659bf010b91e33d4a0d9c36e25a6810540816"
+hash = "b46f4af2243af3107c78d82c813047dee277decfdf525b674fc0b2522f4d60ad"
 metafile = true
 
 [[files]]
@@ -1601,7 +1630,7 @@ metafile = true
 
 [[files]]
 file = "mods/server/repurposed-structures-fabric.toml"
-hash = "9a5c39880706c7a8fbd21173af105fc6b81de25bb312fe0622c9ba9f45a6a4cc"
+hash = "d4a1a6359b73352cde367119a3f39df3080fc144e347dca23c877dd8817ccc28"
 metafile = true
 
 [[files]]
@@ -1636,7 +1665,7 @@ metafile = true
 
 [[files]]
 file = "mods/server/spark.toml"
-hash = "0b290d8963fbaf0723a2396df322bfb4c506e0a5e089f68ddf1390f6e70b0e63"
+hash = "25f77c660e21da12964ec9397c0e844c2f6a6aa1ca45aaa6982367c0a510b5a3"
 metafile = true
 
 [[files]]
@@ -1682,6 +1711,11 @@ metafile = true
 [[files]]
 file = "mods/server/world-border-fix.toml"
 hash = "aedb55efe69f09fc35ac4a4f5a17562fcb9f4f7e2884ffa49a6ce9969cf6c278"
+metafile = true
+
+[[files]]
+file = "mods/server/worldedit.toml"
+hash = "088d77f46e886cb62101bad1035631b0974ccd6079499e0a6aab73dc9d25ffcd"
 metafile = true
 
 [[files]]
