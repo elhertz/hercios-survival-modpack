@@ -1291,7 +1291,7 @@ metafile = true
 
 [[files]]
 file = "mods/client/fancymenu-fabric.toml"
-hash = "c8247f964831b9acc58c5eb5d8517ac7467b3eb4aa9cd15404d82abc5f7d34d4"
+hash = "70c6cc4b4b70e869a84814e72ba930cb3ced6e03055109b284f60cfb70222d59"
 metafile = true
 
 [[files]]
@@ -1436,7 +1436,7 @@ metafile = true
 
 [[files]]
 file = "mods/client/xaeros-minimap-fair-play-edition.toml"
-hash = "babd4662cf36b3c693151d012f88d655e83dc88da9520fc3e3e92acfaaae24ef"
+hash = "95c57e6bbfa061106221e02c61817321f546f3795631b4be36d94dfe62f1c68f"
 metafile = true
 
 [[files]]

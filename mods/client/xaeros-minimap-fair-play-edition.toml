@@ -1,5 +1,5 @@
 name = "Xaero's Minimap (Fair-play Edition)"
-filename = "Xaeros_Minimap_FP21.18.0_Fabric_1.17.1.jar"
+filename = "../Xaeros_Minimap_FP21.18.0_Fabric_1.17.1.jar"
 side = "client"
 
 [download]

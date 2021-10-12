@@ -1,5 +1,5 @@
 name = "FancyMenu [Fabric]"
-filename = "fancymenu_fabric_2.3.4_MC_1.17-1.17.1.jar"
+filename = "../fancymenu_fabric_2.3.4_MC_1.17-1.17.1.jar"
 side = "client"
 
 [download]
