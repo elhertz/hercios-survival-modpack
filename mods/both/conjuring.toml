@@ -1,13 +1,13 @@
-name = "Conjuring"
-filename = "../conjuring-1.0.10.jar"
+name = "Conjuring [Fabric/Forge]"
+filename = "../conjuring-1.0.11.jar"
 side = "both"
 
 [download]
-url = "https://cdn.modrinth.com/data/GriMtaoD/versions/1.0.10/conjuring-1.0.10.jar"
-hash-format = "sha512"
-hash = "d1d7c5adc739fe45846b1d2230162956a2f5c94992bcb630ec4b53522c3f5f856de8a84096565981a1ad3082c7f527666d9029a4aaad408ff36feb02a1b45770"
+url = "https://media.forgecdn.net/files/3489/321/conjuring-1.0.11.jar"
+hash-format = "murmur2"
+hash = "79252605"
 
 [update]
-[update.modrinth]
-mod-id = "GriMtaoD"
-version = "aKLLyF5i"
+[update.curseforge]
+file-id = 3489321
+project-id = 422310

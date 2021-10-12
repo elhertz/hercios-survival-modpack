@@ -711,7 +711,7 @@ metafile = true
 
 [[files]]
 file = "mods/both/conjuring.toml"
-hash = "739d0373c637dd40005b1ed9c24b2628e6349280a1e2197bd179778f6a8b4508"
+hash = "7334364ab53cf52c1039a61fc548a9973ad80d79d0a66447c1fd78c0f70749b1"
 metafile = true
 
 [[files]]
