@@ -309,6 +309,10 @@ file = "config/yosbr/config/charmonium.toml"
 hash = "3f2775a5ea1949e79eb58c630d9e6543d52881b6ada8ee1d06f726fd764870ca"
 
 [[files]]
+file = "config/yosbr/config/durabilityviewer.json"
+hash = "24193e312ee21a88f5b24d248047bce04fcfad16610288cd4f43ba43b28ab7c6"
+
+[[files]]
 file = "config/yosbr/config/dynamicfps.toml"
 hash = "2c3837e8e2a4ac19115f9ae468e67b37654fcde765057de2983a71bb40b35d6f"
 
@@ -1283,6 +1287,11 @@ metafile = true
 [[files]]
 file = "mods/client/fancymenu-fabric.toml"
 hash = "baf28e26fc15b0f26e25f9bf0a9fb6caa95aba5ec45648beb73e7247da5fe0c2"
+metafile = true
+
+[[files]]
+file = "mods/client/giselbaers-durability-viewer.toml"
+hash = "6ee5e13d1f54f5762c405799d2e68fc4582033db8be158bfa04e352f5057ab19"
 metafile = true
 
 [[files]]

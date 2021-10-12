@@ -1,0 +1,13 @@
+name = "Giselbaer's Durability Viewer"
+filename = "../durabilityviewer-1.17.1-fabric0.36.1-1.10.2.jar"
+side = "client"
+
+[download]
+url = "https://edge.forgecdn.net/files/3488/607/durabilityviewer-1.17.1-fabric0.36.1-1.10.2.jar"
+hash-format = "murmur2"
+hash = "2123368915"
+
+[update]
+[update.curseforge]
+file-id = 3488607
+project-id = 262146
