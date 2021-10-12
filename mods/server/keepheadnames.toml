@@ -1,0 +1,13 @@
+name = "Keep Head Names"
+filename = "../KeepHeadNames-1.4-1.17.jar"
+side = "server"
+
+[download]
+url = "https://edge.forgecdn.net/files/3405/53/KeepHeadNames-1.4-1.17.jar"
+hash-format = "murmur2"
+hash = "3835228583"
+
+[update]
+[update.curseforge]
+file-id = 3405053
+project-id = 442278

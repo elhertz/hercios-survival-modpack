@@ -1,0 +1,44 @@
+{
+  "mobs": {
+    "mobsLessFear": true,
+    "merchantHostility": true
+  },
+  "zombies": {
+    "zombieTypeBuffed": "ALL",
+    "zombiePlayersAttack": 60,
+    "zombieMobsAttack": 60,
+    "huskFireProtection": true,
+    "drownedTridentSpawn": true,
+    "drownedHighVelocity": true
+  },
+  "skeletons": {
+    "skeletonFleeGoal": true,
+    "strayBetterSlowness": true
+  },
+  "spiders": {
+    "babySpiders": true,
+    "caveSpiderJockey": true,
+    "caveSpiderNaturalSpawn": true
+  },
+  "slimes": {
+    "slimeBiggerSize": true,
+    "slimeCanMerge": true
+  },
+  "illagers": {
+    "pillagerMoreEnchants": true,
+    "pillagerSpeedBonus": true,
+    "vindicatorInPatrols": true,
+    "vindicatorSpeedBonus": true,
+    "ravagerInPatrols": true,
+    "evokerStopArrows": true,
+    "evokerIncreasedHealth": true,
+    "witchFleeGoal": true,
+    "witchMoreSpawn": true
+  },
+  "phantoms": {
+    "phantomThroughBlocks": false,
+    "phantomLightFear": true,
+    "phantomTranslucent": true
+  },
+  "guardianNaturalSpawn": false
+}

@@ -1,8 +1,13 @@
-name = "ChatHeads"
+name = "Chat Heads"
 filename = "../chat_heads-0.3.1+1.17.1.jar"
 side = "client"
 
 [download]
-url = "https://github.com/Gontier-Julien/chat_heads/releases/download/1.17.1/chat_heads-0.3.1+1.17.1.jar"
-hash-format = "sha512"
-hash = "464f7c94749cb0cb559aa370ea08d1ae3d2d64e85bca941f80981aaeee8e82d81282bc877b7894bb6290bc82ecfa761f404c3b8a05b92fb65128ce547340bde0"
+url = "https://edge.forgecdn.net/files/3487/944/chat_heads-0.3.1+1.17.1.jar"
+hash-format = "murmur2"
+hash = "2619791207"
+
+[update]
+[update.curseforge]
+file-id = 3487944
+project-id = 407206

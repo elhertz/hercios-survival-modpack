@@ -1,0 +1,13 @@
+name = "Head Index"
+filename = "../headindex-1.0.2.jar"
+side = "server"
+
+[download]
+url = "https://edge.forgecdn.net/files/3379/281/headindex-1.0.2.jar"
+hash-format = "murmur2"
+hash = "3202657755"
+
+[update]
+[update.curseforge]
+file-id = 3379281
+project-id = 483111

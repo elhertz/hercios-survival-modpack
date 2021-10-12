@@ -120,7 +120,22 @@ const DELETED_ITEMS = [
     "slotlink:unlimited_remote",
     "slotlink:limited_remote",
     "flight_rings:t_basic_ring",
-    "ringsofascension:ring_flight"
+    "ringsofascension:ring_flight",
+    "botania:swap_ring",
+    "botania:mining_ring",
+    "botania:reach_ring",
+    "botania:terraform_rod",
+    "botania:skydirt_rod",
+    "botania:tornado_rod",
+    "botania:divining_rod",
+    "botania:exchange_rod",
+    "botania:knockback_belt",
+    "botania:ice_pendant",
+    "botania:cloud_pendant",
+    "botania:super_cloud_pendant",
+    "botania:diva_charm",
+    "botania:itemfinder",
+    "botania:flight_tiara"
 ];
 
 onEvent('rei.hide.items', event => {

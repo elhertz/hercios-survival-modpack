@@ -1,8 +1,8 @@
 hash-format = "sha256"
 
 [[files]]
-file = "config/BBOutlineReloaded.cfg"
-hash = "d5d195cbe9243aaf8bc2bfa717d94681ffb6128fadf97d33ba39b3a26261550d"
+file = "config/Adorn.json5"
+hash = "78c781e04d559a470d04030409b32bd41f681a7a732af6d529ef5bb404cd63a6"
 
 [[files]]
 file = "config/Flight Rings.json5"
@@ -15,6 +15,10 @@ hash = "80740521b2b96fd48fc6f4c8cd14bf077e981751f09e96f89f64fbc1e56ce329"
 [[files]]
 file = "config/InvisFrames.conf"
 hash = "70aefe0b9471c924782bdd67eb880f7a724a7da8db67fd100f8046e3d1f06341"
+
+[[files]]
+file = "config/MinemenuFabric/MinemenuFabric.json"
+hash = "84e550f200ad613920aec51dff6b88dead42adb096f383af2d017fd7a65d3f78"
 
 [[files]]
 file = "config/adventurez.json5"
@@ -82,7 +86,7 @@ hash = "21300dad75334098c187d4b69260e1731ecf993005c70fb6827179b6136e2241"
 
 [[files]]
 file = "config/charm.toml"
-hash = "44c7a1d2dbcfe15336835b6f8bc212e297ba5d58a1be0eed486dd93808d55d5e"
+hash = "13c5fd1daed1e0860b5bede8eb48858b581877e1c38a5568d8eb37df141ae301"
 
 [[files]]
 file = "config/drippyloadingscreen/config.cfg"
@@ -101,12 +105,8 @@ file = "config/eldritch_mobs.json5"
 hash = "db8ca3eb2c649e6e1c4b8a06342f308abf4b2d777cd6ce2afe6bff05ede0defe"
 
 [[files]]
-file = "config/emotecraft.json"
-hash = "655caad249d8f9ef37bee7855006b2fda2dc51e2a88d723d545eaaab5e0a6add"
-
-[[files]]
 file = "config/enchantedtooltips/enchants.json5"
-hash = "51e814e4864fc4c12889ec0dd3201525d330b73160f8041724694b5a1b227e96"
+hash = "b9f8c636630bbd0c0dc51f01e635947b21a36b363b62ebdcbdcae7d97a6ede73"
 
 [[files]]
 file = "config/extraalchemy.json"
@@ -118,7 +118,7 @@ hash = "14eb4e8cd105c580403c4e5bc6bba831c81aedcf4e6e04485c74e9d3f253689f"
 
 [[files]]
 file = "config/fabrication/features.ini"
-hash = "900f76510de464e3550680e75c3efe039baf3884c5077dcc088cf46f23afa128"
+hash = "be2feb8ee83b64ad18b88b3450b75a67206a1fbaf49a15d6e69040445e546cc5"
 
 [[files]]
 file = "config/fabrication/gear_components.ini"
@@ -197,24 +197,12 @@ file = "config/icarus.json5"
 hash = "f9efc22958458a1e8d7c9b8a4d0027a700e04a878e300773acc6df85526924c0"
 
 [[files]]
-file = "config/invmove.json"
-hash = "afb2c56f850346c772cc3882db549247957e829a6a1a791aedb9fa0ff05fd2fd"
-
-[[files]]
 file = "config/kibe.json"
 hash = "824c8145d59b30d47850119cb7038a370526e40db3fff70b00f258b005b23cdf"
 
 [[files]]
 file = "config/mcda.json5"
 hash = "27ea874499d4bf4a46a74c33284db456294d16119a62432a893e70bdce01a592"
-
-[[files]]
-file = "config/moenchantconfig.json"
-hash = "7e40a94ac7defeefc2d65f0af363e46bd6c1a5b8397bdf7f7d6073410b1f6949"
-
-[[files]]
-file = "config/moenchantment_overrides.json"
-hash = "3a7ddb0f86084a81ece577e59f937c8736956080e0fd6e78d471af99252f938f"
 
 [[files]]
 file = "config/more_gems/general.json5"
@@ -229,20 +217,16 @@ file = "config/naturescompass.json"
 hash = "399b4aa325ac3f1809b886d2c05714ca356e234d04ff41e4441348bcfff048d3"
 
 [[files]]
-file = "config/notifmod.json"
-hash = "01b3e32ca70169c2e13d8b524fd7d0df8b8bbd0c0d49c844c5159079ece6a330"
-
-[[files]]
 file = "config/openloader/resources/hercios.zip"
-hash = "614ccd929c146b9083d8419119ee4d6248566150ac7dd5fdafd0cc0653d84dbc"
-
-[[files]]
-file = "config/physicsmod/physics_client_config.json"
-hash = "5639297292c5cd023a1824f6410e641b99f5ffdd9531152efca4d55d10c0ecb0"
+hash = "767e98a5b25e338b27638e6601dc25905ed4d92556ff32ceb9ee481472f7e94e"
 
 [[files]]
 file = "config/playerex.json"
 hash = "cbcb368ecdf102a6d1c334ad73e6ff64d5ec9e9d0b542a1512b3aa82b17e1548"
+
+[[files]]
+file = "config/quickshulkerconfig.json5"
+hash = "d6d6abb4f9b161ab8463a6a4e21821be404586df18165a7ab4b176ef2361b0db"
 
 [[files]]
 file = "config/redbits.json"
@@ -251,6 +235,22 @@ hash = "7cb971103a7a185b6da8fcae36c5dbcc467094852bb78d3731c9b0fb02cb04c2"
 [[files]]
 file = "config/ringsofascension.json"
 hash = "2eb5edcf7cb87d4429f9d46d7c432ad53d5b31de8190a2be57e402ee14e7f85c"
+
+[[files]]
+file = "config/sihywtcamd/boss.json"
+hash = "2b5ae127bd8aac2a7862eba9cd85eb31c253df8cf1909d31e35de70464f77579"
+
+[[files]]
+file = "config/sihywtcamd/end.json"
+hash = "4a516e7a08cbde220962ad49d334045b0ddb65183a888719580d4052ad5f3c90"
+
+[[files]]
+file = "config/sihywtcamd/nether.json"
+hash = "db27a16a48387886c72252d830a8d6628f241c271a2073850ca534f44c020d48"
+
+[[files]]
+file = "config/sihywtcamd/overworld.json"
+hash = "d3f808c5667b43a4f069b2645a5ae80f71bfafae00fecec00777fadfcb359dd9"
 
 [[files]]
 file = "config/simple-rpc.toml"
@@ -265,10 +265,6 @@ file = "config/spellbound.json"
 hash = "ad345306246d52c03f30c8059e7c152e3334fbbd900e68395905d5b4f549e663"
 
 [[files]]
-file = "config/uglyscoreboardfix.conf"
-hash = "0cd692da91c54041cf172d37495863418d5b97e1fe54de519c493ee1a1c0777e"
-
-[[files]]
 file = "config/vanillatweaks.toml"
 hash = "c35e2309882320aee17606c8eaad4ad0e080ce93d3f037bf10218138feaccb9b"
 
@@ -277,12 +273,8 @@ file = "config/waystones/config.json"
 hash = "3a5e38e6b02fadc24550ce4c78bd6f6082d5d634d13ddb35601daa451ab978dd"
 
 [[files]]
-file = "config/xaerominimap.txt"
-hash = "25d9f3f5a38ba2bd6d6da8e75644d1090ff18e2b02f0c110f52c2b7f6ecca864"
-
-[[files]]
-file = "config/xaeroworldmap.txt"
-hash = "bff569bcbfe00f58f6794caa82b909e82b8624b53f9df363f9781334bb3df75b"
+file = "config/yosbr/config/BBOutlineReloaded.cfg"
+hash = "d5d195cbe9243aaf8bc2bfa717d94681ffb6128fadf97d33ba39b3a26261550d"
 
 [[files]]
 file = "config/yosbr/config/advancementplaques.json5"
@@ -294,19 +286,27 @@ hash = "1898ceb22e4521f276b5b457b567ba5f78cf5fd9cfd32235c74677dfb01c7683"
 
 [[files]]
 file = "config/yosbr/config/backslot.json5"
-hash = "f3d4befbeefa974f70aff8b2ca8927828d80a0d68bacebc0f2605017086e4f65"
+hash = "615464e44a67c345cb337018f01dd9fd30daed62ba7c5b6a2e4f65631b3bb36f"
 
 [[files]]
 file = "config/yosbr/config/backslotaddon.json5"
 hash = "092265e8777cc2f79198aef08bf8116c801fd7014f2280fcb6ac7484ee65672c"
 
 [[files]]
+file = "config/yosbr/config/bettereating.json"
+hash = "c6d66fac4517597c69143c3b3a55cf4eb63c15bdc767f82237be72d282bb012d"
+
+[[files]]
 file = "config/yosbr/config/bobby.conf"
-hash = "f3cdbf439f46801303396fe735ed6fcbf7fc5f4f002fefbd8f1fc397c45d40f2"
+hash = "a77b2bcd523bfff70fec582a9c6addfbc13014065049981fc9961f6538cab09b"
 
 [[files]]
 file = "config/yosbr/config/capes.json5"
-hash = "f003acf51f5a3bf381ca40b5e16e0ffe281c1943d4d4c03d32fc26d89f8d6915"
+hash = "e9a6203830daca8189fed042151a5327463f97f5c9fe9dba82f71c07680aeca7"
+
+[[files]]
+file = "config/yosbr/config/charmonium.toml"
+hash = "3f2775a5ea1949e79eb58c630d9e6543d52881b6ada8ee1d06f726fd764870ca"
 
 [[files]]
 file = "config/yosbr/config/dynamicfps.toml"
@@ -314,35 +314,47 @@ hash = "2c3837e8e2a4ac19115f9ae468e67b37654fcde765057de2983a71bb40b35d6f"
 
 [[files]]
 file = "config/yosbr/config/emotecraft.json"
-hash = "76c20c264dfdb2dabe1085d31dd7630aa7b7ddd672ddf29dc4ad4edcf8a8b51c"
+hash = "655caad249d8f9ef37bee7855006b2fda2dc51e2a88d723d545eaaab5e0a6add"
 
 [[files]]
-file = "config/yosbr/config/enchantedtooltips/config.json5"
-hash = "24e15ce86fcc4af75988b86be85be46c6948263684391b407a92ce472900d36c"
+file = "config/yosbr/config/expandedstorage.json"
+hash = "90b54d645a35a91d3b5f97dcad2aca26015ae684ef0eb029b615b79bc327640e"
 
 [[files]]
-file = "config/yosbr/config/itemcounts.json"
-hash = "0c32b8e76df5a50ff11cbca2d7a27ae0431c957e24a537f691515807fb243bdd"
+file = "config/yosbr/config/fabrictailor.json"
+hash = "5ef45e529499c70d9a7abb473c4df011358d91d06c6b659f9ab2637af5ace2b5"
 
 [[files]]
-file = "config/yosbr/config/modmenu.json"
-hash = "6df2083901a28081c56b25f132df1df31dea27fddb7968d370cbffb595e0568f"
+file = "config/yosbr/config/inventoryprofilesnext/inventoryprofiles.json"
+hash = "240ff81cae0b7ccacffbb3e9d57b963ba6bd8937794a106480c7af52d1758ded"
+
+[[files]]
+file = "config/yosbr/config/invmove.json"
+hash = "afb2c56f850346c772cc3882db549247957e829a6a1a791aedb9fa0ff05fd2fd"
 
 [[files]]
 file = "config/yosbr/config/mousewheelie.hjson"
 hash = "c941d12bffe05178a19d755790507be4c929f38159f0e59014c78538b2e57766"
 
 [[files]]
+file = "config/yosbr/config/notifmod.json"
+hash = "01b3e32ca70169c2e13d8b524fd7d0df8b8bbd0c0d49c844c5159079ece6a330"
+
+[[files]]
 file = "config/yosbr/config/okzoomer.json5"
-hash = "af42735416cf6ec07f7a55236c019e1c9f899b1a3355262cc0734936728eb243"
+hash = "312a6c2832067f9735f15dc8b5ed1a36cb9d1864cb0c6894b7d4316e1cc36057"
 
 [[files]]
 file = "config/yosbr/config/physicsmod/physics_blocks_client_config.json"
 hash = "b8c7110f160af03df3cba98d33acf3f08e35155ee38ceaea690713dfa0985495"
 
 [[files]]
+file = "config/yosbr/config/physicsmod/physics_client_config.json"
+hash = "826f0c7bb58a3055e5645937e97f0d44f187d64a10dc4a1f00ec08ee08b77ce8"
+
+[[files]]
 file = "config/yosbr/config/physicsmod/physics_mobs_client_config.json"
-hash = "c6a9f07c7d73382db15ba9c0b2ebef7946abb52ed36fad557e799b2bf60c8172"
+hash = "757a41ec61547768f4aaf967740f65cc45f26a9948c1570749de70b3e237b591"
 
 [[files]]
 file = "config/yosbr/config/physicsmod/physics_server_config.json"
@@ -354,15 +366,23 @@ hash = "4780f8de1dfa1ab6d4492a434d0269683814d19a53f9cadd897bb51e8e4f2e2a"
 
 [[files]]
 file = "config/yosbr/config/presencefootsteps/userconfig.json"
-hash = "636a415b417f1cf276c4778af31f9386112fd999544537c80c48c5b68450bd5e"
+hash = "689e4462160ac803e04b14beb3b7803417105eaec70e53b42f030c20ad750d56"
 
 [[files]]
 file = "config/yosbr/config/sodium-extra-options.json"
-hash = "8455041a0cc3a7a469a749a23031ec9dffd45b72328611946c52f588a506ab8c"
+hash = "ba266805718fdcf19ad3d31a283f00ce0d4a738050f13576195e7c0717fcb601"
 
 [[files]]
 file = "config/yosbr/config/sodium-options.json"
 hash = "1b51438aec5000a0b3c9cb96a84ab02bb7d402b2cba06c4853be96ccdd8da51f"
+
+[[files]]
+file = "config/yosbr/config/uglyscoreboardfix.conf"
+hash = "6eed9f89443a52a4dccacbe59bcdbac5d3ddf848f6f834312c8d3df69b31cdb3"
+
+[[files]]
+file = "config/yosbr/config/voicechat/voicechat-client.properties"
+hash = "caaab7428ab9a4973ea6fa1a538591a4b387787ad1c0ee319cbc32e71cd737d3"
 
 [[files]]
 file = "config/yosbr/config/waila/waila.json"
@@ -374,7 +394,7 @@ hash = "97ef697075609211feaad140b5c5a84b2655aec3c8efd4096098d43026c131f0"
 
 [[files]]
 file = "config/yosbr/config/xaerominimap.txt"
-hash = "25d9f3f5a38ba2bd6d6da8e75644d1090ff18e2b02f0c110f52c2b7f6ecca864"
+hash = "514a1d8b96f6bfdd69599c195c90e7991a73faedaab25ee82e7f049fd8dad9e6"
 
 [[files]]
 file = "config/yosbr/config/xaeroworldmap.txt"
@@ -514,19 +534,11 @@ hash = "262d08d8adb65216067eb23e7166c2f492c7013099ae7e0366c8a3401f6dd9f8"
 
 [[files]]
 file = "config/yosbr/options.amecsapi.txt"
-hash = "2714ebf1f510ce3246dcbda52ec0070cb07af5171f7344c1138cd87ea019c445"
+hash = "b628d58ea5db0c045c29acbe999bb9eb9b0bf8842f79881686045c1c18fe5949"
 
 [[files]]
 file = "config/yosbr/options.txt"
-hash = "1f52577e6ac0cc56185612e9387608b9f3b5a14cf29c12fc39e098340887004c"
-
-[[files]]
-file = "config/yosbr/resourcepacks/VanillaTweaks_Hercios.zip"
-hash = "4f22e097c27d1a53adf15c9a1d50d27e6d4815ca4d71f5d0efeb17b273fb8408"
-
-[[files]]
-file = "config/yosbr/resourcepacks/betterminecraft.zip"
-hash = "546343de404f807cd1a542b37f59d826abb24b26be6f65c3453ad19e47547f17"
+hash = "9396f72a128b1610aa0ac2c7de0831cedb6899238883ae1bd3dbdba42b02f6c5"
 
 [[files]]
 file = "config/yosbr/servers.dat"
@@ -534,7 +546,7 @@ hash = "6dbb810e5ea07c2820b8e1a9ac51f51ff532327cd6cb66a63265cc25588bfe9c"
 
 [[files]]
 file = "kubejs/client_scripts/rei_unification.js"
-hash = "b558e9fbf2b1ad03378016a55e4f4044075ce33ca536d756c8d89374c653823d"
+hash = "4263a82dceb4aefa4ea076ba8d77d83d62c729a60b8e6153f482cd0331e4f6d9"
 
 [[files]]
 file = "kubejs/config/client.properties"
@@ -590,7 +602,7 @@ metafile = true
 
 [[files]]
 file = "mods/both/architectury-fabric.toml"
-hash = "1266fbd47e6fa85b32fee06525a49522804f954599529cae911819382e045632"
+hash = "f71245c4f8e19ba6d00e1b46f3af9b6129c08fc156727d1546017a608475a6b3"
 metafile = true
 
 [[files]]
@@ -654,6 +666,16 @@ hash = "9bd0afa05d16ed2f0ab2f96e74584cd5c620d4c44515cab729f1579209477d63"
 metafile = true
 
 [[files]]
+file = "mods/both/botania.toml"
+hash = "721d9005ee7bfe8dde2afbb06fd9b215926666058539161e9f62fd2e3aa28f34"
+metafile = true
+
+[[files]]
+file = "mods/both/bounding-box-outline-reloaded.toml"
+hash = "e6705993155e136a7168ec6a8d2f0a5a398353b55699d6ff26c601584485b0a9"
+metafile = true
+
+[[files]]
 file = "mods/both/caelus-fabric.toml"
 hash = "8d5a6e4731b57dfd9f909852e4eb411bf10dab308cc40138a6f355393426fb35"
 metafile = true
@@ -685,7 +707,7 @@ metafile = true
 
 [[files]]
 file = "mods/both/conjuring.toml"
-hash = "8eb16c2ebc7bc5c4525a7bf05f3d9e77536fd54bb67f4a5f0c6adb6354f92c48"
+hash = "739d0373c637dd40005b1ed9c24b2628e6349280a1e2197bd179778f6a8b4508"
 metafile = true
 
 [[files]]
@@ -715,7 +737,7 @@ metafile = true
 
 [[files]]
 file = "mods/both/draylars-battle-towers.toml"
-hash = "5ecf721e5f5b545b35ec9f15798dbf6b1b652a9e8e0e955f82a25e4081e19d94"
+hash = "84494f2fa1a85e0bf3f3cb6ef520102032962ccb5881bb65fb80312a3ece1127"
 metafile = true
 
 [[files]]
@@ -750,7 +772,7 @@ metafile = true
 
 [[files]]
 file = "mods/both/fabric-api.toml"
-hash = "7f65a6dbcc09b34a6ab6ff47bb64fd17e08c13040a1e959fa46f07b44f072971"
+hash = "4657ff8d8054600aeb7f46acd381d23b7b649b0cd09288a83729c83b6ee5e437"
 metafile = true
 
 [[files]]
@@ -890,7 +912,7 @@ metafile = true
 
 [[files]]
 file = "mods/both/kubejs-fabric.toml"
-hash = "66dcbb924315ab668aea4feb107f1e3360185a7c13159e44b5894071c4486cb2"
+hash = "b795dd84ba648710778ae299ee3b8b650eb66d628aeaf480a7035c336808c88a"
 metafile = true
 
 [[files]]
@@ -920,7 +942,7 @@ metafile = true
 
 [[files]]
 file = "mods/both/mcda.toml"
-hash = "d56c30a970f2165579b82652a92c602d371e2c80eb0d8c023b90bb22a58798ff"
+hash = "fc3f2cf5743bf7f186139d8beff83b203889e58b2d6c93b83af8503c23f84897"
 metafile = true
 
 [[files]]
@@ -969,13 +991,13 @@ hash = "c278f5b69a9dfdcf5805dd444c42c1d45c07c743501ec975ff86b51e3a4890af"
 metafile = true
 
 [[files]]
-file = "mods/both/optional/bounding-box-outline-reloaded.toml"
-hash = "ce26476ccf77f224ed0f8d5d4dfec2fe5d23875153e4a24cd01ca3f263e973a9"
+file = "mods/both/outvoted.toml"
+hash = "fed3856874099ec4347cca3a38e9ecdce967b782acffb894feb97e8e895744d0"
 metafile = true
 
 [[files]]
-file = "mods/both/outvoted.toml"
-hash = "fed3856874099ec4347cca3a38e9ecdce967b782acffb894feb97e8e895744d0"
+file = "mods/both/owo-lib.toml"
+hash = "35e3e994097f193c3a534f900457da6dcbfad7fced6943be59d563c34917309a"
 metafile = true
 
 [[files]]
@@ -991,6 +1013,16 @@ metafile = true
 [[files]]
 file = "mods/both/polymorph-fabric.toml"
 hash = "7e06ea59bf48123a3cc5f9f27039d04af2ba3975ac841d3184224933e8ac386e"
+metafile = true
+
+[[files]]
+file = "mods/both/quick-shulker.toml"
+hash = "bfaeefa4aff08cea8603feaf460f6aa793dbed2c8b9a2e4dc6638270d8ccc356"
+metafile = true
+
+[[files]]
+file = "mods/both/recipe-cache.toml"
+hash = "fba714ccd11d409709f75a3091475f3564687048c1499f93cf4ba26c660080b8"
 metafile = true
 
 [[files]]
@@ -1035,7 +1067,7 @@ metafile = true
 
 [[files]]
 file = "mods/both/slotlink.toml"
-hash = "898265ebe5050db43fc9368773602b739728b2e0454b514acfc90de5a2b79fb1"
+hash = "414dcb259e21a8f1b6efc9f72799d3cc293aba00cbec458276ba2f99b91f8041"
 metafile = true
 
 [[files]]
@@ -1079,6 +1111,11 @@ hash = "c82cb0ab2e37f3998e225b55211d1ce27ec91ef3b792f9758579c4673656d57a"
 metafile = true
 
 [[files]]
+file = "mods/both/trinket-shulker-boxes-fabric.toml"
+hash = "b29b680d16c12d4f5f072573a352101a82caf47f170a81168c61dfa7087d3cde"
+metafile = true
+
+[[files]]
 file = "mods/both/trinkets-fabric.toml"
 hash = "c9168a222f6ee12e5bd608fbf330794535bfb6219962f19fdf96fecc97543819"
 metafile = true
@@ -1091,6 +1128,11 @@ metafile = true
 [[files]]
 file = "mods/both/upgraded-ender-chests.toml"
 hash = "c6a65474329a9c2aadd3bdd68d33a4faf4c6fad0188c2726a4edaf217edca810"
+metafile = true
+
+[[files]]
+file = "mods/both/upgraded-shulkers.toml"
+hash = "9d3012588c9c703836395250f15a01a0bb133b4715af30f1843bdfd836a84161"
 metafile = true
 
 [[files]]
@@ -1165,7 +1207,7 @@ metafile = true
 
 [[files]]
 file = "mods/client/better-sodium-video-settings-button.toml"
-hash = "8caeaea824f631e2b25ed340096c91ba2db99f3311025a7c745ecfc411e76a11"
+hash = "be999c4ee557e4b81d9fe56869c0123059ef10b43ea1a0bf9ff4422f31f3c2a8"
 metafile = true
 
 [[files]]
@@ -1185,7 +1227,7 @@ metafile = true
 
 [[files]]
 file = "mods/client/chat-heads.toml"
-hash = "ca5aae3977f359cc37ca72f93016efef741c0dba5cf08e27512e2e09e9510f16"
+hash = "2987d3381b26ba94b618236f9d5d81faf158b32e78d9ae43007c91b3a39f72a3"
 metafile = true
 
 [[files]]
@@ -1259,6 +1301,11 @@ hash = "e537d3642f3647a228821bfb1dce025aed04516b4bb5cf0712faedf03fe33b63"
 metafile = true
 
 [[files]]
+file = "mods/client/inventory-profiles-next.toml"
+hash = "29e9ad206e6489d6af2cf7900ce8d0908ee31687c23c03ae26409d79509653c3"
+metafile = true
+
+[[files]]
 file = "mods/client/invmove-fabric.toml"
 hash = "b7e6a354ecba299c73f88c6c9ea224b5c8673d23df5e36e45f242ef4ffb2b957"
 metafile = true
@@ -1276,6 +1323,11 @@ metafile = true
 [[files]]
 file = "mods/client/light-overlay.toml"
 hash = "30535de6b27edee888f404a58cd7a7e1f7370cc623424a18163645c5b56b57b9"
+metafile = true
+
+[[files]]
+file = "mods/client/minemenufabric.toml"
+hash = "b9fd01f523efb2a764324af6f4535348336d64ad7ce2d1f2d360bfc290bb52ba"
 metafile = true
 
 [[files]]
@@ -1306,11 +1358,6 @@ metafile = true
 [[files]]
 file = "mods/client/open-loader.toml"
 hash = "196ccd208918512e1024eac7399701a3d579423e41c68ccea84a0cd9c883006e"
-metafile = true
-
-[[files]]
-file = "mods/client/optional/item-counts-fabric.toml"
-hash = "12bb76565b3b04739127a7a2cf02385d1f83e5695df4377138e37735df3e74b1"
 metafile = true
 
 [[files]]
@@ -1365,7 +1412,7 @@ metafile = true
 
 [[files]]
 file = "mods/client/tooltipfix.toml"
-hash = "2a57ec7d7574baeab1629ea37b72a7902b4ad24a227b7bd50be5e4fcfeb33e7e"
+hash = "dccbe5c9db63d23e8188096793c73a138e1174f103b76ad38ec4c55fd915bbed"
 metafile = true
 
 [[files]]
@@ -1390,7 +1437,7 @@ metafile = true
 
 [[files]]
 file = "mods/client/yosbr.toml"
-hash = "1c5105cccf619487fd115208e020ffaa9f7adbb98a534904bcb779f325be24a1"
+hash = "ad65bf42c84adb1c61ca3875a7a615c5ea4037fb3ee7b51104e953eefe23bd77"
 metafile = true
 
 [[files]]
@@ -1466,6 +1513,11 @@ metafile = true
 [[files]]
 file = "mods/server/collective-fabric.toml"
 hash = "aa9928876994a885961af3c113886addfac27e43d98aab60c36669cc2ad68286"
+metafile = true
+
+[[files]]
+file = "mods/server/compact-help-command-fabric.toml"
+hash = "e0ddb2b1ea320eb6f2a13dac3006a2252a1755aa2ce007617c4ae0895fc92307"
 metafile = true
 
 [[files]]
@@ -1554,6 +1606,16 @@ hash = "d581cca5293ca81c3fdeac13aa6d66665322295f803900082f3476f87b1395ef"
 metafile = true
 
 [[files]]
+file = "mods/server/hat-command.toml"
+hash = "58667d423460077cdd347974a232134673e8625a6f5939a797501125bdc64f8f"
+metafile = true
+
+[[files]]
+file = "mods/server/headindex.toml"
+hash = "e0036267b478b5e496b74dd094de26c13983b8e0de7d7c28065cbe3eaac94c7a"
+metafile = true
+
+[[files]]
 file = "mods/server/image2map.toml"
 hash = "6e049ca413827e4438c363c33f5fda269110d1674c32cae41be07897072063bf"
 metafile = true
@@ -1561,6 +1623,11 @@ metafile = true
 [[files]]
 file = "mods/server/invview.toml"
 hash = "a3e791b5a653a434591aec5b7adee90ff59cd9a4f408a09035438fdec8431c2f"
+metafile = true
+
+[[files]]
+file = "mods/server/keepheadnames.toml"
+hash = "3dd051c3cf9363b086a2e547c4a2f3df9707c4f942c4503e677e777d5516e5bc"
 metafile = true
 
 [[files]]
@@ -1609,6 +1676,11 @@ hash = "64fefe4d564c901cd17415e4337ab4984fa4a806f11e769c538fb522b1a228c1"
 metafile = true
 
 [[files]]
+file = "mods/server/player-roles-fabric.toml"
+hash = "5ae35ca4958d7e575a8e033e4e919384878200eded77223b5ef970b8d2995613"
+metafile = true
+
+[[files]]
 file = "mods/server/playerpig.toml"
 hash = "bf3c228fdb5a0004327621f4909ef263a023a3de898ebd8a5a34bf632dce7b56"
 metafile = true
@@ -1630,7 +1702,7 @@ metafile = true
 
 [[files]]
 file = "mods/server/repurposed-structures-fabric.toml"
-hash = "d4a1a6359b73352cde367119a3f39df3080fc144e347dca23c877dd8817ccc28"
+hash = "a7a3c1cbe25f442a505bc142da44e3fd2b709a421d61bd9585e74cbb341f1c68"
 metafile = true
 
 [[files]]
@@ -1737,6 +1809,14 @@ metafile = true
 file = "mods/server/yungs-better-strongholds-fabric.toml"
 hash = "464aef08e9c71b287abf828565d43fd1a12304543f68b4f5b426781ad2807563"
 metafile = true
+
+[[files]]
+file = "resourcepacks/VanillaTweaks_Hercios.zip"
+hash = "4f22e097c27d1a53adf15c9a1d50d27e6d4815ca4d71f5d0efeb17b273fb8408"
+
+[[files]]
+file = "resourcepacks/betterminecraft.zip"
+hash = "c0606365179c4f98c59971c85e231de545dc920d5666cb0b6ba4506ae92962c5"
 
 [[files]]
 file = "resources/menu/bedrock.png"

@@ -1,0 +1,14 @@
+name = "Trinket Shulker Boxes (Fabric)"
+filename = "../trinketshulkerboxes-fabric-2.0.0-1.17.jar"
+side = "both"
+
+[download]
+url = "https://edge.forgecdn.net/files/3344/483/trinketshulkerboxes-fabric-2.0.0-1.17.jar"
+hash-format = "murmur2"
+hash = "347403819"
+
+[update]
+[update.curseforge]
+file-id = 3344483
+project-id = 395570
+release-channel = "beta"

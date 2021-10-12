@@ -87,7 +87,7 @@
 #Husks spawn anywhere within their biome and have a chance to drop sand.
 "HuskImprovements Enabled" = true
 #Button to automatically tidy inventories.
-"InventoryTidying Enabled" = true
+"InventoryTidying Enabled" = false
 #A functional block that speeds up cooking of clay, glass, bricks and terracotta.
 "Kilns Enabled" = true
 #Drop an item onto a lava bucket item to destroy it.

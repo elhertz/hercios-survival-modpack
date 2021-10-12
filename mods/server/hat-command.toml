@@ -1,0 +1,13 @@
+name = "Hat command"
+filename = "../hat-command-1.0.0.jar"
+side = "server"
+
+[download]
+url = "https://edge.forgecdn.net/files/3481/497/hat-command-1.0.0.jar"
+hash-format = "murmur2"
+hash = "173662295"
+
+[update]
+[update.curseforge]
+file-id = 3481497
+project-id = 533947

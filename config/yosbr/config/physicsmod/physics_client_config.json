@@ -15,6 +15,7 @@
   "physicsModCape": false,
   "selectedPhysicsCape": "Physics Mod Cape.dae",
   "showUpdateNotifications": false,
+  "clothThreads": 1,
   "customizedGravities": [
     "voidz:void",
     0.0,

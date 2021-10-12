@@ -1,0 +1,8 @@
+name = "botania"
+filename = "../Botania-1.17.1-420-FABRIC-SNAPSHOT.jar"
+side = "both"
+
+[download]
+url = "https://www.dropbox.com/s/h60km5s9cgzd4q4/Botania-1.17.1-420-FABRIC-SNAPSHOT.jar?dl=1"
+hash-format = "sha512"
+hash = "86c89c9d69eecd4395d11f8835d21798478e9c9ed8c9cecf43994b655422be0ab340c58161e1f84c1c5d51e98f380984c6d68858493372daa0a994cf127bd567"

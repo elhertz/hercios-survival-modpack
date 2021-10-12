@@ -1,0 +1,13 @@
+{
+  "// Whether to allow players to have capes. WARNING! This will toggle ALL capes!": "(default: true)",
+  "allow_capes": false,
+  "// Default skin for new players. Use command `/fabrictailor setDefaultSkin` to set those values.": "",
+  "default_skin": {
+    "// Whether to apply the default skin to ALL new players, not just those without skin.": "(default: false)",
+    "apply_to_all": false,
+    "value": "ewogICJ0aW1lc3RhbXAiIDogMTYzMTY0NDM2Nzk4OCwKICAicHJvZmlsZUlkIiA6ICJkMWY2OTc0YzE2ZmI0ZjdhYjI1NjU4NzExNjM3M2U2NSIsCiAgInByb2ZpbGVOYW1lIiA6ICJGaW9saWVzdGEiLAogICJzaWduYXR1cmVSZXF1aXJlZCIgOiB0cnVlLAogICJ0ZXh0dXJlcyIgOiB7CiAgICAiU0tJTiIgOiB7CiAgICAgICJ1cmwiIDogImh0dHA6Ly90ZXh0dXJlcy5taW5lY3JhZnQubmV0L3RleHR1cmUvNjNlYTA5MGQzNzcyNDA2N2I5NjQxZjEwZWQ0NTdiM2YyYTdmNjRmMWY0OWFkMjQ1YTc2NWNmM2VlNGVmY2RlNyIKICAgIH0KICB9Cn0=",
+    "signature": "gjmcEjpjKK2FyFC3UAzyXh8iYQtBD9g22yV3zwMu4rXJtqy2Qsj08lC+TvMgXliIQLx/WI05h8pYQhacasWantKFT0MceH+j/EHjkBg3lTVBTZ1x/5VwSrRGxlOC7I6jxP//yQe3xkAUqnqWv7/X1YI+0GSv5aPWqDu7oV75qdxFUxEN/qzJtFeKiI7kJMWtgM19YOJMNfsNuR3INSqKaq6PjSTQ4ULgOP64V1VXjOdsuedPKju5vx7GoXs7/TYOgSOX8oPnEzGK0CDOqtRkB/4XrdovVjpQgP289wuJTgj4NjmE/mXxGtFJydDz8CybfNOWxTVKA1T9ae/w8/HneMDqx5+vRXZT37c/8hIELOrEc+whc/e1DxGEFMCIsEIFK0/TkYeZeLgzhP3ZetQw+GtEfn0x6x9o9/94emCWRzyLTSSZdrvgyvFMp/SL7XGGtqEV2ncbFQ9Y6AJqJuIa5Kgn1HLbiPFJtgG8KBfzGpTqgMi9QYeNfIjtY0O79y9mwnJBeV0JtCul5L46RHtampOKvbSma8xvW4XF4R+GoBK0qeBC9jhp2UEwU+pFg7WOl/hEvLn7jOa4syUCFSvr0gHBExZt1uMMMdmArA+AN/bLls4yluE4TARg9s6GNI9Wqni3rdBghtOrr4T+J+rRy2mzGkF2+frkZQZkvvHSczs="
+  },
+  "// How quickly can player change the skin, in seconds. -1 for no limit. If using this in server environment, -1 is not recommended.": "(default in singleplayer: -1, default for server: 60)",
+  "skin_change_timer": 30
+}

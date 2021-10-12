@@ -1,0 +1,13 @@
+name = "Compact Help Command (Fabric)"
+filename = "../compacthelpcommand-fabric_1.17.x-1.1.jar"
+side = "server"
+
+[download]
+url = "https://edge.forgecdn.net/files/3472/303/compacthelpcommand-fabric_1.17.x-1.1.jar"
+hash-format = "murmur2"
+hash = "32889947"
+
+[update]
+[update.curseforge]
+file-id = 3472303
+project-id = 531291

@@ -90,7 +90,7 @@
 		"enchantment.minecraft.flame.desc": "Las flechas encienden fuego a enemigos.",
 		"enchantment.extra_enchants.core_of_neptune.desc": "Recibe el poder del dios del océano. Pero te vuelves débil en tierra.",
 		"enchantment.minecraft.loyalty.desc": "Los tridentes regresan al ser lanzados.",
-		"enchantment.soulbound.soulbound.desc": "No perderás el ítem al morir.",
+		"enchantment.soulbound.soulbound.desc": "No perderás el ítem al morir. 10% de probabilidad de que el encantamiento desaparezca después de usarse.",
 		"enchantment.minecraft.looting.desc": "Aumenta el botín de las criaturas.",
 		"enchantment.fabricenchantments.rise.desc": "Los enemigos flotan por un momento al ser golpeados.",
 		"enchantment.gofish.deepfry.desc": "Los peces serán cocidos al pescar."

@@ -1,0 +1,120 @@
+{
+  "minemenuData": {
+    "0": {
+      "name": "Abrir Mapa en el Navegador",
+      "icon": {
+        "iconItem": "minecraft:map",
+        "enchanted": false,
+        "skullOwner": "",
+        "customModelData": 0
+      },
+      "type": "link",
+      "data": "mapa.hertz.rocks"
+    },
+    "1": {
+      "name": "Abrir Wiki en el Navegador",
+      "icon": {
+        "iconItem": "minecraft:book",
+        "enchanted": false,
+        "skullOwner": "",
+        "customModelData": 0
+      },
+      "type": "link",
+      "data": "https://hertz.rocks/wiki"
+    },
+    "2": {
+      "name": "Abrir Menú de Chat de Voz",
+      "icon": {
+        "iconItem": "minecraft:redstone_torch",
+        "enchanted": false,
+        "skullOwner": "",
+        "customModelData": 0
+      },
+      "type": "keyselect",
+      "data": {
+        "key": "key.voice_chat",
+        "releaseDelay": 25001
+      }
+    },
+    "3": {
+      "name": "Cambiar Skin",
+      "icon": {
+        "iconItem": "minecraft:player_head",
+        "enchanted": false,
+        "skullOwner": "",
+        "customModelData": 0
+      },
+      "type": "keyselect",
+      "data": {
+        "key": "key.fabrictailor.toggle_skin_gui",
+        "releaseDelay": 25001
+      }
+    },
+    "4": {
+      "name": "Abrir Rueda de Emotes",
+      "icon": {
+        "iconItem": "hplus:upgrade_speed",
+        "enchanted": false,
+        "skullOwner": "",
+        "customModelData": 0
+      },
+      "type": "keyselect",
+      "data": {
+        "key": "key.emotecraft.fastchoose",
+        "releaseDelay": 25001
+      }
+    },
+    "5": {
+      "name": "Menú de Claim",
+      "icon": {
+        "iconItem": "minecraft:golden_hoe",
+        "enchanted": false,
+        "skullOwner": "",
+        "customModelData": 0
+      },
+      "type": "print",
+      "data": "/flan menu"
+    },
+    "6": {
+      "name": "Menú de Niveles",
+      "icon": {
+        "iconItem": "minecraft:experience_bottle",
+        "enchanted": false,
+        "skullOwner": "",
+        "customModelData": 0
+      },
+      "type": "keyselect",
+      "data": {
+        "key": "key.playerex.attributes_screen",
+        "releaseDelay": 25001
+      }
+    },
+    "7": {
+      "name": "Crear Marcador en el Mapa",
+      "icon": {
+        "iconItem": "minecraft:purple_banner",
+        "enchanted": false,
+        "skullOwner": "",
+        "customModelData": 0
+      },
+      "type": "keyselect",
+      "data": {
+        "key": "gui.xaero_new_waypoint",
+        "releaseDelay": 25001
+      }
+    }
+  },
+  "menuEntries": 8,
+  "outerRadius": 75,
+  "innerRadius": 25,
+  "primaryColor": "#92278FD0",
+  "secondaryColor": "#212121D0",
+  "emptyItemIcon": "minecraft:air",
+  "multiPrintSeparator": ";",
+  "multiPrintDelay": 10,
+  "showTips": true,
+  "repeatButton": true,
+  "inScreenWalk": false,
+  "resetHeadCache": false,
+  "resetConfig": false
+}

@@ -9,7 +9,7 @@
   },
   "particle_settings": {
     "particles": true,
-    "rain_splash": false,
+    "rain_splash": true,
     "explosion": true,
     "water": true,
     "smoke": true,
@@ -42,7 +42,6 @@
     "reduce_resolution_on_mac": true,
     "cloud_height": 128,
     "toasts": false,
-    "static_fov": false,
     "instant_sneak": false,
     "prevent_shaders": false,
     "use_fast_random": true

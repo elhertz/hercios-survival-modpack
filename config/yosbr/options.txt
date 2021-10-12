@@ -21,20 +21,20 @@ toggleSprint:false
 darkMojangStudiosBackground:false
 mouseSensitivity:0.5
 fov:0.0
-screenEffectScale:1.0
+screenEffectScale:0.60915494
 fovEffectScale:1.0
 gamma:1.0
 renderDistance:10
 entityDistanceScaling:1.0
-guiScale:0
+guiScale:2
 particles:1
 maxFps:120
 difficulty:2
-graphicsMode:0
+graphicsMode:1
 ao:2
-biomeBlendRadius:2
+biomeBlendRadius:1
 renderClouds:false
-resourcePacks:["vanilla","charmonium/journeyman","kubejs:resource_pack","Fabric Mods","file/betterminecraft.zip","openloader/resources/hercios.zip"]
+resourcePacks:["kubejs:resource_pack","bbor","vanilla","charmonium/journeyman","Fabric Mods","file/VanillaTweaks_Hercios.zip","file/betterminecraft.zip","openloader/resources/hercios.zip"]
 incompatibleResourcePacks:["kubejs:resource_pack"]
 lastServer:
 lang:en_us
@@ -44,7 +44,7 @@ chatLineSpacing:0.0
 textBackgroundOpacity:0.5
 backgroundForChatOnly:true
 hideServerAddress:false
-advancedItemTooltips:false
+advancedItemTooltips:true
 pauseOnLostFocus:true
 overrideWidth:0
 overrideHeight:0
@@ -103,15 +103,18 @@ key_key.hotbar.7:key.keyboard.7
 key_key.hotbar.8:key.keyboard.8
 key_key.hotbar.9:key.keyboard.9
 key_bbor.key.toggleActive:key.keyboard.f4
+key_key.ninjaphenix_container_lib.config:key.keyboard.unknown
 key_key.dynamicfps.toggle_forced:key.keyboard.unknown
 key_key.dynamicfps.toggle_disabled:key.keyboard.unknown
 key_key.emotecraft.fastchoose:key.keyboard.b
 key_key.emotecraft.stop:key.keyboard.unknown
 key_[Fabrication] Crawl:key.keyboard.c
-key_key.expandedstorage.config:key.keyboard.w
+key_Reload Menu | CTRL + ALT + :key.keyboard.o
+key_Toggle Customization Overlay | CTRL + ALT + :key.keyboard.comma
 key_key.adventurez.activatearmor:key.keyboard.v
 key_key.adventurez.dragonflydown:key.keyboard.grave.accent
 key_key.adventurez.dragonfirebreath:key.keyboard.grave.accent
+key_key.botania_corporea_request:key.keyboard.j
 key_key.amecs.toggle_auto_jump:key.keyboard.unknown
 key_key.amecs.toggle_cape:key.keyboard.unknown
 key_key.amecs.toggle_jacket:key.keyboard.unknown
@@ -122,14 +125,16 @@ key_key.amecs.toggle_right_pants_leg:key.keyboard.unknown
 key_key.amecs.toggle_hat:key.keyboard.unknown
 key_key.conjuring.toggle_tool_mode:key.mouse.middle
 key_key.push_to_talk:key.keyboard.caps.lock
-key_key.mute_microphone:key.keyboard.c
+key_key.mute_microphone:key.keyboard.m
 key_key.disable_voice_chat:key.keyboard.unknown
 key_key.hide_icons:key.keyboard.unknown
 key_key.voice_chat:key.keyboard.f6
 key_key.voice_chat_settings:key.keyboard.unknown
-key_key.voice_chat_group:key.keyboard.v
+key_key.voice_chat_group:key.keyboard.g
 key_key.voice_chat_toggle_recording:key.keyboard.unknown
 key_key.wildfire_gender.gender_menu:key.keyboard.g
+key_minemenu.key.open:key.keyboard.r
+key_key.stockpile.barrel_hat:key.keyboard.f
 key_key.fabrictailor.toggle_skin_gui:key.keyboard.k
 key_key.backslot.switch_backslot:key.keyboard.g
 key_key.backslot.switch_beltslot:key.keyboard.g
@@ -143,6 +148,7 @@ key_key.waila.show_overlay:key.keyboard.x
 key_key.waila.toggle_liquid:key.keyboard.keypad.2
 key_key.waila.show_recipe_input:key.keyboard.unknown
 key_key.waila.show_recipe_output:key.keyboard.unknown
+key_key.playerex.attributes_screen:key.keyboard.period
 key_key.mousewheelie.open_config_screen:key.keyboard.unknown
 key_key.mousewheelie.sort_inventory:key.keyboard.unknown
 key_key.mousewheelie.scroll_up:amecsapi.key.mouse.scroll.up
@@ -162,27 +168,28 @@ key_gui.xaero_zoom_out:key.keyboard.2
 key_gui.xaero_new_waypoint:key.keyboard.n
 key_gui.xaero_display_all_sets:key.keyboard.unknown
 key_gui.xaero_toggle_light_overlay:key.keyboard.unknown
+key_gui.xaero_toggle_entity_radar:key.keyboard.unknown
 key_gui.xaero_minimap_settings:key.keyboard.y
 key_key.lightoverlay.enable_overlay:key.keyboard.f7
 key_key.extraalchemy.magnetism_toggle:key.keyboard.unknown
 key_key.extraalchemy.potion_bag_mode:key.keyboard.unknown
 key_key.extraalchemy.toggle_extra_inv_rings:key.keyboard.unknown
 key_net.clayborn.accurateblockplacement.togglevanillaplacement:key.keyboard.unknown
+key_key.trinketshulkerboxes.open.desc:key.keyboard.e
 key_key.okzoomer.zoom:key.keyboard.left.alt
 key_key.okzoomer.decrease_zoom:key.keyboard.unknown
 key_key.okzoomer.increase_zoom:key.keyboard.unknown
 key_key.okzoomer.reset_zoom:key.keyboard.unknown
-key_carrier.key:key.keyboard.left.shift
 key_presencefootsteps.settings.key:key.keyboard.f9
-soundCategory_master:1.0
+soundCategory_master:0.6009934
 soundCategory_music:0.0
 soundCategory_record:1.0
-soundCategory_weather:1.0
+soundCategory_weather:0.5
 soundCategory_block:1.0
 soundCategory_hostile:1.0
 soundCategory_neutral:1.0
-soundCategory_player:1.0
-soundCategory_ambient:1.0
+soundCategory_player:0.70422536
+soundCategory_ambient:0.5070422
 soundCategory_voice:1.0
 modelPart_cape:true
 modelPart_jacket:true

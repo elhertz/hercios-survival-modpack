@@ -1,0 +1,13 @@
+name = "MineMenuFabric"
+filename = "../MineMenuFabric-6.0.jar"
+side = "client"
+
+[download]
+url = "https://edge.forgecdn.net/files/3381/354/MineMenuFabric-6.0.jar"
+hash-format = "murmur2"
+hash = "4168676841"
+
+[update]
+[update.curseforge]
+file-id = 3381354
+project-id = 478687
