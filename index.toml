@@ -1010,6 +1010,11 @@ hash = "54a5db0ed6727bab92f0c0a6c0b6bce778f7ffa90657f552814e0a854a26e881"
 metafile = true
 
 [[files]]
+file = "mods/both/player-vehicle-desync-fix.toml"
+hash = "d060222ff3791fe05b1481166dd9a67577baaae6770a58bc22994bfc82801c45"
+metafile = true
+
+[[files]]
 file = "mods/both/playerex.toml"
 hash = "ac372dca66308bce8239e9705ad10c453ad42f887a630bbfd8b54709169c146f"
 metafile = true
@@ -1286,7 +1291,7 @@ metafile = true
 
 [[files]]
 file = "mods/client/fancymenu-fabric.toml"
-hash = "baf28e26fc15b0f26e25f9bf0a9fb6caa95aba5ec45648beb73e7247da5fe0c2"
+hash = "c8247f964831b9acc58c5eb5d8517ac7467b3eb4aa9cd15404d82abc5f7d34d4"
 metafile = true
 
 [[files]]
@@ -1431,7 +1436,7 @@ metafile = true
 
 [[files]]
 file = "mods/client/xaeros-minimap-fair-play-edition.toml"
-hash = "1cd8aca172b09335c57e37e1df86544ada5bbe49de6723db4b8aad753dd9d72e"
+hash = "babd4662cf36b3c693151d012f88d655e83dc88da9520fc3e3e92acfaaae24ef"
 metafile = true
 
 [[files]]
@@ -1672,6 +1677,11 @@ metafile = true
 [[files]]
 file = "mods/server/more-structures-add-on-for-william-wythers.toml"
 hash = "7abcb9b1113ab4e6221bd3e9c3593cfd187a3615c0a4b0a3c65adba8ff38fc7a"
+metafile = true
+
+[[files]]
+file = "mods/server/mtq-fix.toml"
+hash = "9d2349a6f104c28527323cd0523b611742c5fd05c3873dadded9c24d8ff2c8a4"
 metafile = true
 
 [[files]]

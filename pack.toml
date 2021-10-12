@@ -1,11 +1,12 @@
 name = "hercios-modpack"
 author = "hertz"
 version = "1.0"
+pack-format = "packwiz:1.0.0"
 
 [index]
 file = "index.toml"
 hash-format = "sha256"
-hash = "8ca5dd1368808d8d995cce26cdf9927ff3c670bf7a890ba07d1540e418c3c3c6"
+hash = "50f5e13d8b4e98d27ce9b7e21ba4637895e7d3580f1265597d5319c30be5d618"
 
 [versions]
 fabric = "0.11.7"
