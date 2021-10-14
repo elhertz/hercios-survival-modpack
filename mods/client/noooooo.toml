@@ -1,0 +1,13 @@
+name = "Noooooo"
+filename = "../Nooooo.jar"
+side = "client"
+
+[download]
+url = "https://edge.forgecdn.net/files/3490/418/Nooooo.jar"
+hash-format = "murmur2"
+hash = "2669544297"
+
+[update]
+[update.curseforge]
+file-id = 3490418
+project-id = 536629

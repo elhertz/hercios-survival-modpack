@@ -18,7 +18,7 @@ hash = "70aefe0b9471c924782bdd67eb880f7a724a7da8db67fd100f8046e3d1f06341"
 
 [[files]]
 file = "config/MinemenuFabric/MinemenuFabric.json"
-hash = "84e550f200ad613920aec51dff6b88dead42adb096f383af2d017fd7a65d3f78"
+hash = "c4038561d2d1148e3361793e74f3d852d097839f14425b586f7afe35cba71bd2"
 
 [[files]]
 file = "config/adventurez.json5"
@@ -218,7 +218,7 @@ hash = "399b4aa325ac3f1809b886d2c05714ca356e234d04ff41e4441348bcfff048d3"
 
 [[files]]
 file = "config/openloader/resources/hercios.zip"
-hash = "767e98a5b25e338b27638e6601dc25905ed4d92556ff32ceb9ee481472f7e94e"
+hash = "bad990ebaa77038e75b814307c4bc4ed201f513ff37c0e1a401a68bf137d02e2"
 
 [[files]]
 file = "config/playerex.json"
@@ -255,10 +255,6 @@ hash = "d3f808c5667b43a4f069b2645a5ae80f71bfafae00fecec00777fadfcb359dd9"
 [[files]]
 file = "config/simple-rpc.toml"
 hash = "81e2514988e2e0a10db5537fa5fad0bbf49a6a85de221b863f75c5fe605c525e"
-
-[[files]]
-file = "config/skinlayers.json"
-hash = "3b78a0eda3d5e1a40fdc71b49d4e6478a5d73205c7bac3af72092988fc5001ac"
 
 [[files]]
 file = "config/spellbound.json"
@@ -606,7 +602,7 @@ metafile = true
 
 [[files]]
 file = "mods/both/architectury-fabric.toml"
-hash = "f71245c4f8e19ba6d00e1b46f3af9b6129c08fc156727d1546017a608475a6b3"
+hash = "7b4965f39d9c1a63546f2f8c1e5da6b24e889f7303a8c465c14a1c49ebf7e51e"
 metafile = true
 
 [[files]]
@@ -711,7 +707,7 @@ metafile = true
 
 [[files]]
 file = "mods/both/conjuring.toml"
-hash = "7334364ab53cf52c1039a61fc548a9973ad80d79d0a66447c1fd78c0f70749b1"
+hash = "ff8a3291dd9df512e5ad2df0d4da1c0c03aaf81a2fec08b9ccbe18530d6dbbc1"
 metafile = true
 
 [[files]]
@@ -766,7 +762,7 @@ metafile = true
 
 [[files]]
 file = "mods/both/expanded-storage-fabric.toml"
-hash = "23b59881d926d2cb1c32d8cbbeb6508a34cde0dc2fb0b8e6077ad2f0af8c1f51"
+hash = "6491285df07f05100d2885a5d5c07b3cc4cc85aaf80ef238f523f121f6fdc290"
 metafile = true
 
 [[files]]
@@ -836,7 +832,7 @@ metafile = true
 
 [[files]]
 file = "mods/both/geckolib.toml"
-hash = "b2813fc5e2a7c43d2031457260871d74041aa42e07c3f8d60b9d6a138406c5ba"
+hash = "5886811f4855e183d163ee7a310551682a7dde5b4123000f3841bda479041ecb"
 metafile = true
 
 [[files]]
@@ -981,7 +977,7 @@ metafile = true
 
 [[files]]
 file = "mods/both/ninjaphenixs-container-library.toml"
-hash = "72e654cd0965796105dbb0a8c25cb0e84b08aaad113909473662d51cbd04cd64"
+hash = "49a8a0eb2a81a58c1d6310b757fe529649dd1320ddecc04d4325c3464de83474"
 metafile = true
 
 [[files]]
@@ -1011,7 +1007,7 @@ metafile = true
 
 [[files]]
 file = "mods/both/player-vehicle-desync-fix.toml"
-hash = "d060222ff3791fe05b1481166dd9a67577baaae6770a58bc22994bfc82801c45"
+hash = "8ef444ef05011db1df4147d4fea76c3cb6c0945c363989a1c289585e903cf9c8"
 metafile = true
 
 [[files]]
@@ -1051,7 +1047,7 @@ metafile = true
 
 [[files]]
 file = "mods/both/roughly-enough-items.toml"
-hash = "c9e455a68f216522f2281cbc967952e2857dde9d407dc596f36ea74f12fdf11b"
+hash = "7e9c8a4ff9b15d52b792cd114760a10044cd671f20d436553c1aee6ce23270b8"
 metafile = true
 
 [[files]]
@@ -1316,7 +1312,7 @@ metafile = true
 
 [[files]]
 file = "mods/client/inventory-profiles-next.toml"
-hash = "29e9ad206e6489d6af2cf7900ce8d0908ee31687c23c03ae26409d79509653c3"
+hash = "fe22974639c5c440b43a16d8579234b43f0e5b88fb7b61407c2ae77178967c31"
 metafile = true
 
 [[files]]
@@ -1357,6 +1353,11 @@ metafile = true
 [[files]]
 file = "mods/client/narrator-off.toml"
 hash = "2fa957f7b609ac0b2657de388e2815272c7f715ac59db9489f29ddcada40dd01"
+metafile = true
+
+[[files]]
+file = "mods/client/noooooo.toml"
+hash = "eeb4c9d428e0f8d06439be0999507a153fd82885981e2540956592be6ce2e8a2"
 metafile = true
 
 [[files]]
@@ -1506,17 +1507,12 @@ metafile = true
 
 [[files]]
 file = "mods/server/carpet.toml"
-hash = "95c52efc8c0fc00b5ad22ee48e648dcf4d29e319129b1b5a8b0f1897d239fbe8"
+hash = "c048173f5ae0047188ac470ca5afcf50c1cb066b3c3894ad9c3581ee653b97bc"
 metafile = true
 
 [[files]]
 file = "mods/server/cave-biomes.toml"
 hash = "62f46a3560c649560898e7e270781708f12c1eb9a20431669578b60b7756f4aa"
-metafile = true
-
-[[files]]
-file = "mods/server/caves-and-cliffs-add-on-for-william-wythers.toml"
-hash = "bb20c26ec54c64123219d6aab830946c3576a92b25c62621f542921696d56708"
 metafile = true
 
 [[files]]
@@ -1621,7 +1617,7 @@ metafile = true
 
 [[files]]
 file = "mods/server/hat-command.toml"
-hash = "58667d423460077cdd347974a232134673e8625a6f5939a797501125bdc64f8f"
+hash = "203b9f478871b467a18a531fc9e7067fec340fcefd4ccaf3bf246e8b8226e9c6"
 metafile = true
 
 [[files]]
@@ -1675,13 +1671,8 @@ hash = "2dc5ce89a931a4a2b12c4e10a7318e172ea1f8d89dc8de2e4e9bc90fa77a6d6e"
 metafile = true
 
 [[files]]
-file = "mods/server/more-structures-add-on-for-william-wythers.toml"
-hash = "7abcb9b1113ab4e6221bd3e9c3593cfd187a3615c0a4b0a3c65adba8ff38fc7a"
-metafile = true
-
-[[files]]
 file = "mods/server/mtq-fix.toml"
-hash = "9d2349a6f104c28527323cd0523b611742c5fd05c3873dadded9c24d8ff2c8a4"
+hash = "6b8137c33373596cc28bb4d91b3c7285c3ff5c2850c091c3293223e82584fd15"
 metafile = true
 
 [[files]]
@@ -1702,11 +1693,6 @@ metafile = true
 [[files]]
 file = "mods/server/playerpig.toml"
 hash = "bf3c228fdb5a0004327621f4909ef263a023a3de898ebd8a5a34bf632dce7b56"
-metafile = true
-
-[[files]]
-file = "mods/server/primordial-shores-add-on-for-william-wythers.toml"
-hash = "8c828330437e7c80ab7cc2e664aba929ba0a2d55504af1e661f34208f18a05a2"
 metafile = true
 
 [[files]]
@@ -1792,11 +1778,6 @@ metafile = true
 [[files]]
 file = "mods/server/universal-graves.toml"
 hash = "a9fce6f8053e7603e939c556b61ff53cc20497815bdf664830345cab8e8ce09a"
-metafile = true
-
-[[files]]
-file = "mods/server/william-wythers-overhauled-overworld.toml"
-hash = "c74da19bf35f579e3ede11e53ae4bd47f485d557ef45e1f77db79f717663d617"
 metafile = true
 
 [[files]]

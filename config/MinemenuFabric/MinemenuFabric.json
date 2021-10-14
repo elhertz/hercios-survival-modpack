@@ -76,7 +76,7 @@
       "data": "/flan menu"
     },
     "6": {
-      "name": "Menú de Niveles",
+      "name": "Menú de Atributos",
       "icon": {
         "iconItem": "minecraft:experience_bottle",
         "enchanted": false,
