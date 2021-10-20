@@ -1466,6 +1466,11 @@ hash = "5312ff75d3c2ddb79457f535beabf817b145c2cb0ca87f43f3f7c4eaeb2fc6b2"
 metafile = true
 
 [[files]]
+file = "mods/server/antishulkerdupe.toml"
+hash = "7be17717dd1a32a9de1e421c8cb517eab7eb0b5f10a8de4a337d84b852d13071"
+metafile = true
+
+[[files]]
 file = "mods/server/anvil-format.toml"
 hash = "94ac4751e0fd3405b35e330c01d750df0d186a764619867352cab4489ef9e3f8"
 metafile = true

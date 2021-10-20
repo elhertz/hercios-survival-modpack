@@ -1,0 +1,13 @@
+name = "AntiShulkerDupe"
+filename = "../antishulkerdupe-1.0.0.jar"
+side = "server"
+
+[download]
+url = "https://cdn.modrinth.com/data/t01BRUXb/versions/1.0.0/antishulkerdupe-1.0.0.jar"
+hash-format = "sha512"
+hash = "fbbab040fb5486cfbb97fa044db9e6d723673825479862d6cafc38f470e334ed1d02cf33c2b50b1e31516acbf490f7d616eac1820d4bc622df215bca6a72e75a"
+
+[update]
+[update.modrinth]
+mod-id = "t01BRUXb"
+version = "QTO9GKwy"
