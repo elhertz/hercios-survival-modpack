@@ -11,8 +11,18 @@
 	"rightClickInv": true,
 	// Right Clicking the opened shulker in your inv closes it
 	"rightClickClose": false,
+	// Right Clicking a shulker with an item inserts it
+	"supportsBundlingInsert": false,
+	// Right Clicking an item with a shulker inserts it
+	"supportsBundlingPickup": false,
+	// Right Clicking an empty slot with a shulker extracts an item
+	"supportsBundlingExtract": false,
+	// Enable opening Shulker Boxes
+	"quickShulkerBox": true,
 	// Enable opening Crafting Tables
 	"quickCraftingTables": false,
 	// Enable opening Stonecutter
-	"quickStonecutter": false
+	"quickStonecutter": false,
+	// Enable opening EnderChest
+	"quickEChest": false
 }

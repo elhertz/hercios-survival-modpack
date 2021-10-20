@@ -226,7 +226,7 @@ hash = "cbcb368ecdf102a6d1c334ad73e6ff64d5ec9e9d0b542a1512b3aa82b17e1548"
 
 [[files]]
 file = "config/quickshulkerconfig.json5"
-hash = "d6d6abb4f9b161ab8463a6a4e21821be404586df18165a7ab4b176ef2361b0db"
+hash = "a88ccc636127a14688672c2758467b18f74c295b86c014c393c5f1a064996021"
 
 [[files]]
 file = "config/redbits.json"
@@ -398,7 +398,7 @@ hash = "514a1d8b96f6bfdd69599c195c90e7991a73faedaab25ee82e7f049fd8dad9e6"
 
 [[files]]
 file = "config/yosbr/config/xaeroworldmap.txt"
-hash = "bff569bcbfe00f58f6794caa82b909e82b8624b53f9df363f9781334bb3df75b"
+hash = "3cba7ebb49b6bcba4651bcd3706c23b18c37d0d8996bbcb9438b9afd68235d26"
 
 [[files]]
 file = "config/yosbr/emotes/Amogus.json"
@@ -577,7 +577,7 @@ metafile = true
 
 [[files]]
 file = "mods/both/adorn.toml"
-hash = "cc958f4b389796477805327375bfce0c3dc4a2624e9e94a71acc1dfdc9aa5a42"
+hash = "98361735a4cdabe79ec03c2f324733edfa80583da6c10e81f20d6751aa010b4c"
 metafile = true
 
 [[files]]
@@ -627,7 +627,7 @@ metafile = true
 
 [[files]]
 file = "mods/both/backslotaddon.toml"
-hash = "65f38d647d0249fd52ddca38e86bbb3b87e0b1f900bb620d24f65416365e5dda"
+hash = "8ea49267cc220027ee1b2d6dc8d2cda08cf155589ca8b25397a2b8630ecd1a36"
 metafile = true
 
 [[files]]
@@ -662,7 +662,7 @@ metafile = true
 
 [[files]]
 file = "mods/both/bosses-of-mass-destruction.toml"
-hash = "9bd0afa05d16ed2f0ab2f96e74584cd5c620d4c44515cab729f1579209477d63"
+hash = "8646f769187131ab98ec3aa5d3b73ca097c124ee19fa9df7f39fd018425b1a40"
 metafile = true
 
 [[files]]
@@ -762,7 +762,7 @@ metafile = true
 
 [[files]]
 file = "mods/both/expanded-storage-fabric.toml"
-hash = "6491285df07f05100d2885a5d5c07b3cc4cc85aaf80ef238f523f121f6fdc290"
+hash = "4aebaa640e24439c2e8cb50cebc4e9d24ea0f2cec5eb16572025bc82d7c634ba"
 metafile = true
 
 [[files]]
@@ -772,7 +772,7 @@ metafile = true
 
 [[files]]
 file = "mods/both/fabric-api.toml"
-hash = "4657ff8d8054600aeb7f46acd381d23b7b649b0cd09288a83729c83b6ee5e437"
+hash = "132e610c7d676fcd3c1d5b1a238da7403214df2e6d56d20631e36619d89a4777"
 metafile = true
 
 [[files]]
@@ -832,7 +832,7 @@ metafile = true
 
 [[files]]
 file = "mods/both/geckolib.toml"
-hash = "5886811f4855e183d163ee7a310551682a7dde5b4123000f3841bda479041ecb"
+hash = "9f063e7b468f36bc5e02e9b9b79620b8732a253b5749963270712d9e91773b33"
 metafile = true
 
 [[files]]
@@ -887,7 +887,7 @@ metafile = true
 
 [[files]]
 file = "mods/both/icarus-fabric.toml"
-hash = "3a79774d26dcc7dc684cc62e9492c42e5ce268abb7eaea13ea2a79888519fe3f"
+hash = "cac2aba015206a386ae33dd68b27cd02cfd0f4d7b22b57d6431987412fa2c25b"
 metafile = true
 
 [[files]]
@@ -902,7 +902,7 @@ metafile = true
 
 [[files]]
 file = "mods/both/kibe.toml"
-hash = "cb5b402ba46628eb7e18aa94c5f0fbe68950351ebff20e77f6f5d774298abaf1"
+hash = "e753f39d27038c0d5fe684f028a3b5731a493c8d07f76d587f02ed1649a2ee5a"
 metafile = true
 
 [[files]]
@@ -952,7 +952,7 @@ metafile = true
 
 [[files]]
 file = "mods/both/more-gems-fabric.toml"
-hash = "2fec54d087b8690c1d21189cf293bea49e654ee8972ceb6384d121da07300757"
+hash = "e813570d94dfcb866c0cc37957ff51dac2a95e3c56e5aeaa59760ebe1d06eb95"
 metafile = true
 
 [[files]]
@@ -977,12 +977,12 @@ metafile = true
 
 [[files]]
 file = "mods/both/ninjaphenixs-container-library.toml"
-hash = "49a8a0eb2a81a58c1d6310b757fe529649dd1320ddecc04d4325c3464de83474"
+hash = "daf5e487275ded908ad9fe02310df936edbef1821e5be15263423ba9f02eaf4c"
 metafile = true
 
 [[files]]
 file = "mods/both/not-enough-crashes.toml"
-hash = "8e4089332348fcadc2195ed375258be702658dd8dc736db7dc3e04ccfbccf667"
+hash = "f15068c73b1070eeec44e5ea182cd192703b7add534462ab7ad957b4e8e008f6"
 metafile = true
 
 [[files]]
@@ -992,7 +992,7 @@ metafile = true
 
 [[files]]
 file = "mods/both/outvoted.toml"
-hash = "fed3856874099ec4347cca3a38e9ecdce967b782acffb894feb97e8e895744d0"
+hash = "afaf5cc626a5208b7699fa6536f45b4cdc902db938ce4fa364b952af7afdd96f"
 metafile = true
 
 [[files]]
@@ -1022,7 +1022,7 @@ metafile = true
 
 [[files]]
 file = "mods/both/quick-shulker.toml"
-hash = "bfaeefa4aff08cea8603feaf460f6aa793dbed2c8b9a2e4dc6638270d8ccc356"
+hash = "1db5ec77561eb9ffd4367ca90ce8e13e0eb19abdaa4697a31ac996609c947931"
 metafile = true
 
 [[files]]
@@ -1047,7 +1047,7 @@ metafile = true
 
 [[files]]
 file = "mods/both/roughly-enough-items.toml"
-hash = "7e9c8a4ff9b15d52b792cd114760a10044cd671f20d436553c1aee6ce23270b8"
+hash = "fd7d2610f6c1ae35aed417c9efaa9d920bb2340f15ee098139894e4e9e7f8e31"
 metafile = true
 
 [[files]]
@@ -1062,7 +1062,7 @@ metafile = true
 
 [[files]]
 file = "mods/both/simple-voice-chat.toml"
-hash = "8fa909377ababdc553f4bc1772972c4b5d8dc162ef19afe6af93513ca89f7450"
+hash = "3dbb8897d523f38cd17cdb906581c3e3cb5ecf4db751ed68a5e3d25f04382241"
 metafile = true
 
 [[files]]
@@ -1232,7 +1232,7 @@ metafile = true
 
 [[files]]
 file = "mods/client/chat-heads.toml"
-hash = "2987d3381b26ba94b618236f9d5d81faf158b32e78d9ae43007c91b3a39f72a3"
+hash = "89696a7a382ded927af07c7744866a72e9200a720f197fd80a5b4e77e902bf27"
 metafile = true
 
 [[files]]
@@ -1247,7 +1247,7 @@ metafile = true
 
 [[files]]
 file = "mods/client/completeconfig.toml"
-hash = "471436b9f8ef87e96d25c54e1240f03483397638b07a10170654c619dcabf6c9"
+hash = "0af6caa043b4788af8670129badc20b194826a1d60eb41b2cd2ec8dc3b60b86d"
 metafile = true
 
 [[files]]
@@ -1312,7 +1312,7 @@ metafile = true
 
 [[files]]
 file = "mods/client/inventory-profiles-next.toml"
-hash = "fe22974639c5c440b43a16d8579234b43f0e5b88fb7b61407c2ae77178967c31"
+hash = "46757b861cda41e0a9654c3a0274d8d8be5371a6c5e06958d54fc566eea37f3e"
 metafile = true
 
 [[files]]
@@ -1332,7 +1332,7 @@ metafile = true
 
 [[files]]
 file = "mods/client/light-overlay.toml"
-hash = "30535de6b27edee888f404a58cd7a7e1f7370cc623424a18163645c5b56b57b9"
+hash = "2fc37843dc78d5e909f2bdab693f8f776ad6c276484d36bce59e103a135895d0"
 metafile = true
 
 [[files]]
@@ -1437,12 +1437,12 @@ metafile = true
 
 [[files]]
 file = "mods/client/xaeros-minimap-fair-play-edition.toml"
-hash = "95c57e6bbfa061106221e02c61817321f546f3795631b4be36d94dfe62f1c68f"
+hash = "55dce8d2c12c0b06f0a9c32f037da1796dd6e998bd8cd975605634a6d632875f"
 metafile = true
 
 [[files]]
 file = "mods/client/xaeros-world-map.toml"
-hash = "b46f4af2243af3107c78d82c813047dee277decfdf525b674fc0b2522f4d60ad"
+hash = "877a539931391606d262d3c7ad6f818605563fa6d29a4fa8e95582991660f8e4"
 metafile = true
 
 [[files]]
@@ -1517,12 +1517,12 @@ metafile = true
 
 [[files]]
 file = "mods/server/clumps.toml"
-hash = "f8d66cff4cfbd6c1ea9a79fc68f98f37d3654ffd4500110534f2b0bb3f6e2764"
+hash = "8359eecaa2036d2419e7b0a07b23727c925dc8453f42d5574e3700a8428ee7d9"
 metafile = true
 
 [[files]]
 file = "mods/server/collective-fabric.toml"
-hash = "aa9928876994a885961af3c113886addfac27e43d98aab60c36669cc2ad68286"
+hash = "4c25162d2d472b6d2ba43c184116dd7bc6ba1301e69d61888f842a9bccd8d156"
 metafile = true
 
 [[files]]
@@ -1617,7 +1617,7 @@ metafile = true
 
 [[files]]
 file = "mods/server/hat-command.toml"
-hash = "203b9f478871b467a18a531fc9e7067fec340fcefd4ccaf3bf246e8b8226e9c6"
+hash = "746e5ac590d1de15a5ad830b4940754b57bf8daf99237d0e39c37e488a16b532"
 metafile = true
 
 [[files]]
@@ -1706,8 +1706,13 @@ hash = "a8a1fdaf5208aafdbb7e753198bd04a77c3c1d34c660eefc8af4850ec4fc8f4a"
 metafile = true
 
 [[files]]
+file = "mods/server/reload-server-properties.toml"
+hash = "5d3f3b37f5fdf311cbc7fcc27a3d68a0e64a0c232f96b737e35c3073ee9b6512"
+metafile = true
+
+[[files]]
 file = "mods/server/repurposed-structures-fabric.toml"
-hash = "a7a3c1cbe25f442a505bc142da44e3fd2b709a421d61bd9585e74cbb341f1c68"
+hash = "eb00739dc75e620431d106d88ac0ac1e805c5ead8ef712d63e1a90579d9a15af"
 metafile = true
 
 [[files]]
@@ -1752,7 +1757,7 @@ metafile = true
 
 [[files]]
 file = "mods/server/styled-chat.toml"
-hash = "5649f15916a2839c9ed8e76cf7ae47a1a9dcfb4769a3e6bd1b4730e51c70de55"
+hash = "c5e8269d461e8adcdd0bc9b261b624163c263233892a6b110f7126c044b97018"
 metafile = true
 
 [[files]]
@@ -1762,7 +1767,7 @@ metafile = true
 
 [[files]]
 file = "mods/server/styledplayerlist.toml"
-hash = "3c990a350fd6c5f336a6c20e6af4e1f6f6e3c02b4808b3ebfc38773008385656"
+hash = "6b444376f80adc4beea9bb1dfd16b70fe38f50f37ad278fe70509f00f54d87b8"
 metafile = true
 
 [[files]]
@@ -1777,7 +1782,7 @@ metafile = true
 
 [[files]]
 file = "mods/server/universal-graves.toml"
-hash = "a9fce6f8053e7603e939c556b61ff53cc20497815bdf664830345cab8e8ce09a"
+hash = "30d71636ede4c776ada20fbab1c4756d5c9b1540fa0725e583d7062c5ca5573e"
 metafile = true
 
 [[files]]

@@ -1,13 +1,13 @@
 name = "Hat command"
-filename = "../hat-command-2.2.0.jar"
+filename = "../hat-command-2.2.1.jar"
 side = "server"
 
 [download]
-url = "https://edge.forgecdn.net/files/3490/678/hat-command-2.2.0.jar"
+url = "https://edge.forgecdn.net/files/3491/645/hat-command-2.2.1.jar"
 hash-format = "murmur2"
-hash = "3771539775"
+hash = "1681902420"
 
 [update]
 [update.curseforge]
-file-id = 3490678
+file-id = 3491645
 project-id = 533947

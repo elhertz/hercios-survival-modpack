@@ -1,0 +1,13 @@
+name = "Reload server.properties"
+filename = "../ServerPropertiesReload-Fabric-1.17.1+v1.0.0.jar"
+side = "server"
+
+[download]
+url = "https://edge.forgecdn.net/files/3494/246/ServerPropertiesReload-Fabric-1.17.1+v1.0.0.jar"
+hash-format = "murmur2"
+hash = "4206448866"
+
+[update]
+[update.curseforge]
+file-id = 3494246
+project-id = 537265
